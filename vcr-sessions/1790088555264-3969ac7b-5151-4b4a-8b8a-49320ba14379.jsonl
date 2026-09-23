@@ -1,3 +1,4 @@
 {"version":1,"courseId":"26FA-CSC-120-05","folder":".","startedAt":"2026-09-22T14:49:15.264Z","attemptId":"cb1478fe-52d9-4930-9e8c-57156ea454cc","segmentId":"aa582c35-0210-40af-8b1d-fb1e05d8d9a1","sourceWindowId":"34a666e1-d68d-49a1-bc6e-9cf360de1fde","seq":0,"ms":0,"op":"session"}
 {"branch":"main","commit":"7f9399015b16eebf9d25bddc9ac891e134220626","seq":1,"ms":-8,"op":"source.context"}
 {"executionId":"3dbf302c-d0de-4c04-a9f0-6088698d2b48","terminalId":"45295ef6-e601-43c7-8b9e-a230a589e97c","commandLine":"git remote add origin https://github.com/Vensip0605/26FA-CSC-120-05.git\ngit branch -M main\ngit push -u origin main","confidence":2,"path":".","doc":1,"seq":2,"ms":-8,"op":"terminal.start"}
+{"seq":3,"ms":99496491,"op":"end"}

@@ -1,3 +1,4 @@
 {"version":1,"courseId":"26FA-CSC-120-05","folder":"exercises/module_01","startedAt":"2026-09-22T14:48:56.387Z","attemptId":"9f9a4b99-e9e6-442e-9c41-520bfcfdb266","segmentId":"71e81975-8029-49cc-a004-5689666768e9","sourceWindowId":"34a666e1-d68d-49a1-bc6e-9cf360de1fde","seq":0,"ms":0,"op":"session"}
 {"branch":"main","commit":"7f9399015b16eebf9d25bddc9ac891e134220626","seq":1,"ms":-669,"op":"source.context"}
 {"text":"#include <iostream>\n\nusing namespace std;\n\nint main()\n{\n    cout << \"Hello, vensi!\" << endl;\n    return 0;\n}\n","version":1,"path":"welcome.cpp","snapshot":true,"doc":1,"seq":2,"ms":-669,"op":"snap"}
+{"seq":3,"ms":99515368,"op":"end"}
