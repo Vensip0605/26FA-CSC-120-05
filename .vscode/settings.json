@@ -3,5 +3,6 @@
         "**/vcr-course.json": true,
         "**/.gitkeep": true,
         "**/vcr-recording.json": true
-    }
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
