@@ -1,0 +1,8 @@
+{"version":1,"courseId":"26FA-CSC-120-05","folder":".","startedAt":"2026-09-24T13:20:52.148Z","attemptId":"cb1478fe-52d9-4930-9e8c-57156ea454cc","segmentId":"db075074-8fcb-4cf9-a8e1-6bd31320700e","sourceWindowId":"8d1eb722-22e0-4f9b-9bf8-540ec6407dc0","seq":0,"ms":0,"op":"session"}
+{"branch":"main","commit":"7f9399015b16eebf9d25bddc9ac891e134220626","seq":1,"ms":-2,"op":"source.context"}
+{"executionId":"cc3d2a0f-7a1c-40be-b1d3-3b2c3890e8dc","name":"C/C++: g++ build active file","type":"cppbuild","path":".","doc":1,"seq":2,"ms":-2,"op":"task.start"}
+{"executionId":"cc3d2a0f-7a1c-40be-b1d3-3b2c3890e8dc","processId":-1,"doc":1,"seq":3,"ms":45,"op":"task.processStart"}
+{"executionId":"cc3d2a0f-7a1c-40be-b1d3-3b2c3890e8dc","exitCode":0,"doc":1,"seq":4,"ms":603,"op":"task.processEnd"}
+{"executionId":"cc3d2a0f-7a1c-40be-b1d3-3b2c3890e8dc","doc":1,"seq":5,"ms":605,"op":"task.end"}
+{"executionId":"e89f9d8d-4914-4165-920d-fd3b78a70894","name":"C/C++: g++ build and debug active file","type":"cppdbg","noDebug":true,"doc":1,"seq":6,"ms":643,"op":"debug.start"}
+{"executionId":"e89f9d8d-4914-4165-920d-fd3b78a70894","doc":1,"seq":7,"ms":1183,"op":"debug.end"}
