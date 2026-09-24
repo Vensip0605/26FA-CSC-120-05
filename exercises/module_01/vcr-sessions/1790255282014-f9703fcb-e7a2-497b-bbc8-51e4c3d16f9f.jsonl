@@ -1,0 +1,16 @@
+{"version":1,"courseId":"26FA-CSC-120-05","folder":"exercises/module_01","startedAt":"2026-09-24T13:08:02.014Z","attemptId":"9f9a4b99-e9e6-442e-9c41-520bfcfdb266","segmentId":"6dc6a43f-a2ab-4f38-9815-bb3f5936e118","sourceWindowId":"8d1eb722-22e0-4f9b-9bf8-540ec6407dc0","seq":0,"ms":0,"op":"session"}
+{"branch":"main","commit":"7f9399015b16eebf9d25bddc9ac891e134220626","seq":1,"ms":-873,"op":"source.context"}
+{"text":"#include <iostream>\nusing namespace std;\nnum1\n    num2 \n    int\n    main()\n{\n    int num1 = 50;\n    int num2 = 100;\n    int total = num1 + num2;\n\n    cout << total << endl;\n    return 0;\n}\n","version":1,"path":"sum.cpp","snapshot":true,"doc":1,"seq":2,"ms":-873,"op":"snap"}
+{"version":2,"changes":[{"offset":64,"length":4,"text":""}],"doc":1,"seq":3,"ms":4394,"op":"edit"}
+{"version":3,"changes":[{"offset":63,"length":1,"text":""}],"doc":1,"seq":4,"ms":5054,"op":"edit"}
+{"version":4,"changes":[{"offset":63,"length":0,"text":" "}],"doc":1,"seq":5,"ms":6292,"op":"edit"}
+{"version":5,"changes":[{"offset":53,"length":1,"text":""}],"doc":1,"seq":6,"ms":11332,"op":"edit"}
+{"version":6,"changes":[{"offset":52,"length":1,"text":""}],"doc":1,"seq":7,"ms":11709,"op":"edit"}
+{"version":7,"changes":[{"offset":51,"length":1,"text":""}],"doc":1,"seq":8,"ms":12048,"op":"edit"}
+{"version":8,"changes":[{"offset":50,"length":1,"text":""}],"doc":1,"seq":9,"ms":12382,"op":"edit"}
+{"version":9,"changes":[{"offset":46,"length":4,"text":""}],"doc":1,"seq":10,"ms":12737,"op":"edit"}
+{"version":10,"changes":[{"offset":45,"length":1,"text":""}],"doc":1,"seq":11,"ms":13120,"op":"edit"}
+{"version":11,"changes":[{"offset":44,"length":1,"text":""}],"doc":1,"seq":12,"ms":13612,"op":"edit"}
+{"version":12,"changes":[{"offset":43,"length":1,"text":""}],"doc":1,"seq":13,"ms":14092,"op":"edit"}
+{"version":13,"changes":[{"offset":42,"length":1,"text":""}],"doc":1,"seq":14,"ms":14523,"op":"edit"}
+{"version":14,"changes":[{"offset":41,"length":1,"text":""}],"doc":1,"seq":15,"ms":15083,"op":"edit"}
