@@ -1,3 +1,18 @@
 {"version":1,"courseId":"26FA-CSC-120-05","folder":"exercises/module_01","startedAt":"2026-09-24T12:47:16.995Z","attemptId":"9f9a4b99-e9e6-442e-9c41-520bfcfdb266","segmentId":"5b7cddae-1ed6-4d5f-9d54-04858259b5db","sourceWindowId":"97ccdbd1-e22a-480a-a6da-94f4ee9a757c","seq":0,"ms":0,"op":"session"}
 {"branch":"main","commit":"7f9399015b16eebf9d25bddc9ac891e134220626","seq":1,"ms":-818,"op":"source.context"}
 {"text":"#include <iostream>\nusing namespace std;\n\nint main()\n{\n    int num1 = 50;\n    int num2 = 100;\n    int total = num1 + num2;\n\n    cout << \"The total is \" << total << endl;\n\n    return 0;\n}\n","version":1,"path":"sum.cpp","snapshot":true,"doc":1,"seq":2,"ms":-818,"op":"snap"}
+{"version":2,"changes":[{"offset":59,"length":3,"text":" "}],"doc":1,"seq":3,"ms":78539,"op":"edit"}
+{"version":3,"changes":[{"offset":78,"length":1,"text":""}],"doc":1,"seq":4,"ms":80988,"op":"edit"}
+{"version":4,"changes":[{"offset":77,"length":1,"text":""}],"doc":1,"seq":5,"ms":81376,"op":"edit"}
+{"version":5,"changes":[{"offset":76,"length":1,"text":""}],"doc":1,"seq":6,"ms":81691,"op":"edit"}
+{"version":6,"changes":[{"offset":95,"length":1,"text":""}],"doc":1,"seq":7,"ms":88339,"op":"edit"}
+{"version":7,"changes":[{"offset":94,"length":1,"text":""}],"doc":1,"seq":8,"ms":88751,"op":"edit"}
+{"version":8,"changes":[{"offset":93,"length":1,"text":""}],"doc":1,"seq":9,"ms":89161,"op":"edit"}
+{"version":9,"changes":[{"offset":140,"length":1,"text":""}],"doc":1,"seq":10,"ms":117415,"op":"edit"}
+{"version":10,"changes":[{"offset":139,"length":1,"text":""}],"doc":1,"seq":11,"ms":117919,"op":"edit"}
+{"version":11,"changes":[{"offset":138,"length":1,"text":""}],"doc":1,"seq":12,"ms":118002,"op":"edit"}
+{"version":12,"changes":[{"offset":137,"length":1,"text":""}],"doc":1,"seq":13,"ms":118085,"op":"edit"}
+{"version":13,"changes":[{"offset":136,"length":1,"text":""}],"doc":1,"seq":14,"ms":118166,"op":"edit"}
+{"version":14,"changes":[{"offset":135,"length":1,"text":""}],"doc":1,"seq":15,"ms":118251,"op":"edit"}
+{"version":15,"changes":[{"offset":134,"length":1,"text":""}],"doc":1,"seq":16,"ms":118564,"op":"edit"}
+{"version":16,"changes":[{"offset":133,"length":1,"text":""}],"doc":1,"seq":17,"ms":119164,"op":"edit"}
