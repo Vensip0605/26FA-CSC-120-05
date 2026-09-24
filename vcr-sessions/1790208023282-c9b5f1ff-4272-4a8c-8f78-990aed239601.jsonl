@@ -14,3 +14,8 @@
 {"executionId":"6c925dc4-dbcb-43d4-b76d-3c34bc92971a","processId":-1,"doc":1,"seq":13,"ms":148139,"op":"task.processStart"}
 {"executionId":"6c925dc4-dbcb-43d4-b76d-3c34bc92971a","exitCode":-1,"doc":1,"seq":14,"ms":148397,"op":"task.processEnd"}
 {"executionId":"6c925dc4-dbcb-43d4-b76d-3c34bc92971a","doc":1,"seq":15,"ms":148398,"op":"task.end"}
+{"text":"{\n    \"files.exclude\": {\n        \"**/vcr-course.json\": true,\n        \"**/.gitkeep\": true,\n        \"**/vcr-recording.json\": true\n    }\n}","version":1,"path":".vscode/settings.json","snapshot":true,"doc":3,"seq":16,"ms":157770,"op":"snap"}
+{"version":2,"changes":[{"offset":128,"length":5,"text":"    },\n    \"C_Cpp.errorSquiggles\": \"disabled\""}],"doc":3,"seq":17,"ms":157771,"op":"edit"}
+{"version":3,"changes":[{"offset":175,"length":0,"text":"\n"}],"doc":3,"seq":18,"ms":157773,"op":"edit"}
+{"doc":3,"seq":19,"ms":157783,"op":"save"}
+{"doc":3,"seq":20,"ms":157783,"op":"close"}
