@@ -4,8 +4,8 @@ using namespace std;
 
 int main()
 {
-    int num1;
-    cout << "enter first number";
-    cin >> num1;
+    double i, p;
+    cout << "enter principal :";
+    cin >> p;
     return 0;
 }
