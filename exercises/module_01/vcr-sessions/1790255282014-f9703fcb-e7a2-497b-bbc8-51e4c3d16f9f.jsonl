@@ -17,3 +17,4 @@
 {"doc":1,"seq":16,"ms":200044,"op":"close"}
 {"text":"#include <iostream>\nusing namespace std;\n \n    int main()\n{\n    int num1 = 50;\n    int num2 = 100;\n    int total = num1 + num2;\n\n    cout << total << endl;\n    return 0;\n}\n","version":1,"path":"module_02/sum.cpp","snapshot":true,"doc":2,"seq":17,"ms":200065,"op":"snap"}
 {"source":"workspace","operationId":"0cf8d815-a372-46b3-aa52-03e69554a096","doc":1,"seq":18,"ms":200066,"op":"fs.moveFrom"}
+{"seq":19,"ms":433156277,"op":"end"}
