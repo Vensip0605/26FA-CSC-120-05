@@ -1,0 +1,9 @@
+{"version":1,"courseId":"26FA-CSC-120-05","folder":".","startedAt":"2026-09-30T23:23:18.400Z","attemptId":"cb1478fe-52d9-4930-9e8c-57156ea454cc","segmentId":"1aa798e0-cfa4-4e5a-b3ac-9cf225346e2e","sourceWindowId":"0f8ad632-a486-4180-a1fc-e9bcd6160c6d","seq":0,"ms":0,"op":"session"}
+{"branch":"main","commit":"bbd40f071f81e378e670bc3de2dab0a5acdc6b39","seq":1,"ms":-1223,"op":"source.context"}
+{"text":"#include <iostream>\n\nusing namespace std;\n\nint main()\n{\n    double totalsales;\n    double eastcoastpercentage;\n    cout << \"Enter the total annual sales:\";\n    cin >> totalsales;\n    cout << \"Enter the percentage of sales from the East Coast division:\";\n    cin >> eastcoastpercentage;\n    double divisionsales = totalsales * (eastcoastpercentage / 100);\n    cout << \" East Coast Division Sales : $\" << divisionsales << endl;\n\n    return 0;\n}\n","version":1,"path":"assignments/sales.cpp","snapshot":true,"doc":1,"seq":2,"ms":-1223,"op":"snap"}
+{"executionId":"c4981151-25b2-45cd-90ef-455812ec0225","name":"C/C++: g++ build active file","type":"cppbuild","path":".","doc":2,"seq":3,"ms":44673,"op":"task.start"}
+{"executionId":"c4981151-25b2-45cd-90ef-455812ec0225","processId":-1,"doc":2,"seq":4,"ms":44725,"op":"task.processStart"}
+{"executionId":"c4981151-25b2-45cd-90ef-455812ec0225","exitCode":0,"doc":2,"seq":5,"ms":45409,"op":"task.processEnd"}
+{"executionId":"c4981151-25b2-45cd-90ef-455812ec0225","doc":2,"seq":6,"ms":45411,"op":"task.end"}
+{"executionId":"a194b124-9d01-4d0c-90f4-f865d93db71c","name":"C/C++: g++ build and debug active file","type":"cppdbg","noDebug":true,"doc":2,"seq":7,"ms":45449,"op":"debug.start"}
+{"executionId":"a194b124-9d01-4d0c-90f4-f865d93db71c","doc":2,"seq":8,"ms":56360,"op":"debug.end"}
