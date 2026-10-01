@@ -1,3 +1,4 @@
 {"version":1,"courseId":"26FA-CSC-120-05","folder":"assignments/assignment_01","startedAt":"2026-10-01T13:08:55.167Z","attemptId":"9a73708e-c90b-4431-9b70-1543cbd18d83","segmentId":"08c71b08-6703-4340-a479-aed82c9ba93f","sourceWindowId":"b3322961-0ed4-4783-8cb8-628797df46ef","seq":0,"ms":0,"op":"session"}
 {"branch":"main","commit":"d33dad792bf8bf8f82169b952d0eca6fc651ec69","seq":1,"ms":-534,"op":"source.context"}
 {"text":"#include <iostream>\n\nusing namespace std;\n\nint main()\n{\n    int num1;\n    cout << \"Enter the first number:\";\n    cin >> num1;\n    int num2;\n    cout << \"Enter the second number:\";\n    cin >> num2;\n    int total = num1 + num2;\n    cout << \" The sum of \" << num1 << \" and \" << num2 << \" is \" << total << \".\" << endl;\n    return 0;\n}\n","version":1,"path":"sum.cpp","snapshot":true,"doc":1,"seq":2,"ms":-534,"op":"snap"}
+{"seq":3,"ms":5725678,"op":"end"}
