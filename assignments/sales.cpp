@@ -11,7 +11,7 @@ int main()
     cout << "Enter the percentage of sales from the East Coast division:";
     cin >> eastcoastpercentage;
     double divisionsales = totalsales * (eastcoastpercentage / 100);
-    cout << " East Coast Division Sales : $" << divisionsales << endl;
+    cout << " East Coast Division Sales : $ " << divisionsales << endl;
 
     return 0;
 }
