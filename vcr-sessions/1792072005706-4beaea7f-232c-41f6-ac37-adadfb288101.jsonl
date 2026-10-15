@@ -1,3 +1,19 @@
 {"version":1,"courseId":"26FA-CSC-120-05","folder":".","startedAt":"2026-10-15T13:46:45.706Z","attemptId":"cb1478fe-52d9-4930-9e8c-57156ea454cc","segmentId":"15e4ceaf-cd13-4270-a56e-e656ce673e96","sourceWindowId":"a916f839-c7a6-407e-b3dc-83785bde661c","seq":0,"ms":0,"op":"session"}
 {"branch":"main","commit":"29eea0130c6447f6f47a7541875fb0d408549e3d","seq":1,"ms":-1249,"op":"source.context"}
 {"text":"#include <iostream>\n\nusing namespace std;\n\nint main()\n{\n    cout << \"Customer Support Menu\\n\";\n    cout << \"_____________\\n\";\n    cout << \"1. billing\\n\";\n    cout << \"2. technical support\\n\";\n    cout << \"3. acoount management\\n\";\n    cout << \"4. exit\\n\";\n\n    int choice;\n    cin >> choice;\n\n    if (choice < 1 || choice > 4)\n    {\n        cout << \"Invalid menu option. please restart the program.\" << endl;\n    }\n    else if (choice == 4)\n    {\n        cout << \"Exiting program. Goodbye!\" << endl;\n    }\n    else\n    {\n        if (choice == 1)\n        {\n            cout << \"You selected Billing. please wait while we connect you.\" << endl;\n        }\n        else if (choice == 2)\n        {\n            cout << \"You selected Technical Support. our specialists are avaliable 24/7.\" << endl;\n        }\n        else if (choice == 3)\n        {\n            cout << \"You selected Account Management.we'll help you update your information.\" << endl;\n        }\n        cout << \"Would you like to speak to a live agent? (Y/N):\";\n        char liveAgentChoice = \"\";\n        cin >> liveAgentChoice;\n        if (liveAgentChoice 'Y' || liveAgentChoice = 'Y')\n        {\n            cout « \"Connecting you to a live agent...\" « endl;\n         } else if (liveAgentChoice == \"N' || liveAgentChoice == \"n') {\n            cout « \"Thank you for using our automated assistant.\" « endl;\n         } else\n         cout « \"Invalid input. Please restart the program.\" « endl;\n         }\n     }\n}\n","version":1,"path":"exercises/module_03/assistant.2cpp","snapshot":true,"doc":1,"seq":2,"ms":-1249,"op":"snap"}
+{"version":2,"changes":[{"offset":271,"length":0,"text":" "}],"doc":1,"seq":3,"ms":69034,"op":"edit"}
+{"version":3,"changes":[{"offset":272,"length":0,"text":"="}],"doc":1,"seq":4,"ms":70066,"op":"edit"}
+{"version":4,"changes":[{"offset":273,"length":0,"text":" "}],"doc":1,"seq":5,"ms":70974,"op":"edit"}
+{"version":5,"changes":[{"offset":274,"length":0,"text":"0"}],"doc":1,"seq":6,"ms":71376,"op":"edit"}
+{"version":6,"changes":[{"offset":429,"length":1,"text":""}],"doc":1,"seq":7,"ms":89794,"op":"edit"}
+{"version":7,"changes":[{"offset":428,"length":1,"text":""}],"doc":1,"seq":8,"ms":90295,"op":"edit"}
+{"version":8,"changes":[{"offset":428,"length":0,"text":" "}],"doc":1,"seq":9,"ms":91593,"op":"edit"}
+{"version":9,"changes":[{"offset":429,"length":0,"text":"s"}],"doc":1,"seq":10,"ms":93093,"op":"edit"}
+{"version":10,"changes":[{"offset":430,"length":0,"text":"w"}],"doc":1,"seq":11,"ms":94095,"op":"edit"}
+{"version":11,"changes":[{"offset":431,"length":0,"text":"i"}],"doc":1,"seq":12,"ms":94618,"op":"edit"}
+{"version":12,"changes":[{"offset":432,"length":0,"text":"t"}],"doc":1,"seq":13,"ms":95027,"op":"edit"}
+{"version":13,"changes":[{"offset":433,"length":0,"text":"c"}],"doc":1,"seq":14,"ms":95426,"op":"edit"}
+{"version":14,"changes":[{"offset":434,"length":0,"text":"h"}],"doc":1,"seq":15,"ms":96176,"op":"edit"}
+{"version":15,"changes":[{"offset":429,"length":0,"text":"{"}],"doc":1,"seq":16,"ms":102816,"op":"edit"}
+{"version":16,"changes":[{"offset":450,"length":0,"text":" "}],"doc":1,"seq":17,"ms":117109,"op":"edit"}
+{"version":17,"changes":[{"offset":451,"length":0,"text":"{}"}],"doc":1,"seq":18,"ms":118626,"op":"edit"}
