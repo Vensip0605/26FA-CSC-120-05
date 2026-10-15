@@ -317,3 +317,49 @@
 {"executionId":"7c396085-cd98-4d09-b3be-2129e29be058","exitCode":0,"doc":3,"seq":316,"ms":775906,"op":"task.processEnd"}
 {"executionId":"7c396085-cd98-4d09-b3be-2129e29be058","doc":3,"seq":317,"ms":775908,"op":"task.end"}
 {"executionId":"0fd5dd6e-c437-43f5-a782-74ccda59366c","name":"C/C++: g++ build and debug active file","type":"cppdbg","noDebug":true,"doc":3,"seq":318,"ms":775949,"op":"debug.start"}
+{"executionId":"0fd5dd6e-c437-43f5-a782-74ccda59366c","doc":3,"seq":319,"ms":783139,"op":"debug.end"}
+{"executionId":"b5415e36-2d49-4b87-99b5-6f31331aa505","name":"C/C++: g++ build active file","type":"cppbuild","doc":3,"seq":320,"ms":783514,"op":"task.start"}
+{"executionId":"b5415e36-2d49-4b87-99b5-6f31331aa505","processId":-1,"doc":3,"seq":321,"ms":783518,"op":"task.processStart"}
+{"executionId":"b5415e36-2d49-4b87-99b5-6f31331aa505","exitCode":0,"doc":3,"seq":322,"ms":783932,"op":"task.processEnd"}
+{"executionId":"b5415e36-2d49-4b87-99b5-6f31331aa505","doc":3,"seq":323,"ms":783933,"op":"task.end"}
+{"executionId":"0fd5dd6e-c437-43f5-a782-74ccda59366c","name":"C/C++: g++ build and debug active file","type":"cppdbg","noDebug":true,"doc":3,"seq":324,"ms":783941,"op":"debug.start"}
+{"executionId":"15a881eb-ac32-4c92-ade2-ea16b04f4e99","terminalId":"c243ec2b-2581-4f12-b036-ba5117224dcd","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/assignments/assignment_02/student","confidence":2,"path":"assignments/assignment_02","doc":5,"seq":325,"ms":784101,"op":"terminal.start"}
+{"executionId":"15a881eb-ac32-4c92-ade2-ea16b04f4e99","terminalId":"c243ec2b-2581-4f12-b036-ba5117224dcd","data":"\u001b]633;C\u0007","doc":5,"seq":326,"ms":784152,"op":"terminal.output"}
+{"executionId":"15a881eb-ac32-4c92-ade2-ea16b04f4e99","terminalId":"c243ec2b-2581-4f12-b036-ba5117224dcd","data":"Enter GPA: ","doc":5,"seq":327,"ms":784389,"op":"terminal.output"}
+{"executionId":"0fd5dd6e-c437-43f5-a782-74ccda59366c","doc":3,"seq":328,"ms":787005,"op":"debug.end"}
+{"executionId":"18640c1e-1703-491a-86a4-76c470625d8c","name":"C/C++: g++ build active file","type":"cppbuild","doc":3,"seq":329,"ms":787372,"op":"task.start"}
+{"executionId":"18640c1e-1703-491a-86a4-76c470625d8c","processId":-1,"doc":3,"seq":330,"ms":787375,"op":"task.processStart"}
+{"executionId":"18640c1e-1703-491a-86a4-76c470625d8c","exitCode":0,"doc":3,"seq":331,"ms":787783,"op":"task.processEnd"}
+{"executionId":"18640c1e-1703-491a-86a4-76c470625d8c","doc":3,"seq":332,"ms":787785,"op":"task.end"}
+{"executionId":"0fd5dd6e-c437-43f5-a782-74ccda59366c","name":"C/C++: g++ build and debug active file","type":"cppdbg","noDebug":true,"doc":3,"seq":333,"ms":787794,"op":"debug.start"}
+{"executionId":"15a881eb-ac32-4c92-ade2-ea16b04f4e99","terminalId":"c243ec2b-2581-4f12-b036-ba5117224dcd","data":"^C\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                           \r \r","doc":5,"seq":334,"ms":787801,"op":"terminal.output"}
+{"executionId":"15a881eb-ac32-4c92-ade2-ea16b04f4e99","terminalId":"c243ec2b-2581-4f12-b036-ba5117224dcd","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/assignments/assignment_02/student","confidence":2,"exitCode":130,"doc":5,"seq":335,"ms":787801,"op":"terminal.end"}
+{"executionId":"dbaf81e7-f3c7-4bc1-a159-9d10908bf024","terminalId":"c243ec2b-2581-4f12-b036-ba5117224dcd","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/assignments/assignment_02/student","confidence":2,"doc":5,"seq":336,"ms":787953,"op":"terminal.start"}
+{"executionId":"dbaf81e7-f3c7-4bc1-a159-9d10908bf024","terminalId":"c243ec2b-2581-4f12-b036-ba5117224dcd","data":"\u001b]633;C\u0007","doc":5,"seq":337,"ms":788003,"op":"terminal.output"}
+{"executionId":"dbaf81e7-f3c7-4bc1-a159-9d10908bf024","terminalId":"c243ec2b-2581-4f12-b036-ba5117224dcd","data":"Enter GPA: ","doc":5,"seq":338,"ms":788244,"op":"terminal.output"}
+{"executionId":"0fd5dd6e-c437-43f5-a782-74ccda59366c","doc":3,"seq":339,"ms":789190,"op":"debug.end"}
+{"executionId":"0b62d73b-18c4-40e6-95eb-2d604e36b1c9","name":"C/C++: g++ build active file","type":"cppbuild","doc":3,"seq":340,"ms":789563,"op":"task.start"}
+{"executionId":"0b62d73b-18c4-40e6-95eb-2d604e36b1c9","processId":-1,"doc":3,"seq":341,"ms":789566,"op":"task.processStart"}
+{"executionId":"0b62d73b-18c4-40e6-95eb-2d604e36b1c9","exitCode":0,"doc":3,"seq":342,"ms":789968,"op":"task.processEnd"}
+{"executionId":"0b62d73b-18c4-40e6-95eb-2d604e36b1c9","doc":3,"seq":343,"ms":789970,"op":"task.end"}
+{"executionId":"0fd5dd6e-c437-43f5-a782-74ccda59366c","name":"C/C++: g++ build and debug active file","type":"cppdbg","noDebug":true,"doc":3,"seq":344,"ms":789976,"op":"debug.start"}
+{"executionId":"dbaf81e7-f3c7-4bc1-a159-9d10908bf024","terminalId":"c243ec2b-2581-4f12-b036-ba5117224dcd","data":"^C\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                           \r \r","doc":5,"seq":345,"ms":789983,"op":"terminal.output"}
+{"executionId":"dbaf81e7-f3c7-4bc1-a159-9d10908bf024","terminalId":"c243ec2b-2581-4f12-b036-ba5117224dcd","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/assignments/assignment_02/student","confidence":2,"exitCode":130,"doc":5,"seq":346,"ms":789983,"op":"terminal.end"}
+{"executionId":"fea5aab0-a052-42de-8462-aea5550b21eb","terminalId":"c243ec2b-2581-4f12-b036-ba5117224dcd","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/assignments/assignment_02/student","confidence":2,"doc":5,"seq":347,"ms":790134,"op":"terminal.start"}
+{"executionId":"fea5aab0-a052-42de-8462-aea5550b21eb","terminalId":"c243ec2b-2581-4f12-b036-ba5117224dcd","data":"\u001b]633;C\u0007","doc":5,"seq":348,"ms":790185,"op":"terminal.output"}
+{"executionId":"fea5aab0-a052-42de-8462-aea5550b21eb","terminalId":"c243ec2b-2581-4f12-b036-ba5117224dcd","data":"Enter GPA: ","doc":5,"seq":349,"ms":790421,"op":"terminal.output"}
+{"executionId":"0fd5dd6e-c437-43f5-a782-74ccda59366c","doc":3,"seq":350,"ms":791036,"op":"debug.end"}
+{"version":306,"changes":[{"offset":1048,"length":0,"text":" "}],"doc":1,"seq":351,"ms":823336,"op":"edit"}
+{"version":307,"changes":[{"offset":1049,"length":0,"text":"&"}],"doc":1,"seq":352,"ms":826714,"op":"edit"}
+{"version":308,"changes":[{"offset":1050,"length":0,"text":"&"}],"doc":1,"seq":353,"ms":826924,"op":"edit"}
+{"version":309,"changes":[{"offset":1051,"length":0,"text":" "}],"doc":1,"seq":354,"ms":827563,"op":"edit"}
+{"version":310,"changes":[{"offset":1052,"length":0,"text":"c"}],"doc":1,"seq":355,"ms":830516,"op":"edit"}
+{"version":311,"changes":[{"offset":1053,"length":0,"text":"h"}],"doc":1,"seq":356,"ms":830846,"op":"edit"}
+{"version":312,"changes":[{"offset":1054,"length":0,"text":"o"}],"doc":1,"seq":357,"ms":831279,"op":"edit"}
+{"version":313,"changes":[{"offset":1055,"length":0,"text":"i"}],"doc":1,"seq":358,"ms":831638,"op":"edit"}
+{"version":314,"changes":[{"offset":1056,"length":0,"text":"c"}],"doc":1,"seq":359,"ms":832014,"op":"edit"}
+{"version":315,"changes":[{"offset":1057,"length":0,"text":"e"}],"doc":1,"seq":360,"ms":832349,"op":"edit"}
+{"version":316,"changes":[{"offset":1058,"length":0,"text":" "}],"doc":1,"seq":361,"ms":834168,"op":"edit"}
+{"version":317,"changes":[{"offset":1059,"length":0,"text":"<"}],"doc":1,"seq":362,"ms":835514,"op":"edit"}
+{"version":318,"changes":[{"offset":1060,"length":0,"text":"="}],"doc":1,"seq":363,"ms":836246,"op":"edit"}
+{"version":319,"changes":[{"offset":1061,"length":0,"text":" "}],"doc":1,"seq":364,"ms":837046,"op":"edit"}
