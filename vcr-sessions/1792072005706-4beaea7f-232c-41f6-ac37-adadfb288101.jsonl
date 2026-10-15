@@ -427,3 +427,11 @@
 {"version":381,"changes":[{"offset":1126,"length":0,"text":" "}],"doc":1,"seq":426,"ms":894031,"op":"edit"}
 {"version":382,"changes":[{"offset":1127,"length":0,"text":"()"}],"doc":1,"seq":427,"ms":896844,"op":"edit"}
 {"version":383,"changes":[{"offset":1128,"length":0,"text":"y"}],"doc":1,"seq":428,"ms":898310,"op":"edit"}
+{"version":384,"changes":[{"offset":1129,"length":0,"text":"/"}],"doc":1,"seq":429,"ms":899079,"op":"edit"}
+{"version":385,"changes":[{"offset":1130,"length":0,"text":"n"}],"doc":1,"seq":430,"ms":899744,"op":"edit"}
+{"version":386,"changes":[{"offset":1132,"length":0,"text":":"}],"doc":1,"seq":431,"ms":905145,"op":"edit"}
+{"version":387,"changes":[{"offset":1133,"length":0,"text":"\""}],"doc":1,"seq":432,"ms":907486,"op":"edit"}
+{"version":388,"changes":[{"offset":1134,"length":0,"text":";"}],"doc":1,"seq":433,"ms":908932,"op":"edit"}
+{"version":389,"changes":[{"offset":1141,"length":0,"text":"\n    "}],"doc":1,"seq":434,"ms":915388,"op":"edit"}
+{"version":390,"changes":[{"offset":1142,"length":4,"text":"}"}],"doc":1,"seq":435,"ms":920555,"op":"edit"}
+{"text":"","version":1,"path":"exercises/module_03/Temperature.cpp","snapshot":true,"doc":6,"seq":436,"ms":933576,"op":"snap"}
