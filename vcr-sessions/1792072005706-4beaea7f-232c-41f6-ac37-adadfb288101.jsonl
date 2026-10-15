@@ -286,3 +286,34 @@
 {"version":283,"changes":[{"offset":1022,"length":1,"text":""}],"doc":1,"seq":285,"ms":661422,"op":"edit"}
 {"version":284,"changes":[{"offset":430,"length":0,"text":"\n        "}],"doc":1,"seq":286,"ms":701959,"op":"edit"}
 {"version":285,"changes":[{"offset":1031,"length":1,"text":""}],"doc":1,"seq":287,"ms":716020,"op":"edit"}
+{"version":286,"changes":[{"offset":1032,"length":0,"text":" "}],"doc":1,"seq":288,"ms":723908,"op":"edit"}
+{"version":287,"changes":[{"offset":1033,"length":0,"text":"\n    "}],"doc":1,"seq":289,"ms":728450,"op":"edit"}
+{"version":288,"changes":[{"offset":1038,"length":0,"text":"i"}],"doc":1,"seq":290,"ms":729457,"op":"edit"}
+{"version":289,"changes":[{"offset":1039,"length":0,"text":"f"}],"doc":1,"seq":291,"ms":729870,"op":"edit"}
+{"version":290,"changes":[{"offset":1040,"length":0,"text":" "}],"doc":1,"seq":292,"ms":730274,"op":"edit"}
+{"version":291,"changes":[{"offset":1041,"length":0,"text":"()"}],"doc":1,"seq":293,"ms":731997,"op":"edit"}
+{"version":292,"changes":[{"offset":1042,"length":0,"text":"c"}],"doc":1,"seq":294,"ms":733164,"op":"edit"}
+{"version":293,"changes":[{"offset":1043,"length":0,"text":"j"}],"doc":1,"seq":295,"ms":733630,"op":"edit"}
+{"version":294,"changes":[{"offset":1043,"length":1,"text":""}],"doc":1,"seq":296,"ms":734796,"op":"edit"}
+{"version":295,"changes":[{"offset":1043,"length":0,"text":"h"}],"doc":1,"seq":297,"ms":735502,"op":"edit"}
+{"version":296,"changes":[{"offset":1044,"length":0,"text":"o"}],"doc":1,"seq":298,"ms":735930,"op":"edit"}
+{"version":297,"changes":[{"offset":1045,"length":0,"text":"i"}],"doc":1,"seq":299,"ms":736246,"op":"edit"}
+{"version":298,"changes":[{"offset":1046,"length":0,"text":"c"}],"doc":1,"seq":300,"ms":738780,"op":"edit"}
+{"version":299,"changes":[{"offset":1047,"length":0,"text":"e"}],"doc":1,"seq":301,"ms":739180,"op":"edit"}
+{"version":300,"changes":[{"offset":1048,"length":0,"text":" "}],"doc":1,"seq":302,"ms":740098,"op":"edit"}
+{"text":"#include <iostream>\n\nusing namespace std;\n\nint main()\n{\n    cout << \"Customer Support Menu\\n\";\n    cout << \"_____________\\n\";\n    cout << \"1. billing\\n\";\n    cout << \"2. technical support\\n\";\n    cout << \"3. acoount management\\n\";\n    cout << \"4. exit\\n\";\n\n    int choice = 0;\n    cin >> choice;\n\n    if (choice < 1 || choice > 4)\n    {\n        cout << \"Invalid menu option. please restart the program.\" << endl;\n    }\n    else  {\n        switch (choice == 4) {\n    \n        case 1:\n            cout << \"You selected Billing. please wait while we connect you.\\n\";\n            break;\n        case 2:\n            cout << \"You selected Technical Support. our specialists are avaliable 24/7.\\n\";\n            break;\n        case 3:\n            cout << \"You selected Account Management.we'll help you update your information.\\n\";\n            break;\n        case 4:\n            cout << \"Exiting program. Goodbye!\\n\";\n            break;\n        defult :\n           cout << \"Invalid menu option.please restart the program.\\n\"\n        }\n    } \n    if (choice >)\n         \n","version":301,"snapshot":true,"doc":1,"seq":303,"ms":742298,"op":"edit"}
+{"version":302,"changes":[{"offset":1050,"length":0,"text":"="}],"doc":1,"seq":304,"ms":743306,"op":"edit"}
+{"version":303,"changes":[{"offset":1051,"length":0,"text":" "}],"doc":1,"seq":305,"ms":744351,"op":"edit"}
+{"version":304,"changes":[{"offset":1052,"length":0,"text":"1"}],"doc":1,"seq":306,"ms":745957,"op":"edit"}
+{"version":305,"changes":[{"offset":1055,"length":9,"text":""},{"offset":1032,"length":1,"text":""},{"offset":462,"length":4,"text":""}],"doc":1,"seq":307,"ms":767995,"op":"edit"}
+{"doc":1,"seq":308,"ms":768007,"op":"save"}
+{"executionId":"d5b9244f-c24a-4974-8d58-9854c876e2bb","name":"C/C++: g++ build active file","type":"cppbuild","path":".","doc":3,"seq":309,"ms":768214,"op":"task.start"}
+{"executionId":"d5b9244f-c24a-4974-8d58-9854c876e2bb","processId":-1,"doc":3,"seq":310,"ms":768251,"op":"task.processStart"}
+{"executionId":"d5b9244f-c24a-4974-8d58-9854c876e2bb","exitCode":-1,"doc":3,"seq":311,"ms":768572,"op":"task.processEnd"}
+{"executionId":"d5b9244f-c24a-4974-8d58-9854c876e2bb","doc":3,"seq":312,"ms":768574,"op":"task.end"}
+{"text":"#include <iostream>\n\nusing namespace std;\n\nint main()\n{\n    double gpa;\n    cout << \"Enter GPA: \";\n    cin >> gpa;\n    int extracurricular;\n    cout << \"Do you participate in extracurricular activities? (1=yes, 0=no): \";\n    cin >> extracurricular;\n    int credits;\n    cout << \"Enter completed credit hours: \";\n    cin >> credits;\n    if (gpa >= 3.5 && credits >= 30)\n    {\n        cout << \"Congratulations! You are fully eligible for the scholarship.\" << endl;\n    }\n    else if (gpa >= 2.5 && extracurricular == 1)\n    {\n        cout << \"You are conditionally eligible for the scholarship.\" << endl;\n    }\n    else\n    {\n        cout << \"Sorry, you are not eligible for the scholarship.\" << endl;\n    }\n}\n","version":1,"path":"assignments/assignment_02/student.cpp","snapshot":true,"doc":4,"seq":313,"ms":773542,"op":"snap"}
+{"executionId":"7c396085-cd98-4d09-b3be-2129e29be058","name":"C/C++: g++ build active file","type":"cppbuild","doc":3,"seq":314,"ms":775265,"op":"task.start"}
+{"executionId":"7c396085-cd98-4d09-b3be-2129e29be058","processId":-1,"doc":3,"seq":315,"ms":775266,"op":"task.processStart"}
+{"executionId":"7c396085-cd98-4d09-b3be-2129e29be058","exitCode":0,"doc":3,"seq":316,"ms":775906,"op":"task.processEnd"}
+{"executionId":"7c396085-cd98-4d09-b3be-2129e29be058","doc":3,"seq":317,"ms":775908,"op":"task.end"}
+{"executionId":"0fd5dd6e-c437-43f5-a782-74ccda59366c","name":"C/C++: g++ build and debug active file","type":"cppdbg","noDebug":true,"doc":3,"seq":318,"ms":775949,"op":"debug.start"}
