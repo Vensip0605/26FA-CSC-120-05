@@ -95,3 +95,16 @@
 {"version":93,"changes":[{"offset":682,"length":0,"text":" "}],"doc":1,"seq":94,"ms":228577,"op":"edit"}
 {"version":94,"changes":[{"offset":683,"length":0,"text":"3"}],"doc":1,"seq":95,"ms":229535,"op":"edit"}
 {"version":95,"changes":[{"offset":684,"length":0,"text":":"}],"doc":1,"seq":96,"ms":231587,"op":"edit"}
+{"version":96,"changes":[{"offset":659,"length":9,"text":" "}],"doc":1,"seq":97,"ms":264206,"op":"edit"}
+{"version":97,"changes":[{"offset":659,"length":1,"text":""}],"doc":1,"seq":98,"ms":265079,"op":"edit"}
+{"version":98,"changes":[{"offset":659,"length":0,"text":"\\"}],"doc":1,"seq":99,"ms":268255,"op":"edit"}
+{"version":99,"changes":[{"offset":660,"length":0,"text":"n"}],"doc":1,"seq":100,"ms":268859,"op":"edit"}
+{"version":100,"changes":[{"offset":661,"length":0,"text":"\""}],"doc":1,"seq":101,"ms":270929,"op":"edit"}
+{"text":"#include <iostream>\n\nusing namespace std;\n\nint main()\n{\n    cout << \"Customer Support Menu\\n\";\n    cout << \"_____________\\n\";\n    cout << \"1. billing\\n\";\n    cout << \"2. technical support\\n\";\n    cout << \"3. acoount management\\n\";\n    cout << \"4. exit\\n\";\n\n    int choice = 0;\n    cin >> choice;\n\n    if (choice < 1 || choice > 4)\n    {\n        cout << \"Invalid menu option. please restart the program.\" << endl;\n    }\n    else  {switch (choice == 4) {\n    \n        case 1:\n            cout << \"You selected Billing. please wait while we connect you.\\n\";\n        case 2:\n            cout << \"You selected Technical Support. our specialists are avaliable 24/7.\\n\";\n        case 3:\n            cout << \"You selected Account Management.we'll help you update your information.;\n        }\n        cout << \"Would you like to speak to a live agent? (Y/N):\";\n        char liveAgentChoice = \"\";\n        cin >> liveAgentChoice;\n        if (liveAgentChoice 'Y' || liveAgentChoice = 'Y')\n        {\n            cout « \"Connecting you to a live agent...\" « endl;\n         } else if (liveAgentChoice == \"N' || liveAgentChoice == \"n') {\n            cout « \"Thank you for using our automated assistant.\" « endl;\n         } else\n         cout « \"Invalid input. Please restart the program.\" « endl;\n         }\n     }\n}\n","version":101,"snapshot":true,"doc":1,"seq":102,"ms":275459,"op":"edit"}
+{"version":102,"changes":[{"offset":771,"length":1,"text":""}],"doc":1,"seq":103,"ms":276843,"op":"edit"}
+{"version":103,"changes":[{"offset":771,"length":0,"text":"."}],"doc":1,"seq":104,"ms":278109,"op":"edit"}
+{"version":104,"changes":[{"offset":772,"length":0,"text":"\\"}],"doc":1,"seq":105,"ms":278543,"op":"edit"}
+{"version":105,"changes":[{"offset":773,"length":0,"text":"n"}],"doc":1,"seq":106,"ms":279125,"op":"edit"}
+{"version":106,"changes":[{"offset":774,"length":0,"text":"\""}],"doc":1,"seq":107,"ms":281294,"op":"edit"}
+{"version":107,"changes":[{"offset":786,"length":0,"text":"\n        "}],"doc":1,"seq":108,"ms":288403,"op":"edit"}
+{"version":108,"changes":[{"offset":787,"length":8,"text":"    }"}],"doc":1,"seq":109,"ms":297993,"op":"edit"}
