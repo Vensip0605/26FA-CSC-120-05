@@ -455,3 +455,7 @@
 {"executionId":"4d3e0922-b7ab-4ec4-adfb-25ff2e02f8e1","terminalId":"e37e2126-99ca-4c91-a467-046710855f4c","data":"1","doc":2,"seq":454,"ms":2203169,"op":"terminal.output"}
 {"executionId":"4d3e0922-b7ab-4ec4-adfb-25ff2e02f8e1","terminalId":"e37e2126-99ca-4c91-a467-046710855f4c","data":"\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                           \r \r","doc":2,"seq":455,"ms":2204216,"op":"terminal.output"}
 {"executionId":"4d3e0922-b7ab-4ec4-adfb-25ff2e02f8e1","terminalId":"e37e2126-99ca-4c91-a467-046710855f4c","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/assignments/assignment_03/base","confidence":2,"exitCode":0,"doc":2,"seq":456,"ms":2204216,"op":"terminal.end"}
+{"version":431,"changes":[{"offset":480,"length":36,"text":" "}],"doc":1,"seq":457,"ms":2525680,"op":"edit"}
+{"version":432,"changes":[{"offset":476,"length":4,"text":""}],"doc":1,"seq":458,"ms":2539109,"op":"edit"}
+{"version":433,"changes":[{"offset":472,"length":4,"text":""}],"doc":1,"seq":459,"ms":2539768,"op":"edit"}
+{"version":434,"changes":[{"offset":471,"length":1,"text":""}],"doc":1,"seq":460,"ms":2540339,"op":"edit"}
