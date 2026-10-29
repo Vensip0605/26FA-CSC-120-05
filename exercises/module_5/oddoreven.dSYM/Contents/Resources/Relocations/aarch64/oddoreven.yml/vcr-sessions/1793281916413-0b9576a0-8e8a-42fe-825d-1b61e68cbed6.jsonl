@@ -1,0 +1,3 @@
+{"version":1,"courseId":"26FA-CSC-120-05","folder":"exercises/module_5/oddoreven.dSYM/Contents/Resources/Relocations/aarch64/oddoreven.yml","startedAt":"2026-10-29T13:51:56.413Z","attemptId":"87cd98c6-0042-4181-9857-f0ca44459092","segmentId":"9fe3f3ce-dd6f-4c75-b359-5e8b32b91dbe","sourceWindowId":"be255a54-bd48-4802-800c-bfe25a509837","seq":0,"ms":0,"op":"session"}
+{"branch":"main","commit":"3602cb7cbc1aa96cc342d11e2f72778ba1b9e429","seq":1,"ms":-397,"op":"source.context"}
+{"source":"watcher","path":".","doc":1,"seq":2,"ms":-397,"op":"fs.create"}
