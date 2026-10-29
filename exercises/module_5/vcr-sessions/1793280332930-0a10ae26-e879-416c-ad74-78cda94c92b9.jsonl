@@ -429,3 +429,5 @@
 {"executionId":"2977d540-192d-4a8a-9c69-5293eec36ca0","terminalId":"ace6e513-825f-4453-a174-d724fd8760e5","data":"0","doc":7,"seq":428,"ms":1997143,"op":"terminal.output"}
 {"executionId":"2977d540-192d-4a8a-9c69-5293eec36ca0","terminalId":"ace6e513-825f-4453-a174-d724fd8760e5","data":"\r\nexit...\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                   \r \r","doc":7,"seq":429,"ms":1998032,"op":"terminal.output"}
 {"executionId":"2977d540-192d-4a8a-9c69-5293eec36ca0","terminalId":"ace6e513-825f-4453-a174-d724fd8760e5","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_5/oddoreven","confidence":2,"exitCode":0,"doc":7,"seq":430,"ms":1998033,"op":"terminal.end"}
+{"text":"","version":1,"path":"digits.cpp","snapshot":true,"doc":8,"seq":431,"ms":2139327,"op":"snap"}
+{"version":2,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":0,"length":0,"text":"#include <iostream>\n\nusing namespace std;\n\nint main()\n{"}],"doc":8,"seq":432,"ms":2147660,"op":"edit"}
