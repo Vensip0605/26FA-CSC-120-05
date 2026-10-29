@@ -786,3 +786,30 @@
 {"version":295,"changes":[{"offset":148,"length":0,"text":"e"}],"doc":8,"seq":785,"ms":3786267,"op":"edit"}
 {"version":296,"changes":[{"offset":149,"length":0,"text":"n"}],"doc":8,"seq":786,"ms":3786749,"op":"edit"}
 {"version":297,"changes":[{"offset":150,"length":0,"text":"d"}],"doc":8,"seq":787,"ms":3787297,"op":"edit"}
+{"version":298,"changes":[{"offset":151,"length":0,"text":"l"}],"doc":8,"seq":788,"ms":3788635,"op":"edit"}
+{"version":299,"changes":[{"offset":152,"length":0,"text":";"}],"doc":8,"seq":789,"ms":3789419,"op":"edit"}
+{"version":300,"changes":[{"offset":158,"length":96,"text":" "}],"doc":8,"seq":790,"ms":3813756,"op":"edit"}
+{"text":"#include <iostream>\n\nusing namespace std;\n\nint main()\n{\n    int num, ;\n    cout << \"Enter a number: \";\n    cin >> num;\n    \n    cout << cin % 10 << endl;\n}\n","version":301,"snapshot":true,"doc":8,"seq":791,"ms":3815394,"op":"edit"}
+{"version":302,"changes":[{"offset":119,"length":4,"text":""}],"doc":8,"seq":792,"ms":3819907,"op":"edit"}
+{"doc":8,"seq":793,"ms":3819939,"op":"save"}
+{"version":303,"changes":[{"offset":68,"length":1,"text":""}],"doc":8,"seq":794,"ms":3826732,"op":"edit"}
+{"version":304,"changes":[{"offset":67,"length":1,"text":""}],"doc":8,"seq":795,"ms":3827030,"op":"edit"}
+{"doc":8,"seq":796,"ms":3828886,"op":"save"}
+{"version":305,"changes":[{"offset":133,"length":1,"text":""}],"doc":8,"seq":797,"ms":3836784,"op":"edit"}
+{"version":306,"changes":[{"offset":132,"length":1,"text":""}],"doc":8,"seq":798,"ms":3837284,"op":"edit"}
+{"version":307,"changes":[{"offset":131,"length":1,"text":""}],"doc":8,"seq":799,"ms":3837547,"op":"edit"}
+{"version":308,"changes":[{"offset":130,"length":1,"text":""}],"doc":8,"seq":800,"ms":3837806,"op":"edit"}
+{"version":309,"changes":[{"offset":130,"length":0,"text":"n"}],"doc":8,"seq":801,"ms":3838615,"op":"edit"}
+{"version":310,"changes":[{"offset":131,"length":0,"text":"u"}],"doc":8,"seq":802,"ms":3838938,"op":"edit"}
+{"version":311,"changes":[{"offset":132,"length":0,"text":"m"}],"doc":8,"seq":803,"ms":3839269,"op":"edit"}
+{"version":312,"changes":[{"offset":133,"length":0,"text":" "}],"doc":8,"seq":804,"ms":3839647,"op":"edit"}
+{"doc":8,"seq":805,"ms":3841170,"op":"save"}
+{"executionId":"7b0ecbe0-d137-4329-a18f-b5ce73ec46e1","terminalId":"888f4f7f-f2d6-42f9-a290-2397bce89ea6","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_5/digits","confidence":2,"doc":7,"seq":806,"ms":3841552,"op":"terminal.start"}
+{"executionId":"7b0ecbe0-d137-4329-a18f-b5ce73ec46e1","terminalId":"888f4f7f-f2d6-42f9-a290-2397bce89ea6","data":"\u001b]633;C\u0007","doc":7,"seq":807,"ms":3841603,"op":"terminal.output"}
+{"executionId":"7b0ecbe0-d137-4329-a18f-b5ce73ec46e1","terminalId":"888f4f7f-f2d6-42f9-a290-2397bce89ea6","data":"Enter a number: ","doc":7,"seq":808,"ms":3841804,"op":"terminal.output"}
+{"version":313,"changes":[{"offset":134,"length":0,"text":"1"}],"doc":8,"seq":809,"ms":3843065,"op":"edit"}
+{"version":314,"changes":[{"offset":135,"length":0,"text":"2"}],"doc":8,"seq":810,"ms":3843422,"op":"edit"}
+{"version":315,"changes":[{"offset":136,"length":0,"text":"3"}],"doc":8,"seq":811,"ms":3843756,"op":"edit"}
+{"version":316,"changes":[{"offset":136,"length":1,"text":""}],"doc":8,"seq":812,"ms":3844562,"op":"edit"}
+{"version":317,"changes":[{"offset":135,"length":1,"text":""}],"doc":8,"seq":813,"ms":3844871,"op":"edit"}
+{"version":318,"changes":[{"offset":134,"length":1,"text":""}],"doc":8,"seq":814,"ms":3845068,"op":"edit"}
