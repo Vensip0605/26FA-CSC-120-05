@@ -63,3 +63,12 @@
 {"version":41,"changes":[{"offset":2,"length":1,"text":""}],"doc":6,"seq":62,"ms":772182,"op":"edit"}
 {"version":42,"changes":[{"offset":1,"length":1,"text":""}],"doc":6,"seq":63,"ms":772772,"op":"edit"}
 {"version":43,"changes":[{"offset":0,"length":1,"text":""}],"doc":6,"seq":64,"ms":773139,"op":"edit"}
+{"version":44,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":0,"length":0,"text":"#include <iostream>\n\nusing namespace std;\n\nint main()\n{"}],"doc":6,"seq":65,"ms":883345,"op":"edit"}
+{"version":45,"changes":[{"offset":55,"length":0,"text":" "}],"doc":6,"seq":66,"ms":888470,"op":"edit"}
+{"version":46,"changes":[{"offset":56,"length":0,"text":"E"}],"doc":6,"seq":67,"ms":890224,"op":"edit"}
+{"version":47,"changes":[{"offset":57,"length":0,"text":"n"}],"doc":6,"seq":68,"ms":891975,"op":"edit"}
+{"version":48,"changes":[{"offset":57,"length":1,"text":""}],"doc":6,"seq":69,"ms":893623,"op":"edit"}
+{"version":49,"changes":[{"offset":56,"length":1,"text":""}],"doc":6,"seq":70,"ms":894047,"op":"edit"}
+{"version":50,"changes":[{"offset":56,"length":0,"text":"\n    "}],"doc":6,"seq":71,"ms":894824,"op":"edit"}
+{"version":51,"changes":[{"offset":61,"length":0,"text":"i"}],"doc":6,"seq":72,"ms":907499,"op":"edit"}
+{"version":52,"changes":[{"offset":62,"length":0,"text":"n"}],"doc":6,"seq":73,"ms":907823,"op":"edit"}
