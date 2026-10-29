@@ -20,3 +20,46 @@
 {"text":"#include <iostream>\n\nusing namespace std;\n\nint main()\n{\n    int start, end;\n    cout << \"Enter starting number:\";\n    cin >> start;\n    cout << \"Enter ending number:\";\n    cin >> end;\n\n    int diff = end - start;\n    int counter = 0;\n    while (counter <= diff)\n    {\n        cout << start + counter << \" \";\n        counter++;\n    }\n    cout << \"\\n\";\n    counter = 0;\n    while (counter <= diff)\n    {\n        cout << end - counter << \" \";\n        counter++;\n    }\n}\n","version":378,"snapshot":true,"doc":3,"seq":19,"ms":-68,"op":"snap"}
 {"text":"#include <iostream>\n\nusing namespace std;\n\nint main()\n{\n    int start, end;\n    do\n    {\n        cout << \"Enter starting number:\";\n        cin >> start;\n        cout << \"Enter ending number:\";\n        cin >> end;\n    } while (start > end);\n\n    int diff = end - start;\n    int counter = 0;\n    while (counter <= diff)\n    {\n        cout << start + counter << \" \";\n        counter++;\n    }\n    cout << \"\\n\";\n    counter = 0;\n    while (counter <= diff)\n    {\n        cout << end - counter << \" \";\n        counter++;\n    }\n}\n","version":1,"snapshot":true,"doc":4,"seq":20,"ms":-68,"op":"snap"}
 {"text":"#include <iostream>\n\nusing namespace std;\n\nint main()\n{\n    int min, max;\n    cout << \"Enter min number:\";\n    cin >> min;\n    cout << \"Enter max number:\";\n    cin >> max;\n    for (int i = min; i <= max; i += 2)\n    {\n        cout << i * i << \" \";\n    }\n    cout << endl;\n}\n","version":328,"snapshot":true,"doc":5,"seq":21,"ms":-68,"op":"snap"}
+{"text":"","version":1,"path":"oddoreven.cpp","snapshot":true,"doc":6,"seq":22,"ms":743142,"op":"snap"}
+{"version":2,"changes":[{"offset":0,"length":0,"text":"f"}],"doc":6,"seq":23,"ms":757010,"op":"edit"}
+{"version":3,"changes":[{"offset":1,"length":0,"text":"s"}],"doc":6,"seq":24,"ms":757537,"op":"edit"}
+{"version":4,"changes":[{"offset":2,"length":0,"text":"s"}],"doc":6,"seq":25,"ms":757991,"op":"edit"}
+{"version":5,"changes":[{"offset":3,"length":0,"text":"d"}],"doc":6,"seq":26,"ms":758299,"op":"edit"}
+{"version":6,"changes":[{"offset":4,"length":0,"text":"s"}],"doc":6,"seq":27,"ms":758370,"op":"edit"}
+{"version":7,"changes":[{"offset":5,"length":0,"text":"d"}],"doc":6,"seq":28,"ms":758740,"op":"edit"}
+{"version":8,"changes":[{"offset":6,"length":0,"text":"s"}],"doc":6,"seq":29,"ms":759011,"op":"edit"}
+{"version":9,"changes":[{"offset":7,"length":0,"text":"x"}],"doc":6,"seq":30,"ms":759160,"op":"edit"}
+{"version":10,"changes":[{"offset":8,"length":0,"text":"s"}],"doc":6,"seq":31,"ms":759456,"op":"edit"}
+{"version":11,"changes":[{"offset":9,"length":0,"text":"d"}],"doc":6,"seq":32,"ms":759666,"op":"edit"}
+{"version":12,"changes":[{"offset":10,"length":0,"text":"s"}],"doc":6,"seq":33,"ms":760495,"op":"edit"}
+{"version":13,"changes":[{"offset":11,"length":0,"text":"w"}],"doc":6,"seq":34,"ms":761302,"op":"edit"}
+{"version":14,"changes":[{"offset":12,"length":0,"text":"s"}],"doc":6,"seq":35,"ms":761768,"op":"edit"}
+{"version":15,"changes":[{"offset":13,"length":0,"text":"z"}],"doc":6,"seq":36,"ms":762131,"op":"edit"}
+{"version":16,"changes":[{"offset":14,"length":0,"text":"z"}],"doc":6,"seq":37,"ms":762701,"op":"edit"}
+{"version":17,"changes":[{"offset":15,"length":0,"text":"x"}],"doc":6,"seq":38,"ms":763009,"op":"edit"}
+{"version":18,"changes":[{"offset":16,"length":0,"text":"x"}],"doc":6,"seq":39,"ms":763255,"op":"edit"}
+{"version":19,"changes":[{"offset":17,"length":0,"text":"x"}],"doc":6,"seq":40,"ms":766128,"op":"edit"}
+{"version":20,"changes":[{"offset":18,"length":0,"text":"x"}],"doc":6,"seq":41,"ms":766581,"op":"edit"}
+{"version":21,"changes":[{"offset":19,"length":0,"text":"x"}],"doc":6,"seq":42,"ms":767947,"op":"edit"}
+{"version":22,"changes":[{"offset":20,"length":0,"text":"x"}],"doc":6,"seq":43,"ms":768613,"op":"edit"}
+{"version":23,"changes":[{"offset":20,"length":1,"text":""}],"doc":6,"seq":44,"ms":769240,"op":"edit"}
+{"version":24,"changes":[{"offset":19,"length":1,"text":""}],"doc":6,"seq":45,"ms":769740,"op":"edit"}
+{"version":25,"changes":[{"offset":18,"length":1,"text":""}],"doc":6,"seq":46,"ms":769822,"op":"edit"}
+{"version":26,"changes":[{"offset":17,"length":1,"text":""}],"doc":6,"seq":47,"ms":769905,"op":"edit"}
+{"version":27,"changes":[{"offset":16,"length":1,"text":""}],"doc":6,"seq":48,"ms":769988,"op":"edit"}
+{"version":28,"changes":[{"offset":15,"length":1,"text":""}],"doc":6,"seq":49,"ms":770072,"op":"edit"}
+{"version":29,"changes":[{"offset":14,"length":1,"text":""}],"doc":6,"seq":50,"ms":770156,"op":"edit"}
+{"version":30,"changes":[{"offset":13,"length":1,"text":""}],"doc":6,"seq":51,"ms":770240,"op":"edit"}
+{"version":31,"changes":[{"offset":12,"length":1,"text":""}],"doc":6,"seq":52,"ms":770323,"op":"edit"}
+{"version":32,"changes":[{"offset":11,"length":1,"text":""}],"doc":6,"seq":53,"ms":770406,"op":"edit"}
+{"version":33,"changes":[{"offset":10,"length":1,"text":""}],"doc":6,"seq":54,"ms":770489,"op":"edit"}
+{"version":34,"changes":[{"offset":9,"length":1,"text":""}],"doc":6,"seq":55,"ms":770573,"op":"edit"}
+{"version":35,"changes":[{"offset":8,"length":1,"text":""}],"doc":6,"seq":56,"ms":770656,"op":"edit"}
+{"version":36,"changes":[{"offset":7,"length":1,"text":""}],"doc":6,"seq":57,"ms":770791,"op":"edit"}
+{"version":37,"changes":[{"offset":6,"length":1,"text":""}],"doc":6,"seq":58,"ms":771186,"op":"edit"}
+{"version":38,"changes":[{"offset":5,"length":1,"text":""}],"doc":6,"seq":59,"ms":771687,"op":"edit"}
+{"version":39,"changes":[{"offset":4,"length":1,"text":""}],"doc":6,"seq":60,"ms":771768,"op":"edit"}
+{"version":40,"changes":[{"offset":3,"length":1,"text":""}],"doc":6,"seq":61,"ms":771854,"op":"edit"}
+{"version":41,"changes":[{"offset":2,"length":1,"text":""}],"doc":6,"seq":62,"ms":772182,"op":"edit"}
+{"version":42,"changes":[{"offset":1,"length":1,"text":""}],"doc":6,"seq":63,"ms":772772,"op":"edit"}
+{"version":43,"changes":[{"offset":0,"length":1,"text":""}],"doc":6,"seq":64,"ms":773139,"op":"edit"}
