@@ -297,3 +297,13 @@
 {"version":289,"changes":[{"offset":465,"length":4,"text":""}],"doc":1,"seq":296,"ms":1451865,"op":"edit"}
 {"version":290,"changes":[{"offset":464,"length":1,"text":""}],"doc":1,"seq":297,"ms":1452252,"op":"edit"}
 {"version":291,"changes":[{"offset":448,"length":0,"text":"\n    "}],"doc":1,"seq":298,"ms":1456553,"op":"edit"}
+{"version":292,"changes":[{"offset":665,"length":0,"text":"\n        "}],"doc":1,"seq":299,"ms":1587013,"op":"edit"}
+{"version":293,"changes":[{"offset":670,"length":4,"text":""}],"doc":1,"seq":300,"ms":1588569,"op":"edit"}
+{"version":294,"changes":[{"offset":666,"length":4,"text":""}],"doc":1,"seq":301,"ms":1588920,"op":"edit"}
+{"version":295,"changes":[{"offset":665,"length":1,"text":""}],"doc":1,"seq":302,"ms":1589273,"op":"edit"}
+{"version":296,"changes":[{"offset":664,"length":1,"text":""}],"doc":1,"seq":303,"ms":1589681,"op":"edit"}
+{"version":297,"changes":[{"offset":660,"length":4,"text":""}],"doc":1,"seq":304,"ms":1590110,"op":"edit"}
+{"version":298,"changes":[{"offset":656,"length":4,"text":"    }"}],"doc":1,"seq":305,"ms":1592197,"op":"edit"}
+{"version":299,"changes":[{"offset":661,"length":0,"text":" "}],"doc":1,"seq":306,"ms":1594721,"op":"edit"}
+{"version":300,"changes":[{"offset":662,"length":0,"text":"e"}],"doc":1,"seq":307,"ms":1595587,"op":"edit"}
+{"text":"#include <iostream>\n#include <string>\nusing namespace std;\n\nint main()\n{\n    cout << \"==========================\\n\";\n    cout << \"   Base Conversion program\\n\";\n    cout << \"=========================\\n\";\n    cout << \"1. Convert Binary to Decimal\\n\";\n    cout << \"2. Convert Decimal to Binary\\n\";\n    cout << \"3. Exit\\n\";\n    cout << \"----------------------------\\n\";\n\n    int choice;\n    cout << \"Enter your choice (1-3): \";\n    cin >> choice;\n    \n    if (choice == 1){\n        cout << \"Binary -> Decimal\" << endl;\n    }else if (choice == 2){\n        cout << \"Decimal -> Binary\" << endl;\n    }else if (choice == 3){\n            cout << \"goodbye\" << endl;\n    } el\n}\n","version":301,"snapshot":true,"doc":1,"seq":308,"ms":1596067,"op":"edit"}
