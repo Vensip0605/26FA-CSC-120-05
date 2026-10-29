@@ -1,0 +1,11 @@
+{"version":1,"courseId":"26FA-CSC-120-05","folder":"assignments/assignment_03","startedAt":"2026-10-29T22:56:21.991Z","attemptId":"a964a131-49c3-4964-8240-dc464f6e524f","segmentId":"fb1eb04b-6483-406f-9fab-34984513052c","sourceWindowId":"be255a54-bd48-4802-800c-bfe25a509837","seq":0,"ms":0,"op":"session"}
+{"branch":"main","commit":"3602cb7cbc1aa96cc342d11e2f72778ba1b9e429","seq":1,"ms":-126,"op":"source.context"}
+{"text":"#include <iostream>\n\nusing namespace std;\n\nint main()\n{\n    cout << \"==========================\\n\";\n    cout << \"   Base Conversion program\\n\";\n    cout << \" =========================\\n\";\n    cout << \"1. Convert Binary to Decimal\\n\";\n    cout << \"2. Convert Decimal to Binary\\n\";\n    cout << \"3. Exit\\n\";\n    cout << \"----------------------------\\n\";\n\n    int choice;\n    cout << \"Enter your choice\";\n    cin >> choice;\n}\n","version":1,"path":"base.cpp","snapshot":true,"doc":1,"seq":2,"ms":-126,"op":"snap"}
+{"source":"workspace","operationId":"4c726a5d-c7a0-4014-8e9e-c837a6fd9f41","path":".","doc":2,"seq":3,"ms":-126,"op":"fs.moveTo"}
+{"source":"watcher","doc":2,"seq":4,"ms":-59,"op":"fs.create"}
+{"version":2,"changes":[{"offset":398,"length":0,"text":" "}],"doc":1,"seq":5,"ms":26737,"op":"edit"}
+{"version":3,"changes":[{"offset":399,"length":0,"text":"()"}],"doc":1,"seq":6,"ms":29319,"op":"edit"}
+{"version":4,"changes":[{"offset":400,"length":0,"text":"1"}],"doc":1,"seq":7,"ms":30806,"op":"edit"}
+{"version":5,"changes":[{"offset":401,"length":0,"text":"-"}],"doc":1,"seq":8,"ms":31444,"op":"edit"}
+{"version":6,"changes":[{"offset":402,"length":0,"text":"3"}],"doc":1,"seq":9,"ms":32435,"op":"edit"}
+{"version":7,"changes":[{"offset":404,"length":0,"text":":"}],"doc":1,"seq":10,"ms":35515,"op":"edit"}
