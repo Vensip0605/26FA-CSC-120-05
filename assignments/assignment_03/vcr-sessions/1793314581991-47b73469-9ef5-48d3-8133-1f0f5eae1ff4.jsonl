@@ -361,3 +361,15 @@
 {"executionId":"3d9b4895-f730-497d-9785-843f52319ccb","terminalId":"e37e2126-99ca-4c91-a467-046710855f4c","data":"4","doc":2,"seq":360,"ms":1719742,"op":"terminal.output"}
 {"executionId":"3d9b4895-f730-497d-9785-843f52319ccb","terminalId":"e37e2126-99ca-4c91-a467-046710855f4c","data":"\r\nerror message\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                   \r \r","doc":2,"seq":361,"ms":1720618,"op":"terminal.output"}
 {"executionId":"3d9b4895-f730-497d-9785-843f52319ccb","terminalId":"e37e2126-99ca-4c91-a467-046710855f4c","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/assignments/assignment_03/base","confidence":2,"exitCode":0,"doc":2,"seq":362,"ms":1720619,"op":"terminal.end"}
+{"version":349,"changes":[{"offset":498,"length":1,"text":""}],"doc":1,"seq":363,"ms":2038626,"op":"edit"}
+{"version":350,"changes":[{"offset":497,"length":1,"text":""}],"doc":1,"seq":364,"ms":2038929,"op":"edit"}
+{"version":351,"changes":[{"offset":496,"length":1,"text":""}],"doc":1,"seq":365,"ms":2039249,"op":"edit"}
+{"version":352,"changes":[{"offset":495,"length":1,"text":""}],"doc":1,"seq":366,"ms":2041430,"op":"edit"}
+{"version":353,"changes":[{"offset":495,"length":0,"text":" "}],"doc":1,"seq":367,"ms":2042039,"op":"edit"}
+{"version":354,"changes":[{"offset":496,"length":0,"text":"t"}],"doc":1,"seq":368,"ms":2042473,"op":"edit"}
+{"version":355,"changes":[{"offset":497,"length":0,"text":"o"}],"doc":1,"seq":369,"ms":2042945,"op":"edit"}
+{"version":356,"changes":[{"offset":498,"length":0,"text":" "}],"doc":1,"seq":370,"ms":2043385,"op":"edit"}
+{"version":357,"changes":[{"offset":580,"length":2,"text":" "}],"doc":1,"seq":371,"ms":2046538,"op":"edit"}
+{"version":358,"changes":[{"offset":580,"length":1,"text":""}],"doc":1,"seq":372,"ms":2047615,"op":"edit"}
+{"version":359,"changes":[{"offset":580,"length":0,"text":"t"}],"doc":1,"seq":373,"ms":2049338,"op":"edit"}
+{"version":360,"changes":[{"offset":581,"length":0,"text":"o"}],"doc":1,"seq":374,"ms":2049928,"op":"edit"}
