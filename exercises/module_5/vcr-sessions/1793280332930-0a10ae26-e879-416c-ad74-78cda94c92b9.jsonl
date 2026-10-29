@@ -521,3 +521,15 @@
 {"version":87,"changes":[{"offset":115,"length":1,"text":""}],"doc":8,"seq":520,"ms":2660728,"op":"edit"}
 {"version":88,"changes":[{"offset":115,"length":0,"text":";"}],"doc":8,"seq":521,"ms":2663315,"op":"edit"}
 {"version":89,"changes":[{"offset":116,"length":0,"text":"\n    "}],"doc":8,"seq":522,"ms":2664324,"op":"edit"}
+{"version":90,"changes":[{"offset":121,"length":0,"text":"i"}],"doc":8,"seq":523,"ms":3136980,"op":"edit"}
+{"version":91,"changes":[{"offset":122,"length":0,"text":"f"}],"doc":8,"seq":524,"ms":3138024,"op":"edit"}
+{"version":92,"changes":[{"offset":123,"length":0,"text":" "}],"doc":8,"seq":525,"ms":3138541,"op":"edit"}
+{"version":93,"changes":[{"offset":124,"length":0,"text":"()"}],"doc":8,"seq":526,"ms":3142737,"op":"edit"}
+{"version":94,"changes":[{"offset":125,"length":0,"text":"n"}],"doc":8,"seq":527,"ms":3144669,"op":"edit"}
+{"version":95,"changes":[{"offset":126,"length":0,"text":"u"}],"doc":8,"seq":528,"ms":3145036,"op":"edit"}
+{"version":96,"changes":[{"offset":127,"length":0,"text":"m"}],"doc":8,"seq":529,"ms":3146078,"op":"edit"}
+{"version":97,"changes":[{"offset":128,"length":0,"text":" "}],"doc":8,"seq":530,"ms":3152646,"op":"edit"}
+{"version":98,"changes":[{"offset":129,"length":0,"text":"%"}],"doc":8,"seq":531,"ms":3153703,"op":"edit"}
+{"version":99,"changes":[{"offset":130,"length":0,"text":" "}],"doc":8,"seq":532,"ms":3154850,"op":"edit"}
+{"version":100,"changes":[{"offset":131,"length":0,"text":"1"}],"doc":8,"seq":533,"ms":3156326,"op":"edit"}
+{"text":"#include <iostream>\n\nusing namespace std;\n\nint main()\n{\n    int num;\n    cout << \"Enter a number: \";\n    cin >> num;\n    if (num % 10)\n\n\n\n\n\n}\n","version":101,"snapshot":true,"doc":8,"seq":534,"ms":3156785,"op":"edit"}
