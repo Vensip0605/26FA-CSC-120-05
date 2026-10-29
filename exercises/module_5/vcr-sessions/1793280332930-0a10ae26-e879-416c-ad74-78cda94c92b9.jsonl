@@ -754,3 +754,5 @@
 {"executionId":"779e74c4-6ec1-4c2d-8e95-c4d0ba34cbb0","terminalId":"888f4f7f-f2d6-42f9-a290-2397bce89ea6","data":"\b \b","doc":7,"seq":753,"ms":3665145,"op":"terminal.output"}
 {"executionId":"779e74c4-6ec1-4c2d-8e95-c4d0ba34cbb0","terminalId":"888f4f7f-f2d6-42f9-a290-2397bce89ea6","data":"\b \b","doc":7,"seq":754,"ms":3665476,"op":"terminal.output"}
 {"executionId":"779e74c4-6ec1-4c2d-8e95-c4d0ba34cbb0","terminalId":"888f4f7f-f2d6-42f9-a290-2397bce89ea6","data":"\b \b","doc":7,"seq":755,"ms":3665848,"op":"terminal.output"}
+{"executionId":"779e74c4-6ec1-4c2d-8e95-c4d0ba34cbb0","terminalId":"888f4f7f-f2d6-42f9-a290-2397bce89ea6","data":"^C\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                   \r \r","doc":7,"seq":756,"ms":3672297,"op":"terminal.output"}
+{"executionId":"779e74c4-6ec1-4c2d-8e95-c4d0ba34cbb0","terminalId":"888f4f7f-f2d6-42f9-a290-2397bce89ea6","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_5/digits","confidence":2,"exitCode":130,"doc":7,"seq":757,"ms":3672298,"op":"terminal.end"}

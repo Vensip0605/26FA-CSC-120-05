@@ -65,3 +65,4 @@
 {"executionId":"b5c9e252-b445-4481-bc2c-615b7c764a8e","exitCode":0,"doc":1,"seq":64,"ms":2148402,"op":"task.processEnd"}
 {"executionId":"b5c9e252-b445-4481-bc2c-615b7c764a8e","doc":1,"seq":65,"ms":2148402,"op":"task.end"}
 {"executionId":"7497e559-1405-48c7-afa9-201f9052b849","name":"C/C++: g++ build and debug active file","type":"cppdbg","noDebug":true,"doc":1,"seq":66,"ms":2148411,"op":"debug.start"}
+{"executionId":"7497e559-1405-48c7-afa9-201f9052b849","doc":1,"seq":67,"ms":2178148,"op":"debug.end"}
