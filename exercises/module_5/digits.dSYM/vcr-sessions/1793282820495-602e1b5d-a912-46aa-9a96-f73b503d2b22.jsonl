@@ -1,3 +1,4 @@
 {"version":1,"courseId":"26FA-CSC-120-05","folder":"exercises/module_5/digits.dSYM","startedAt":"2026-10-29T14:07:00.495Z","attemptId":"488a2789-2bd2-4a3c-aecd-ef6481eaa511","segmentId":"4847d8a2-67db-4b4a-9fcc-1222c0f053ab","sourceWindowId":"be255a54-bd48-4802-800c-bfe25a509837","seq":0,"ms":0,"op":"session"}
 {"branch":"main","commit":"3602cb7cbc1aa96cc342d11e2f72778ba1b9e429","seq":1,"ms":-87,"op":"source.context"}
 {"source":"watcher","path":".","doc":1,"seq":2,"ms":-87,"op":"fs.create"}
+{"seq":3,"ms":35378090,"op":"end"}

@@ -1,3 +1,4 @@
 {"version":1,"courseId":"26FA-CSC-120-05","folder":"exercises/module_5/oddoreven.dSYM/Contents/Info.plist","startedAt":"2026-10-29T13:51:56.184Z","attemptId":"4c61913e-c192-41b3-b88d-2330ea50a3ce","segmentId":"eb57f41a-d42c-4bf5-ba47-6195263e8a75","sourceWindowId":"be255a54-bd48-4802-800c-bfe25a509837","seq":0,"ms":0,"op":"session"}
 {"branch":"main","commit":"3602cb7cbc1aa96cc342d11e2f72778ba1b9e429","seq":1,"ms":-168,"op":"source.context"}
 {"source":"watcher","path":".","doc":1,"seq":2,"ms":-168,"op":"fs.create"}
+{"seq":3,"ms":36282401,"op":"end"}

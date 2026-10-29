@@ -1,3 +1,4 @@
 {"version":1,"courseId":"26FA-CSC-120-05","folder":"exercises/module_5/digits.dSYM/Contents/Resources/DWARF/digits","startedAt":"2026-10-29T14:07:00.693Z","attemptId":"e21f70f8-c36b-444f-a4ea-1e8590498de3","segmentId":"79b06be9-a8a2-46eb-b9ad-3679aa0a6593","sourceWindowId":"be255a54-bd48-4802-800c-bfe25a509837","seq":0,"ms":0,"op":"session"}
 {"branch":"main","commit":"3602cb7cbc1aa96cc342d11e2f72778ba1b9e429","seq":1,"ms":-285,"op":"source.context"}
 {"source":"watcher","path":".","doc":1,"seq":2,"ms":-285,"op":"fs.create"}
+{"seq":3,"ms":35377892,"op":"end"}

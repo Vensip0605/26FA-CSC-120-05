@@ -1,3 +1,4 @@
 {"version":1,"courseId":"26FA-CSC-120-05","folder":"exercises/module_5/oddoreven.dSYM/Contents/Resources/DWARF/oddoreven","startedAt":"2026-10-29T13:51:56.294Z","attemptId":"f204e6d1-82ff-457c-8f28-6b70a3e5b320","segmentId":"1d76a908-a839-4ffb-ba29-fbb1428cff6d","sourceWindowId":"be255a54-bd48-4802-800c-bfe25a509837","seq":0,"ms":0,"op":"session"}
 {"branch":"main","commit":"3602cb7cbc1aa96cc342d11e2f72778ba1b9e429","seq":1,"ms":-278,"op":"source.context"}
 {"source":"watcher","path":".","doc":1,"seq":2,"ms":-278,"op":"fs.create"}
+{"seq":3,"ms":36282291,"op":"end"}
