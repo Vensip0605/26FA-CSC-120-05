@@ -86,3 +86,20 @@
 {"version":227,"changes":[{"offset":94,"length":0,"text":"\\"}],"doc":1,"seq":85,"ms":282944,"op":"edit"}
 {"version":228,"changes":[{"offset":95,"length":0,"text":"n"}],"doc":1,"seq":86,"ms":283803,"op":"edit"}
 {"version":229,"changes":[{"offset":94,"length":0,"text":"="}],"doc":1,"seq":87,"ms":287862,"op":"edit"}
+{"version":230,"changes":[{"offset":98,"length":4,"text":""}],"doc":1,"seq":88,"ms":756193,"op":"edit"}
+{"doc":1,"seq":89,"ms":756201,"op":"save"}
+{"version":231,"changes":[{"offset":98,"length":0,"text":";"}],"doc":1,"seq":90,"ms":764918,"op":"edit"}
+{"version":232,"changes":[{"offset":99,"length":0,"text":"\n    "}],"doc":1,"seq":91,"ms":765385,"op":"edit"}
+{"version":233,"changes":[{"offset":100,"length":4,"text":""}],"doc":1,"seq":92,"ms":767890,"op":"edit"}
+{"version":234,"changes":[{"offset":100,"length":0,"text":" "}],"doc":1,"seq":93,"ms":769099,"op":"edit"}
+{"version":235,"changes":[{"offset":101,"length":0,"text":" "}],"doc":1,"seq":94,"ms":769415,"op":"edit"}
+{"version":236,"changes":[{"offset":102,"length":0,"text":" "}],"doc":1,"seq":95,"ms":769680,"op":"edit"}
+{"version":237,"changes":[{"offset":103,"length":0,"text":" "}],"doc":1,"seq":96,"ms":769945,"op":"edit"}
+{"version":238,"changes":[{"offset":100,"length":4,"text":""}],"doc":1,"seq":97,"ms":772293,"op":"edit"}
+{"version":239,"changes":[{"offset":100,"length":0,"text":" "}],"doc":1,"seq":98,"ms":773152,"op":"edit"}
+{"version":240,"changes":[{"offset":101,"length":0,"text":" "}],"doc":1,"seq":99,"ms":773511,"op":"edit"}
+{"version":241,"changes":[{"offset":102,"length":0,"text":" "}],"doc":1,"seq":100,"ms":773837,"op":"edit"}
+{"doc":1,"seq":101,"ms":777700,"op":"save"}
+{"executionId":"2f62b134-a03c-4337-a177-1f2d4a242710","terminalId":"0a1e6c98-7349-4857-9e70-60fe4ec39b67","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/assignments/assignment_3/base","confidence":2,"path":".","doc":2,"seq":102,"ms":778709,"op":"terminal.start"}
+{"executionId":"2f62b134-a03c-4337-a177-1f2d4a242710","terminalId":"0a1e6c98-7349-4857-9e70-60fe4ec39b67","data":"\u001b]633;C\u0007","doc":2,"seq":103,"ms":778760,"op":"terminal.output"}
+{"executionId":"2f62b134-a03c-4337-a177-1f2d4a242710","terminalId":"0a1e6c98-7349-4857-9e70-60fe4ec39b67","data":"==========================\r\n   Base Conversion program\r\n =========================\r\n1. Convert Binary to Decimal\r\n2. Convert Decimal to Binary\r\n3. Exit\r\n","doc":2,"seq":104,"ms":779162,"op":"terminal.output"}
