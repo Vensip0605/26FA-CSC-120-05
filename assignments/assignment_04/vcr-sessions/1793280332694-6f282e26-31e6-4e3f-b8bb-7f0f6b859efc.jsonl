@@ -1,0 +1,4 @@
+{"version":1,"courseId":"26FA-CSC-120-05","folder":"assignments/assignment_04","startedAt":"2026-10-29T13:25:32.694Z","attemptId":"4d77f99f-ef16-4b40-99ef-0e78f05ce550","segmentId":"563a4a3a-43b7-4cbc-a6ae-f33bcba110e5","sourceWindowId":"be255a54-bd48-4802-800c-bfe25a509837","seq":0,"ms":0,"op":"session"}
+{"branch":"main","commit":"3602cb7cbc1aa96cc342d11e2f72778ba1b9e429","seq":1,"ms":-61,"op":"source.context"}
+{"source":"watcher","path":".","doc":1,"seq":2,"ms":-61,"op":"fs.create"}
+{"seq":3,"ms":90,"op":"end"}
