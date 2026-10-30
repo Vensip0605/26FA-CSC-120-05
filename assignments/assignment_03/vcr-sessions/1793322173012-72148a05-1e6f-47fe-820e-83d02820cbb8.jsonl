@@ -476,3 +476,21 @@
 {"executionId":"bc80949c-27a3-4b80-9649-4d5633997369","terminalId":"f82f50c5-5c1f-4018-8c7c-8f6365a7eeb0","data":"1","doc":2,"seq":475,"ms":2477600,"op":"terminal.output"}
 {"executionId":"bc80949c-27a3-4b80-9649-4d5633997369","terminalId":"f82f50c5-5c1f-4018-8c7c-8f6365a7eeb0","data":"\r\nError: Decimal number must be between 0 and 15.\r\nProgram finished.\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                 \r \r","doc":2,"seq":476,"ms":2478276,"op":"terminal.output"}
 {"executionId":"bc80949c-27a3-4b80-9649-4d5633997369","terminalId":"f82f50c5-5c1f-4018-8c7c-8f6365a7eeb0","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/assignments/assignment_03/base","confidence":2,"exitCode":0,"doc":2,"seq":477,"ms":2478277,"op":"terminal.end"}
+{"version":438,"changes":[{"offset":1740,"length":4,"text":""}],"doc":1,"seq":478,"ms":2597853,"op":"edit"}
+{"version":439,"changes":[{"offset":1736,"length":4,"text":""}],"doc":1,"seq":479,"ms":2598322,"op":"edit"}
+{"version":440,"changes":[{"offset":1732,"length":4,"text":""}],"doc":1,"seq":480,"ms":2598759,"op":"edit"}
+{"version":441,"changes":[{"offset":1728,"length":4,"text":""}],"doc":1,"seq":481,"ms":2599253,"op":"edit"}
+{"version":442,"changes":[{"offset":1727,"length":1,"text":""}],"doc":1,"seq":482,"ms":2599667,"op":"edit"}
+{"version":443,"changes":[{"offset":1727,"length":0,"text":"\n                "}],"doc":1,"seq":483,"ms":2602572,"op":"edit"}
+{"doc":1,"seq":484,"ms":2602582,"op":"save"}
+{"executionId":"f698f939-c070-4f7c-8a45-28fa26fc266e","terminalId":"f82f50c5-5c1f-4018-8c7c-8f6365a7eeb0","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/assignments/assignment_03/base","confidence":2,"doc":2,"seq":485,"ms":2603437,"op":"terminal.start"}
+{"executionId":"f698f939-c070-4f7c-8a45-28fa26fc266e","terminalId":"f82f50c5-5c1f-4018-8c7c-8f6365a7eeb0","data":"\u001b]633;C\u0007","doc":2,"seq":486,"ms":2603490,"op":"terminal.output"}
+{"executionId":"f698f939-c070-4f7c-8a45-28fa26fc266e","terminalId":"f82f50c5-5c1f-4018-8c7c-8f6365a7eeb0","data":"==========================\r\n   Base Conversion program\r\n=========================\r\n1. Convert Binary to Decimal\r\n2. Convert Decimal to Binary\r\n3. Exit\r\n----------------------------\r\nEnter your choice (1-3): ","doc":2,"seq":487,"ms":2603789,"op":"terminal.output"}
+{"executionId":"f698f939-c070-4f7c-8a45-28fa26fc266e","terminalId":"f82f50c5-5c1f-4018-8c7c-8f6365a7eeb0","data":"1","doc":2,"seq":488,"ms":2606793,"op":"terminal.output"}
+{"executionId":"f698f939-c070-4f7c-8a45-28fa26fc266e","terminalId":"f82f50c5-5c1f-4018-8c7c-8f6365a7eeb0","data":"\r\nEnter a binary number: ","doc":2,"seq":489,"ms":2607814,"op":"terminal.output"}
+{"executionId":"f698f939-c070-4f7c-8a45-28fa26fc266e","terminalId":"f82f50c5-5c1f-4018-8c7c-8f6365a7eeb0","data":"1","doc":2,"seq":490,"ms":2608674,"op":"terminal.output"}
+{"executionId":"f698f939-c070-4f7c-8a45-28fa26fc266e","terminalId":"f82f50c5-5c1f-4018-8c7c-8f6365a7eeb0","data":"1","doc":2,"seq":491,"ms":2608910,"op":"terminal.output"}
+{"executionId":"f698f939-c070-4f7c-8a45-28fa26fc266e","terminalId":"f82f50c5-5c1f-4018-8c7c-8f6365a7eeb0","data":"0","doc":2,"seq":492,"ms":2609474,"op":"terminal.output"}
+{"executionId":"f698f939-c070-4f7c-8a45-28fa26fc266e","terminalId":"f82f50c5-5c1f-4018-8c7c-8f6365a7eeb0","data":"1","doc":2,"seq":493,"ms":2610004,"op":"terminal.output"}
+{"executionId":"f698f939-c070-4f7c-8a45-28fa26fc266e","terminalId":"f82f50c5-5c1f-4018-8c7c-8f6365a7eeb0","data":"\r\nError : Binary numbers can only contain 0s and 1s. \r\nProgram finished.\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                         \r \r","doc":2,"seq":494,"ms":2610736,"op":"terminal.output"}
+{"executionId":"f698f939-c070-4f7c-8a45-28fa26fc266e","terminalId":"f82f50c5-5c1f-4018-8c7c-8f6365a7eeb0","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/assignments/assignment_03/base","confidence":2,"exitCode":0,"doc":2,"seq":495,"ms":2610736,"op":"terminal.end"}
