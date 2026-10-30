@@ -227,3 +227,15 @@
 {"version":209,"changes":[{"offset":1065,"length":1,"text":""}],"doc":1,"seq":226,"ms":1672135,"op":"edit"}
 {"version":210,"changes":[{"offset":1063,"length":2,"text":""}],"doc":1,"seq":227,"ms":1672657,"op":"edit"}
 {"version":211,"changes":[{"offset":1062,"length":1,"text":""}],"doc":1,"seq":228,"ms":1673169,"op":"edit"}
+{"version":212,"changes":[{"offset":818,"length":0,"text":"i"}],"doc":1,"seq":229,"ms":1677771,"op":"edit"}
+{"version":213,"changes":[{"offset":1064,"length":1,"text":""}],"doc":1,"seq":230,"ms":1696325,"op":"edit"}
+{"version":214,"changes":[{"offset":1064,"length":0,"text":"\n            "}],"doc":1,"seq":231,"ms":1697752,"op":"edit"}
+{"version":215,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":1077,"length":0,"text":"else if (binary == \"0001\")  decimal = 1;\n            else if (binary == \"0010\") decimal = 2;\n            else if (binary == \"0011\") decimal = 3;\n            else if (binary == \"0100\") decimal = 4;  "}],"doc":1,"seq":232,"ms":1699327,"op":"edit"}
+{"version":216,"changes":[{"offset":1115,"length":1,"text":""}],"doc":1,"seq":233,"ms":1703611,"op":"edit"}
+{"version":217,"changes":[{"offset":1115,"length":0,"text":"5"}],"doc":1,"seq":234,"ms":1704803,"op":"edit"}
+{"version":218,"changes":[{"offset":1167,"length":1,"text":""}],"doc":1,"seq":235,"ms":1708644,"op":"edit"}
+{"version":219,"changes":[{"offset":1167,"length":0,"text":"6"}],"doc":1,"seq":236,"ms":1709821,"op":"edit"}
+{"version":220,"changes":[{"offset":1219,"length":1,"text":""}],"doc":1,"seq":237,"ms":1712505,"op":"edit"}
+{"version":221,"changes":[{"offset":1219,"length":0,"text":"7"}],"doc":1,"seq":238,"ms":1714356,"op":"edit"}
+{"version":222,"changes":[{"offset":1271,"length":1,"text":""}],"doc":1,"seq":239,"ms":1717008,"op":"edit"}
+{"version":223,"changes":[{"offset":1271,"length":0,"text":"8"}],"doc":1,"seq":240,"ms":1719758,"op":"edit"}
