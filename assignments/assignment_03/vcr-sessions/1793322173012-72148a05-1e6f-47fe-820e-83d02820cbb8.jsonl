@@ -1,3 +1,11 @@
 {"version":1,"courseId":"26FA-CSC-120-05","folder":"assignments/assignment_03","startedAt":"2026-10-30T01:02:53.012Z","attemptId":"a964a131-49c3-4964-8240-dc464f6e524f","segmentId":"a4c3afb4-cf16-49e3-9eb5-9e26faaba373","sourceWindowId":"d7039e7d-1f3e-40b8-b914-64dfbbe0a4bb","seq":0,"ms":0,"op":"session"}
 {"branch":"main","commit":"3602cb7cbc1aa96cc342d11e2f72778ba1b9e429","seq":1,"ms":-5448,"op":"source.context"}
 {"text":"#include <iostream>\n#include <string>\nusing namespace std;\n\nint main()\n{\n    cout << \"==========================\\n\";\n    cout << \"   Base Conversion program\\n\";\n    cout << \"=========================\\n\";\n    cout << \"1. Convert Binary to Decimal\\n\";\n    cout << \"2. Convert Decimal to Binary\\n\";\n    cout << \"3. Exit\\n\";\n    cout << \"----------------------------\\n\";\n\n    int choice;\n    cout << \"Enter your choice (1-3): \";\n    cin >> choice;\n\n    if (choice == 1)\n    {\n        string binary;\n        cout << \"Enter a binary number: \";\n        cin >> binary;\n        if (binary find_not_of)\n    }\n    else if (choice == 2)\n    {\n        cout << \"Decimal to Binary\" << endl;\n    }\n    else if (choice == 3)\n    {\n        cout << \"goodbye\" << endl;\n    }\n    else\n    {\n        cout << \"error message\" << endl;\n    }\n}\n","version":1,"path":"base.cpp","snapshot":true,"doc":1,"seq":2,"ms":-5448,"op":"snap"}
+{"version":2,"changes":[{"offset":591,"length":0,"text":"()"}],"doc":1,"seq":3,"ms":207930,"op":"edit"}
+{"version":3,"changes":[{"offset":592,"length":0,"text":"\"\""}],"doc":1,"seq":4,"ms":211272,"op":"edit"}
+{"version":4,"changes":[{"offset":593,"length":0,"text":"1"}],"doc":1,"seq":5,"ms":213967,"op":"edit"}
+{"version":5,"changes":[{"offset":596,"length":0,"text":"1"}],"doc":1,"seq":6,"ms":225194,"op":"edit"}
+{"version":6,"changes":[{"offset":596,"length":1,"text":""}],"doc":1,"seq":7,"ms":226671,"op":"edit"}
+{"version":7,"changes":[{"offset":596,"length":0,"text":"!"}],"doc":1,"seq":8,"ms":229856,"op":"edit"}
+{"version":8,"changes":[{"offset":597,"length":0,"text":"="}],"doc":1,"seq":9,"ms":232190,"op":"edit"}
+{"version":9,"changes":[{"offset":598,"length":0,"text":" "}],"doc":1,"seq":10,"ms":233687,"op":"edit"}
