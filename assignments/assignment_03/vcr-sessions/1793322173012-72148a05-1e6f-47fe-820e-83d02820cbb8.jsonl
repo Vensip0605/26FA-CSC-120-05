@@ -295,3 +295,21 @@
 {"version":277,"changes":[{"offset":1484,"length":0,"text":"1"}],"doc":1,"seq":294,"ms":1847836,"op":"edit"}
 {"version":278,"changes":[{"offset":1485,"length":0,"text":"2"}],"doc":1,"seq":295,"ms":1848527,"op":"edit"}
 {"version":279,"changes":[{"offset":1486,"length":0,"text":";"}],"doc":1,"seq":296,"ms":1850407,"op":"edit"}
+{"version":280,"changes":[{"offset":1309,"length":1,"text":""}],"doc":1,"seq":297,"ms":1862290,"op":"edit"}
+{"version":281,"changes":[{"offset":1309,"length":1,"text":""}],"doc":1,"seq":298,"ms":1864768,"op":"edit"}
+{"version":282,"changes":[{"offset":1308,"length":1,"text":""}],"doc":1,"seq":299,"ms":1866957,"op":"edit"}
+{"version":283,"changes":[{"offset":1309,"length":0,"text":"0"}],"doc":1,"seq":300,"ms":1873952,"op":"edit"}
+{"version":284,"changes":[{"offset":1310,"length":0,"text":"0"}],"doc":1,"seq":301,"ms":1874142,"op":"edit"}
+{"version":285,"changes":[{"offset":1311,"length":0,"text":"1"}],"doc":1,"seq":302,"ms":1874736,"op":"edit"}
+{"version":286,"changes":[{"offset":1362,"length":1,"text":""}],"doc":1,"seq":303,"ms":1880321,"op":"edit"}
+{"version":287,"changes":[{"offset":1361,"length":1,"text":""}],"doc":1,"seq":304,"ms":1880605,"op":"edit"}
+{"version":288,"changes":[{"offset":1361,"length":0,"text":"1"}],"doc":1,"seq":305,"ms":1881618,"op":"edit"}
+{"version":289,"changes":[{"offset":1362,"length":0,"text":"0"}],"doc":1,"seq":306,"ms":1882240,"op":"edit"}
+{"version":290,"changes":[{"offset":1415,"length":1,"text":""}],"doc":1,"seq":307,"ms":1886921,"op":"edit"}
+{"version":291,"changes":[{"offset":1414,"length":1,"text":""}],"doc":1,"seq":308,"ms":1887279,"op":"edit"}
+{"version":292,"changes":[{"offset":1414,"length":0,"text":"1"}],"doc":1,"seq":309,"ms":1889047,"op":"edit"}
+{"version":293,"changes":[{"offset":1415,"length":0,"text":"0"}],"doc":1,"seq":310,"ms":1889763,"op":"edit"}
+{"version":294,"changes":[{"offset":1467,"length":1,"text":""}],"doc":1,"seq":311,"ms":1894335,"op":"edit"}
+{"version":295,"changes":[{"offset":1467,"length":0,"text":"1"}],"doc":1,"seq":312,"ms":1894930,"op":"edit"}
+{"version":296,"changes":[{"offset":1489,"length":0,"text":"\n            "}],"doc":1,"seq":313,"ms":1899108,"op":"edit"}
+{"version":297,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":1502,"length":0,"text":"else if (binary == \"1011\") decimal = 11;\n            else if (binary == \"1100\") decimal = 12;  "}],"doc":1,"seq":314,"ms":1913462,"op":"edit"}
