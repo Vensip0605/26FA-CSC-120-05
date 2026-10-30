@@ -262,3 +262,36 @@
 {"version":244,"changes":[{"offset":1205,"length":1,"text":""}],"doc":1,"seq":261,"ms":1784232,"op":"edit"}
 {"version":245,"changes":[{"offset":1204,"length":1,"text":""}],"doc":1,"seq":262,"ms":1784653,"op":"edit"}
 {"version":246,"changes":[{"offset":1203,"length":1,"text":""}],"doc":1,"seq":263,"ms":1786061,"op":"edit"}
+{"version":247,"changes":[{"offset":1203,"length":0,"text":"1"}],"doc":1,"seq":264,"ms":1797917,"op":"edit"}
+{"version":248,"changes":[{"offset":1204,"length":0,"text":"1"}],"doc":1,"seq":265,"ms":1798151,"op":"edit"}
+{"version":249,"changes":[{"offset":1205,"length":0,"text":"1"}],"doc":1,"seq":266,"ms":1798402,"op":"edit"}
+{"version":250,"changes":[{"offset":1257,"length":1,"text":""}],"doc":1,"seq":267,"ms":1800839,"op":"edit"}
+{"version":251,"changes":[{"offset":1256,"length":1,"text":""}],"doc":1,"seq":268,"ms":1801377,"op":"edit"}
+{"version":252,"changes":[{"offset":1255,"length":1,"text":""}],"doc":1,"seq":269,"ms":1805585,"op":"edit"}
+{"version":253,"changes":[{"offset":1254,"length":1,"text":""}],"doc":1,"seq":270,"ms":1806406,"op":"edit"}
+{"version":254,"changes":[{"offset":1254,"length":0,"text":"1"}],"doc":1,"seq":271,"ms":1807408,"op":"edit"}
+{"version":255,"changes":[{"offset":1255,"length":0,"text":"0"}],"doc":1,"seq":272,"ms":1808064,"op":"edit"}
+{"version":256,"changes":[{"offset":1256,"length":0,"text":"0"}],"doc":1,"seq":273,"ms":1808297,"op":"edit"}
+{"version":257,"changes":[{"offset":1257,"length":0,"text":"0"}],"doc":1,"seq":274,"ms":1808701,"op":"edit"}
+{"version":258,"changes":[{"offset":1275,"length":1,"text":""}],"doc":1,"seq":275,"ms":1812754,"op":"edit"}
+{"version":259,"changes":[{"offset":1275,"length":0,"text":"\n            "}],"doc":1,"seq":276,"ms":1814263,"op":"edit"}
+{"version":260,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":1288,"length":0,"text":"else if (binary == \"0001\")  decimal = 1;\n            else if (binary == \"0010\") decimal = 2;\n            else if (binary == \"0011\") decimal = 3;\n            else if (binary == \"0100\") decimal = 4;  "}],"doc":1,"seq":277,"ms":1815674,"op":"edit"}
+{"version":261,"changes":[{"offset":1326,"length":1,"text":""}],"doc":1,"seq":278,"ms":1818592,"op":"edit"}
+{"version":262,"changes":[{"offset":1326,"length":0,"text":"9"}],"doc":1,"seq":279,"ms":1819516,"op":"edit"}
+{"version":263,"changes":[{"offset":1378,"length":1,"text":""}],"doc":1,"seq":280,"ms":1822820,"op":"edit"}
+{"version":264,"changes":[{"offset":1378,"length":0,"text":"1"}],"doc":1,"seq":281,"ms":1823787,"op":"edit"}
+{"version":265,"changes":[{"offset":1379,"length":0,"text":"0"}],"doc":1,"seq":282,"ms":1825119,"op":"edit"}
+{"version":266,"changes":[{"offset":1432,"length":1,"text":""}],"doc":1,"seq":283,"ms":1827326,"op":"edit"}
+{"version":267,"changes":[{"offset":1431,"length":1,"text":""}],"doc":1,"seq":284,"ms":1828127,"op":"edit"}
+{"version":268,"changes":[{"offset":1431,"length":0,"text":"1"}],"doc":1,"seq":285,"ms":1829322,"op":"edit"}
+{"version":269,"changes":[{"offset":1432,"length":0,"text":"1"}],"doc":1,"seq":286,"ms":1829581,"op":"edit"}
+{"version":270,"changes":[{"offset":1433,"length":0,"text":";"}],"doc":1,"seq":287,"ms":1830705,"op":"edit"}
+{"version":271,"changes":[{"offset":1432,"length":1,"text":""}],"doc":1,"seq":288,"ms":1835909,"op":"edit"}
+{"version":272,"changes":[{"offset":1432,"length":0,"text":"2"}],"doc":1,"seq":289,"ms":1837712,"op":"edit"}
+{"version":273,"changes":[{"offset":1432,"length":1,"text":""}],"doc":1,"seq":290,"ms":1839118,"op":"edit"}
+{"version":274,"changes":[{"offset":1432,"length":0,"text":"1"}],"doc":1,"seq":291,"ms":1839696,"op":"edit"}
+{"version":275,"changes":[{"offset":1485,"length":1,"text":""}],"doc":1,"seq":292,"ms":1846739,"op":"edit"}
+{"version":276,"changes":[{"offset":1484,"length":1,"text":""}],"doc":1,"seq":293,"ms":1847042,"op":"edit"}
+{"version":277,"changes":[{"offset":1484,"length":0,"text":"1"}],"doc":1,"seq":294,"ms":1847836,"op":"edit"}
+{"version":278,"changes":[{"offset":1485,"length":0,"text":"2"}],"doc":1,"seq":295,"ms":1848527,"op":"edit"}
+{"version":279,"changes":[{"offset":1486,"length":0,"text":";"}],"doc":1,"seq":296,"ms":1850407,"op":"edit"}
