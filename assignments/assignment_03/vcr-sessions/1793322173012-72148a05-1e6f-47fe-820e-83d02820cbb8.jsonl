@@ -203,3 +203,19 @@
 {"version":185,"changes":[{"offset":593,"length":1,"text":""}],"doc":1,"seq":202,"ms":1516070,"op":"edit"}
 {"version":186,"changes":[{"offset":593,"length":0,"text":"|"}],"doc":1,"seq":203,"ms":1519288,"op":"edit"}
 {"version":187,"changes":[{"offset":594,"length":0,"text":"|"}],"doc":1,"seq":204,"ms":1520115,"op":"edit"}
+{"version":188,"changes":[{"offset":795,"length":22,"text":""}],"doc":1,"seq":205,"ms":1591704,"op":"edit"}
+{"version":189,"changes":[{"offset":794,"length":1,"text":""}],"doc":1,"seq":206,"ms":1592098,"op":"edit"}
+{"version":190,"changes":[{"offset":793,"length":1,"text":""}],"doc":1,"seq":207,"ms":1592434,"op":"edit"}
+{"version":191,"changes":[{"offset":793,"length":0,"text":"i"}],"doc":1,"seq":208,"ms":1594400,"op":"edit"}
+{"version":192,"changes":[{"offset":794,"length":0,"text":"n"}],"doc":1,"seq":209,"ms":1594774,"op":"edit"}
+{"version":193,"changes":[{"offset":795,"length":0,"text":"t"}],"doc":1,"seq":210,"ms":1595187,"op":"edit"}
+{"version":194,"changes":[{"offset":796,"length":0,"text":" "}],"doc":1,"seq":211,"ms":1595612,"op":"edit"}
+{"version":195,"changes":[{"offset":797,"length":0,"text":"d"}],"doc":1,"seq":212,"ms":1596298,"op":"edit"}
+{"version":196,"changes":[{"offset":798,"length":0,"text":"e"}],"doc":1,"seq":213,"ms":1596630,"op":"edit"}
+{"version":197,"changes":[{"offset":799,"length":0,"text":"c"}],"doc":1,"seq":214,"ms":1597998,"op":"edit"}
+{"version":198,"changes":[{"offset":800,"length":0,"text":"i"}],"doc":1,"seq":215,"ms":1598474,"op":"edit"}
+{"version":199,"changes":[{"offset":801,"length":0,"text":"m"}],"doc":1,"seq":216,"ms":1599502,"op":"edit"}
+{"version":200,"changes":[{"offset":802,"length":0,"text":"a"}],"doc":1,"seq":217,"ms":1600075,"op":"edit"}
+{"text":"#include <iostream>\n#include <string>\nusing namespace std;\n\nint main()\n{\n    cout << \"==========================\\n\";\n    cout << \"   Base Conversion program\\n\";\n    cout << \"=========================\\n\";\n    cout << \"1. Convert Binary to Decimal\\n\";\n    cout << \"2. Convert Decimal to Binary\\n\";\n    cout << \"3. Exit\\n\";\n    cout << \"----------------------------\\n\";\n\n    int choice;\n    cout << \"Enter your choice (1-3): \";\n    cin >> choice;\n\n    if (choice == 1)\n    {\n        string binary;\n        cout << \"Enter a binary number: \";\n        cin >> binary;\n        if (binary.length()!= 4 ||\n            binary.find_first_not_of(\"1\") != string::npos)\n        {\n            cout << \"Error : Binary numbers can only contain 0s and 1s. \" << endl;\n        }\n        else\n        {\n            int decimal\n        }\n    }\n    else if (choice == 2)\n    {\n        cout << \"Decimal to Binary\" << endl;\n    }\n    else if (choice == 3)\n    {\n        cout << \"goodbye\" << endl;\n    }\n    else\n    {\n        cout << \"error message\" << endl;\n    }\n}\n","version":201,"snapshot":true,"doc":1,"seq":218,"ms":1600693,"op":"edit"}
+{"version":202,"changes":[{"offset":804,"length":0,"text":";"}],"doc":1,"seq":219,"ms":1603156,"op":"edit"}
+{"version":203,"changes":[{"offset":805,"length":0,"text":"\n            "}],"doc":1,"seq":220,"ms":1603994,"op":"edit"}
