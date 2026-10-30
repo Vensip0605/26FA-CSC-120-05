@@ -494,3 +494,10 @@
 {"executionId":"f698f939-c070-4f7c-8a45-28fa26fc266e","terminalId":"f82f50c5-5c1f-4018-8c7c-8f6365a7eeb0","data":"1","doc":2,"seq":493,"ms":2610004,"op":"terminal.output"}
 {"executionId":"f698f939-c070-4f7c-8a45-28fa26fc266e","terminalId":"f82f50c5-5c1f-4018-8c7c-8f6365a7eeb0","data":"\r\nError : Binary numbers can only contain 0s and 1s. \r\nProgram finished.\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                         \r \r","doc":2,"seq":494,"ms":2610736,"op":"terminal.output"}
 {"executionId":"f698f939-c070-4f7c-8a45-28fa26fc266e","terminalId":"f82f50c5-5c1f-4018-8c7c-8f6365a7eeb0","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/assignments/assignment_03/base","confidence":2,"exitCode":0,"doc":2,"seq":495,"ms":2610736,"op":"terminal.end"}
+{"version":444,"changes":[{"offset":573,"length":21,"text":" "}],"doc":1,"seq":496,"ms":2754691,"op":"edit"}
+{"version":445,"changes":[{"offset":573,"length":0,"text":"b"}],"doc":1,"seq":497,"ms":2809435,"op":"edit"}
+{"version":446,"changes":[{"offset":574,"length":0,"text":"i"}],"doc":1,"seq":498,"ms":2809911,"op":"edit"}
+{"version":447,"changes":[{"offset":575,"length":0,"text":"n"}],"doc":1,"seq":499,"ms":2810453,"op":"edit"}
+{"version":448,"changes":[{"offset":576,"length":0,"text":"a"}],"doc":1,"seq":500,"ms":2812633,"op":"edit"}
+{"version":449,"changes":[{"offset":577,"length":0,"text":"r"}],"doc":1,"seq":501,"ms":2813172,"op":"edit"}
+{"version":450,"changes":[{"offset":578,"length":0,"text":"y"}],"doc":1,"seq":502,"ms":2813615,"op":"edit"}
