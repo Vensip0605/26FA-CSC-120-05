@@ -501,3 +501,21 @@
 {"version":448,"changes":[{"offset":576,"length":0,"text":"a"}],"doc":1,"seq":500,"ms":2812633,"op":"edit"}
 {"version":449,"changes":[{"offset":577,"length":0,"text":"r"}],"doc":1,"seq":501,"ms":2813172,"op":"edit"}
 {"version":450,"changes":[{"offset":578,"length":0,"text":"y"}],"doc":1,"seq":502,"ms":2813615,"op":"edit"}
+{"version":451,"changes":[{"offset":579,"length":0,"text":"."}],"doc":1,"seq":503,"ms":2815984,"op":"edit"}
+{"version":452,"changes":[{"offset":580,"length":0,"text":"l"}],"doc":1,"seq":504,"ms":2816610,"op":"edit"}
+{"version":453,"changes":[{"offset":581,"length":0,"text":"e"}],"doc":1,"seq":505,"ms":2818969,"op":"edit"}
+{"version":454,"changes":[{"offset":582,"length":0,"text":"n"}],"doc":1,"seq":506,"ms":2821223,"op":"edit"}
+{"version":455,"changes":[{"offset":583,"length":0,"text":"g"}],"doc":1,"seq":507,"ms":2821705,"op":"edit"}
+{"version":456,"changes":[{"offset":584,"length":0,"text":"t"}],"doc":1,"seq":508,"ms":2822913,"op":"edit"}
+{"version":457,"changes":[{"offset":585,"length":0,"text":"h"}],"doc":1,"seq":509,"ms":2823362,"op":"edit"}
+{"version":458,"changes":[{"offset":586,"length":0,"text":"()"}],"doc":1,"seq":510,"ms":2826580,"op":"edit"}
+{"version":459,"changes":[{"offset":588,"length":0,"text":"!"}],"doc":1,"seq":511,"ms":2831273,"op":"edit"}
+{"version":460,"changes":[{"offset":589,"length":0,"text":"="}],"doc":1,"seq":512,"ms":2833137,"op":"edit"}
+{"version":461,"changes":[{"offset":589,"length":1,"text":""}],"doc":1,"seq":513,"ms":2833915,"op":"edit"}
+{"version":462,"changes":[{"offset":589,"length":0,"text":" "}],"doc":1,"seq":514,"ms":2834430,"op":"edit"}
+{"version":463,"changes":[{"offset":590,"length":0,"text":"="}],"doc":1,"seq":515,"ms":2835191,"op":"edit"}
+{"version":464,"changes":[{"offset":591,"length":0,"text":" "}],"doc":1,"seq":516,"ms":2836008,"op":"edit"}
+{"version":465,"changes":[{"offset":592,"length":0,"text":"$"}],"doc":1,"seq":517,"ms":2838204,"op":"edit"}
+{"version":466,"changes":[{"offset":592,"length":1,"text":""}],"doc":1,"seq":518,"ms":2839115,"op":"edit"}
+{"version":467,"changes":[{"offset":592,"length":0,"text":"4"}],"doc":1,"seq":519,"ms":2840122,"op":"edit"}
+{"version":468,"changes":[{"offset":635,"length":0,"text":"0"}],"doc":1,"seq":520,"ms":2850357,"op":"edit"}
