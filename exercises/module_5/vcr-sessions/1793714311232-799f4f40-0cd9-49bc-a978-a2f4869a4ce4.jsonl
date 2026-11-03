@@ -2,3 +2,7 @@
 {"branch":"main","commit":"d03bfcecfc14ee23ba82db7cdfbb211bcd94b51b","seq":1,"ms":-46,"op":"source.context"}
 {"text":"#include <iostream>\n\nusing namespace std;\n\nint main()\n{\n    int i = 0;\n    while (i < 5)\n    {\n        cout << \"value of i is \" << i << endl;\n        i++;\n    }\n}\n","version":1,"path":"test.cpp","snapshot":true,"doc":1,"seq":2,"ms":-46,"op":"snap"}
 {"text":"#include <iostream>\n\nusing namespace std;\n\nint main()\n{\n    int min, max;\n    cout << \"Enter min number:\";\n    cin >> min;\n    cout << \"Enter max number:\";\n    cin >> max;\n    for (int i = min; i <= max; i += 2)\n    {\n        cout << i * i << \" \";\n    }\n    cout << endl;\n}\n","version":1,"path":"forloop.cpp","snapshot":true,"doc":2,"seq":3,"ms":1498,"op":"snap"}
+{"doc":1,"seq":4,"ms":1952671,"op":"close"}
+{"doc":2,"seq":5,"ms":1952671,"op":"close"}
+{"source":"workspace","operationId":"df5d41b5-3a21-4cc7-85b4-2712a2c6e5e5","path":".","doc":3,"seq":6,"ms":1952710,"op":"fs.moveFrom"}
+{"source":"watcher","doc":3,"seq":7,"ms":1952749,"op":"fs.delete"}
