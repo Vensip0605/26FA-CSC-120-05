@@ -4,3 +4,7 @@
 {"source":"watcher","doc":1,"seq":3,"ms":-907,"op":"fs.create"}
 {"source":"workspace","doc":1,"seq":4,"ms":47106,"op":"fs.delete"}
 {"source":"watcher","doc":1,"seq":5,"ms":47238,"op":"fs.delete"}
+{"source":"workspace","doc":1,"seq":6,"ms":68367,"op":"fs.create"}
+{"source":"watcher","doc":1,"seq":7,"ms":68454,"op":"fs.create"}
+{"text":"","version":1,"path":"greeting.cpp","snapshot":true,"doc":2,"seq":8,"ms":89886,"op":"snap"}
+{"version":2,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":0,"length":0,"text":"#include <iostream>\n\nusing namespace std;\n\nint main()"}],"doc":2,"seq":9,"ms":104039,"op":"edit"}
