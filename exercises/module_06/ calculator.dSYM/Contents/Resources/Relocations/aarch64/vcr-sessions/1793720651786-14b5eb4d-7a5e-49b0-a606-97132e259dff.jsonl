@@ -1,0 +1,3 @@
+{"version":1,"courseId":"26FA-CSC-120-05","folder":"exercises/module_06/ calculator.dSYM/Contents/Resources/Relocations/aarch64","startedAt":"2026-11-03T15:44:11.786Z","attemptId":"a5f053e1-c73e-4d64-b200-3ad18fd8771b","segmentId":"4dd66749-c72c-4b73-8db9-9d8e66e1a457","sourceWindowId":"04a5f2c4-62d5-448f-b596-d553b028c38a","seq":0,"ms":0,"op":"session"}
+{"branch":"main","commit":"3a28f63306b3b0ee4151238d80e3c8301877e695","seq":1,"ms":-404,"op":"source.context"}
+{"source":"watcher","path":".","doc":1,"seq":2,"ms":-404,"op":"fs.create"}

@@ -53,3 +53,17 @@
 {"executionId":"7ac7a7c5-4dda-4161-b8ef-a9765e7244e3","processId":-1,"doc":2,"seq":52,"ms":3566565,"op":"task.processStart"}
 {"executionId":"7ac7a7c5-4dda-4161-b8ef-a9765e7244e3","exitCode":-1,"doc":2,"seq":53,"ms":3566714,"op":"task.processEnd"}
 {"executionId":"7ac7a7c5-4dda-4161-b8ef-a9765e7244e3","doc":2,"seq":54,"ms":3566715,"op":"task.end"}
+{"executionId":"9489b1da-ebbb-4cb7-8288-284dcc9a1249","name":"C/C++: g++ build active file","type":"cppbuild","doc":2,"seq":55,"ms":3604081,"op":"task.start"}
+{"executionId":"9489b1da-ebbb-4cb7-8288-284dcc9a1249","processId":-1,"doc":2,"seq":56,"ms":3604089,"op":"task.processStart"}
+{"executionId":"9489b1da-ebbb-4cb7-8288-284dcc9a1249","exitCode":-1,"doc":2,"seq":57,"ms":3604237,"op":"task.processEnd"}
+{"executionId":"9489b1da-ebbb-4cb7-8288-284dcc9a1249","doc":2,"seq":58,"ms":3604238,"op":"task.end"}
+{"executionId":"29568c34-9d7c-4974-b30a-24cc50ae7cf3","name":"C/C++: g++ build active file","type":"cppbuild","doc":2,"seq":59,"ms":3612836,"op":"task.start"}
+{"executionId":"29568c34-9d7c-4974-b30a-24cc50ae7cf3","processId":-1,"doc":2,"seq":60,"ms":3612845,"op":"task.processStart"}
+{"executionId":"29568c34-9d7c-4974-b30a-24cc50ae7cf3","exitCode":-1,"doc":2,"seq":61,"ms":3612981,"op":"task.processEnd"}
+{"executionId":"29568c34-9d7c-4974-b30a-24cc50ae7cf3","doc":2,"seq":62,"ms":3612982,"op":"task.end"}
+{"executionId":"b878ecff-be94-434f-b3d5-6f3bc2a6c66c","name":"C/C++: g++ build active file","type":"cppbuild","doc":2,"seq":63,"ms":3643789,"op":"task.start"}
+{"executionId":"b878ecff-be94-434f-b3d5-6f3bc2a6c66c","processId":-1,"doc":2,"seq":64,"ms":3643795,"op":"task.processStart"}
+{"executionId":"b878ecff-be94-434f-b3d5-6f3bc2a6c66c","exitCode":0,"doc":2,"seq":65,"ms":3644031,"op":"task.processEnd"}
+{"executionId":"b878ecff-be94-434f-b3d5-6f3bc2a6c66c","doc":2,"seq":66,"ms":3644032,"op":"task.end"}
+{"executionId":"f7cb50c0-6ebf-49c4-b9b2-8d03a654eefa","name":"C/C++: g++ build and debug active file","type":"cppdbg","noDebug":true,"doc":2,"seq":67,"ms":3644037,"op":"debug.start"}
+{"executionId":"f7cb50c0-6ebf-49c4-b9b2-8d03a654eefa","doc":2,"seq":68,"ms":3644394,"op":"debug.end"}
