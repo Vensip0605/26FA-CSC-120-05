@@ -47,3 +47,4 @@
 {"version":45,"changes":[{"offset":216,"length":1,"text":""},{"offset":202,"length":1,"text":""},{"offset":188,"length":1,"text":""},{"offset":174,"length":1,"text":""},{"offset":160,"length":1,"text":""}],"doc":1,"seq":46,"ms":204000,"op":"edit"}
 {"version":46,"changes":[{"offset":223,"length":0,"text":" "},{"offset":221,"length":0,"text":" "}],"doc":1,"seq":47,"ms":204180,"op":"edit"}
 {"doc":1,"seq":48,"ms":204189,"op":"save"}
+{"text":"","version":1,"path":"showsquare.cpp","snapshot":true,"doc":2,"seq":49,"ms":1114248,"op":"snap"}
