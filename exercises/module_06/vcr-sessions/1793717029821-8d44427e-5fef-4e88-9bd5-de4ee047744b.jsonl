@@ -2,3 +2,17 @@
 {"branch":"main","commit":"3a28f63306b3b0ee4151238d80e3c8301877e695","seq":1,"ms":-202,"op":"source.context"}
 {"text":"#include <iostream>\n\nusing namespace std;\n\nvoid displaygreet()\n{\n    cout << \"welcome to CSC-120!\\n\";\n}\n\nint main()\n{\n    cout << \"program starting...\\n\";\n    displaygreet(); // function call\n    cout << \"program ending...\\n\";\n    return 0;\n}\n","version":1,"path":"greeting.cpp","snapshot":true,"doc":1,"seq":2,"ms":-202,"op":"snap"}
 {"version":2,"changes":[{"offset":175,"length":16,"text":" "}],"doc":1,"seq":3,"ms":45132,"op":"edit"}
+{"version":3,"changes":[{"offset":165,"length":1,"text":""}],"doc":1,"seq":4,"ms":95178,"op":"edit"}
+{"version":4,"changes":[{"offset":164,"length":1,"text":""}],"doc":1,"seq":5,"ms":95678,"op":"edit"}
+{"version":5,"changes":[{"offset":163,"length":1,"text":""}],"doc":1,"seq":6,"ms":95762,"op":"edit"}
+{"version":6,"changes":[{"offset":162,"length":1,"text":""}],"doc":1,"seq":7,"ms":95846,"op":"edit"}
+{"version":7,"changes":[{"offset":161,"length":1,"text":""}],"doc":1,"seq":8,"ms":96047,"op":"edit"}
+{"version":8,"changes":[{"offset":160,"length":1,"text":""}],"doc":1,"seq":9,"ms":96241,"op":"edit"}
+{"version":9,"changes":[{"offset":159,"length":1,"text":""}],"doc":1,"seq":10,"ms":96565,"op":"edit"}
+{"version":10,"changes":[{"offset":54,"length":1,"text":""}],"doc":1,"seq":11,"ms":100195,"op":"edit"}
+{"version":11,"changes":[{"offset":53,"length":1,"text":""}],"doc":1,"seq":12,"ms":100457,"op":"edit"}
+{"version":12,"changes":[{"offset":52,"length":1,"text":""}],"doc":1,"seq":13,"ms":100632,"op":"edit"}
+{"version":13,"changes":[{"offset":51,"length":1,"text":""}],"doc":1,"seq":14,"ms":100799,"op":"edit"}
+{"version":14,"changes":[{"offset":50,"length":1,"text":""}],"doc":1,"seq":15,"ms":100983,"op":"edit"}
+{"version":15,"changes":[{"offset":49,"length":1,"text":""}],"doc":1,"seq":16,"ms":101179,"op":"edit"}
+{"version":16,"changes":[{"offset":48,"length":1,"text":""}],"doc":1,"seq":17,"ms":101537,"op":"edit"}
