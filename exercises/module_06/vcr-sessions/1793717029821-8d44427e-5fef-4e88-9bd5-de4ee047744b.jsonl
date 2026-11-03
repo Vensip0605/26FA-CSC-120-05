@@ -182,3 +182,37 @@
 {"executionId":"ac99efb5-d006-4308-88dc-7ed82ff7bf13","terminalId":"f1a81bb0-755e-4e11-9744-33060a1f6e2f","data":"\u001b]633;C\u0007","doc":3,"seq":181,"ms":1404681,"op":"terminal.output"}
 {"executionId":"ac99efb5-d006-4308-88dc-7ed82ff7bf13","terminalId":"f1a81bb0-755e-4e11-9744-33060a1f6e2f","data":"The square of 5\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":3,"seq":182,"ms":1404794,"op":"terminal.output"}
 {"executionId":"ac99efb5-d006-4308-88dc-7ed82ff7bf13","terminalId":"f1a81bb0-755e-4e11-9744-33060a1f6e2f","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/showsquare","confidence":2,"exitCode":0,"doc":3,"seq":183,"ms":1404795,"op":"terminal.end"}
+{"version":129,"changes":[{"offset":108,"length":0,"text":" "}],"doc":2,"seq":184,"ms":1492105,"op":"edit"}
+{"version":130,"changes":[{"offset":109,"length":0,"text":"\"\""}],"doc":2,"seq":185,"ms":1492996,"op":"edit"}
+{"version":131,"changes":[{"offset":110,"length":0,"text":" "}],"doc":2,"seq":186,"ms":1493756,"op":"edit"}
+{"version":132,"changes":[{"offset":110,"length":1,"text":""}],"doc":2,"seq":187,"ms":1494440,"op":"edit"}
+{"version":133,"changes":[{"offset":110,"length":0,"text":"i"}],"doc":2,"seq":188,"ms":1495194,"op":"edit"}
+{"version":134,"changes":[{"offset":111,"length":0,"text":"s"}],"doc":2,"seq":189,"ms":1495595,"op":"edit"}
+{"version":135,"changes":[{"offset":112,"length":0,"text":" "}],"doc":2,"seq":190,"ms":1496466,"op":"edit"}
+{"version":136,"changes":[{"offset":114,"length":0,"text":"<"}],"doc":2,"seq":191,"ms":1499166,"op":"edit"}
+{"version":137,"changes":[{"offset":115,"length":0,"text":"<"}],"doc":2,"seq":192,"ms":1499412,"op":"edit"}
+{"version":138,"changes":[{"offset":116,"length":0,"text":" "}],"doc":2,"seq":193,"ms":1500024,"op":"edit"}
+{"version":139,"changes":[{"offset":117,"length":0,"text":"n"}],"doc":2,"seq":194,"ms":1500891,"op":"edit"}
+{"version":140,"changes":[{"offset":118,"length":0,"text":"u"}],"doc":2,"seq":195,"ms":1501169,"op":"edit"}
+{"version":141,"changes":[{"offset":119,"length":0,"text":"m"}],"doc":2,"seq":196,"ms":1501479,"op":"edit"}
+{"version":142,"changes":[{"offset":120,"length":0,"text":" "}],"doc":2,"seq":197,"ms":1502097,"op":"edit"}
+{"version":143,"changes":[{"offset":121,"length":0,"text":"*"}],"doc":2,"seq":198,"ms":1505322,"op":"edit"}
+{"version":144,"changes":[{"offset":122,"length":0,"text":"n"}],"doc":2,"seq":199,"ms":1507118,"op":"edit"}
+{"version":145,"changes":[{"offset":123,"length":0,"text":"u"}],"doc":2,"seq":200,"ms":1507462,"op":"edit"}
+{"version":146,"changes":[{"offset":124,"length":0,"text":"m"}],"doc":2,"seq":201,"ms":1507782,"op":"edit"}
+{"version":147,"changes":[{"offset":122,"length":0,"text":" "}],"doc":2,"seq":202,"ms":1511957,"op":"edit"}
+{"version":148,"changes":[{"offset":126,"length":0,"text":"<"}],"doc":2,"seq":203,"ms":1515188,"op":"edit"}
+{"version":149,"changes":[{"offset":127,"length":0,"text":"<"}],"doc":2,"seq":204,"ms":1515414,"op":"edit"}
+{"version":150,"changes":[{"offset":126,"length":0,"text":" "},{"offset":114,"length":0,"text":" "}],"doc":2,"seq":205,"ms":1520963,"op":"edit"}
+{"doc":2,"seq":206,"ms":1520971,"op":"save"}
+{"executionId":"07243464-6a3b-4642-a5e0-a69e38a554bc","terminalId":"f1a81bb0-755e-4e11-9744-33060a1f6e2f","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/showsquare","confidence":2,"doc":3,"seq":207,"ms":1521340,"op":"terminal.start"}
+{"executionId":"07243464-6a3b-4642-a5e0-a69e38a554bc","terminalId":"f1a81bb0-755e-4e11-9744-33060a1f6e2f","data":"\u001b]633;C\u0007","doc":3,"seq":208,"ms":1521392,"op":"terminal.output"}
+{"executionId":"07243464-6a3b-4642-a5e0-a69e38a554bc","terminalId":"f1a81bb0-755e-4e11-9744-33060a1f6e2f","data":"The square of 5is 25\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":3,"seq":209,"ms":1521541,"op":"terminal.output"}
+{"executionId":"07243464-6a3b-4642-a5e0-a69e38a554bc","terminalId":"f1a81bb0-755e-4e11-9744-33060a1f6e2f","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/showsquare","confidence":2,"exitCode":0,"doc":3,"seq":210,"ms":1521541,"op":"terminal.end"}
+{"version":151,"changes":[{"offset":110,"length":0,"text":" "}],"doc":2,"seq":211,"ms":1525957,"op":"edit"}
+{"doc":2,"seq":212,"ms":1527853,"op":"save"}
+{"executionId":"dbb79362-d257-4ca0-b302-0f0f0b5142b1","terminalId":"f1a81bb0-755e-4e11-9744-33060a1f6e2f","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/showsquare","confidence":2,"doc":3,"seq":213,"ms":1528217,"op":"terminal.start"}
+{"executionId":"dbb79362-d257-4ca0-b302-0f0f0b5142b1","terminalId":"f1a81bb0-755e-4e11-9744-33060a1f6e2f","data":"\u001b]633;C\u0007","doc":3,"seq":214,"ms":1528268,"op":"terminal.output"}
+{"executionId":"dbb79362-d257-4ca0-b302-0f0f0b5142b1","terminalId":"f1a81bb0-755e-4e11-9744-33060a1f6e2f","data":"The square of 5 is 25\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":3,"seq":215,"ms":1528379,"op":"terminal.output"}
+{"executionId":"dbb79362-d257-4ca0-b302-0f0f0b5142b1","terminalId":"f1a81bb0-755e-4e11-9744-33060a1f6e2f","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/showsquare","confidence":2,"exitCode":0,"doc":3,"seq":216,"ms":1528379,"op":"terminal.end"}
+{"version":152,"changes":[{"offset":172,"length":0,"text":"\n    "}],"doc":2,"seq":217,"ms":1533406,"op":"edit"}
