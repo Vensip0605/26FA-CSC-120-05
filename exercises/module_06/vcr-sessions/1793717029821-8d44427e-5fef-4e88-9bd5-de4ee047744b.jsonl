@@ -245,3 +245,24 @@
 {"executionId":"c8d49063-046a-486b-ad82-395d9bdb0941","terminalId":"f1a81bb0-755e-4e11-9744-33060a1f6e2f","data":"The square of 5 is 25\r\nThe square of 8 is 64\r\nThe square of 14 is 196\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":3,"seq":244,"ms":1568670,"op":"terminal.output"}
 {"executionId":"c8d49063-046a-486b-ad82-395d9bdb0941","terminalId":"f1a81bb0-755e-4e11-9744-33060a1f6e2f","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/showsquare","confidence":2,"exitCode":0,"doc":3,"seq":245,"ms":1568670,"op":"terminal.end"}
 {"text":"","version":1,"path":"sum.cpp","snapshot":true,"doc":4,"seq":246,"ms":3110034,"op":"snap"}
+{"version":2,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":0,"length":0,"text":"#include <iostream>\n\nusing namespace std;\n"}],"doc":4,"seq":247,"ms":3163139,"op":"edit"}
+{"doc":4,"seq":248,"ms":3182073,"op":"close"}
+{"text":"#include <iostream>\n\nusing namespace std;\n","version":1,"path":" calculator.cpp","snapshot":true,"doc":5,"seq":249,"ms":3182097,"op":"snap"}
+{"version":2,"changes":[{"offset":42,"length":0,"text":" "}],"doc":5,"seq":250,"ms":3186472,"op":"edit"}
+{"version":3,"changes":[{"offset":43,"length":0,"text":"\n"}],"doc":5,"seq":251,"ms":3187319,"op":"edit"}
+{"version":4,"changes":[{"offset":44,"length":0,"text":"v"}],"doc":5,"seq":252,"ms":3188705,"op":"edit"}
+{"version":5,"changes":[{"offset":45,"length":0,"text":"i"}],"doc":5,"seq":253,"ms":3189002,"op":"edit"}
+{"version":6,"changes":[{"offset":45,"length":1,"text":""}],"doc":5,"seq":254,"ms":3189921,"op":"edit"}
+{"version":7,"changes":[{"offset":45,"length":0,"text":"o"}],"doc":5,"seq":255,"ms":3190755,"op":"edit"}
+{"version":8,"changes":[{"offset":46,"length":0,"text":"i"}],"doc":5,"seq":256,"ms":3191338,"op":"edit"}
+{"version":9,"changes":[{"offset":47,"length":0,"text":"d"}],"doc":5,"seq":257,"ms":3195527,"op":"edit"}
+{"version":10,"changes":[{"offset":48,"length":0,"text":" "}],"doc":5,"seq":258,"ms":3197278,"op":"edit"}
+{"version":11,"changes":[{"offset":49,"length":0,"text":"s"}],"doc":5,"seq":259,"ms":3200705,"op":"edit"}
+{"version":12,"changes":[{"offset":50,"length":0,"text":"h"}],"doc":5,"seq":260,"ms":3201388,"op":"edit"}
+{"version":13,"changes":[{"offset":51,"length":0,"text":"o"}],"doc":5,"seq":261,"ms":3203805,"op":"edit"}
+{"version":14,"changes":[{"offset":52,"length":0,"text":"w"}],"doc":5,"seq":262,"ms":3204205,"op":"edit"}
+{"version":15,"changes":[{"offset":53,"length":0,"text":"s"}],"doc":5,"seq":263,"ms":3205721,"op":"edit"}
+{"version":16,"changes":[{"offset":54,"length":0,"text":"u"}],"doc":5,"seq":264,"ms":3206002,"op":"edit"}
+{"version":17,"changes":[{"offset":55,"length":0,"text":"m"}],"doc":5,"seq":265,"ms":3206369,"op":"edit"}
+{"version":18,"changes":[{"offset":56,"length":0,"text":" "}],"doc":5,"seq":266,"ms":3206803,"op":"edit"}
+{"version":19,"changes":[{"offset":57,"length":0,"text":"()"}],"doc":5,"seq":267,"ms":3209122,"op":"edit"}
