@@ -5,3 +5,4 @@
 {"source":"workspace","operationId":"df5d41b5-3a21-4cc7-85b4-2712a2c6e5e5","path":".","doc":3,"seq":4,"ms":-103,"op":"fs.moveTo"}
 {"source":"watcher","doc":3,"seq":5,"ms":-64,"op":"fs.create"}
 {"text":"#include <iostream>\n\nusing namespace std;\n\nint main()\n{\n    int start, end;\n    do\n    {\n        cout << \"Enter starting number:\";\n        cin >> start;\n        cout << \"Enter ending number:\";\n        cin >> end;\n    } while (start > end);\n\n    int diff = end - start;\n    int counter = 0;\n    while (counter <= diff)\n    {\n        cout << start + counter << \" \";\n        counter++;\n    }\n    cout << \"\\n\";\n    counter = 0;\n    while (counter <= diff)\n    {\n        cout << end - counter << \" \";\n        counter++;\n    }\n}\n","version":1,"path":"do-while.cpp","snapshot":true,"doc":4,"seq":6,"ms":37698,"op":"snap"}
+{"seq":7,"ms":717781,"op":"end"}

@@ -2,3 +2,4 @@
 {"branch":"main","commit":"d03bfcecfc14ee23ba82db7cdfbb211bcd94b51b","seq":1,"ms":-54,"op":"source.context"}
 {"source":"workspace","path":".","doc":1,"seq":2,"ms":-54,"op":"fs.create"}
 {"source":"watcher","doc":1,"seq":3,"ms":78,"op":"fs.create"}
+{"seq":4,"ms":637278,"op":"end"}

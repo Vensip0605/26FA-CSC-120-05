@@ -263,3 +263,4 @@
 {"branch":"main","commit":"3a28f63306b3b0ee4151238d80e3c8301877e695","seq":262,"ms":701693,"op":"source.context"}
 {"text":"","version":1,"path":"test.cpp","snapshot":true,"doc":3,"seq":263,"ms":701693,"op":"snap"}
 {"doc":3,"seq":264,"ms":710048,"op":"close"}
+{"seq":265,"ms":727206,"op":"end"}
