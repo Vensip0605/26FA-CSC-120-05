@@ -1,0 +1,3 @@
+{"version":1,"courseId":"26FA-CSC-120-05","folder":"exercises/module_06/greeting.dSYM/Contents/Resources/Relocations/aarch64/greeting.yml","startedAt":"2026-11-03T14:35:01.770Z","attemptId":"5b9df112-f3b6-4ec9-94ac-828bba1c144b","segmentId":"11c1db17-7dfd-46f0-bef7-525ea15978f4","sourceWindowId":"d7039e7d-1f3e-40b8-b914-64dfbbe0a4bb","seq":0,"ms":0,"op":"session"}
+{"branch":"main","commit":"d03bfcecfc14ee23ba82db7cdfbb211bcd94b51b","seq":1,"ms":-408,"op":"source.context"}
+{"source":"watcher","path":".","doc":1,"seq":2,"ms":-408,"op":"fs.create"}
