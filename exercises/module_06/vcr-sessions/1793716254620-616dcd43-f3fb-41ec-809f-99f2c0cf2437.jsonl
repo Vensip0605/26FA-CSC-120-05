@@ -260,3 +260,6 @@
 {"executionId":"0b5245ac-16f7-4d4f-86cc-33054d7f20ba","terminalId":"c81d45dc-cc99-4658-a806-45dc00eea774","data":"\u001b]633;C\u0007","doc":1,"seq":259,"ms":543977,"op":"terminal.output"}
 {"executionId":"0b5245ac-16f7-4d4f-86cc-33054d7f20ba","terminalId":"c81d45dc-cc99-4658-a806-45dc00eea774","data":"program starting...\r\nwelcome to CSC-120!\r\nprogram ending...\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                 \r \r","doc":1,"seq":260,"ms":544096,"op":"terminal.output"}
 {"executionId":"0b5245ac-16f7-4d4f-86cc-33054d7f20ba","terminalId":"c81d45dc-cc99-4658-a806-45dc00eea774","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/greeting","confidence":2,"exitCode":0,"doc":1,"seq":261,"ms":544096,"op":"terminal.end"}
+{"branch":"main","commit":"3a28f63306b3b0ee4151238d80e3c8301877e695","seq":262,"ms":701693,"op":"source.context"}
+{"text":"","version":1,"path":"test.cpp","snapshot":true,"doc":3,"seq":263,"ms":701693,"op":"snap"}
+{"doc":3,"seq":264,"ms":710048,"op":"close"}
