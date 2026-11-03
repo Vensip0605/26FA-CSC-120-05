@@ -1,0 +1,3 @@
+{"version":1,"courseId":"26FA-CSC-120-05","folder":"exercises/module_06/showsquare.dSYM/Contents/Resources/Relocations/aarch64/showsquare.yml","startedAt":"2026-11-03T15:06:43.753Z","attemptId":"6c75567b-3868-4a86-9701-6fe4e087b976","segmentId":"38981b54-936c-49cf-9253-553453b46097","sourceWindowId":"04a5f2c4-62d5-448f-b596-d553b028c38a","seq":0,"ms":0,"op":"session"}
+{"branch":"main","commit":"3a28f63306b3b0ee4151238d80e3c8301877e695","seq":1,"ms":-417,"op":"source.context"}
+{"source":"watcher","path":".","doc":1,"seq":2,"ms":-417,"op":"fs.create"}
