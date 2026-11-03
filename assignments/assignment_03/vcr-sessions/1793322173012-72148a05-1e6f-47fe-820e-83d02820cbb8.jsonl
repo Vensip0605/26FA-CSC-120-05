@@ -554,3 +554,5 @@
 {"executionId":"9ba27919-6dcd-4ef2-94d9-91fcd200f225","terminalId":"f82f50c5-5c1f-4018-8c7c-8f6365a7eeb0","data":"3","doc":2,"seq":553,"ms":2959666,"op":"terminal.output"}
 {"executionId":"9ba27919-6dcd-4ef2-94d9-91fcd200f225","terminalId":"f82f50c5-5c1f-4018-8c7c-8f6365a7eeb0","data":"\r\nThe binary equivalent of 13 is 1101.\r\nProgram finished.\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                         \r \r","doc":2,"seq":554,"ms":2960449,"op":"terminal.output"}
 {"executionId":"9ba27919-6dcd-4ef2-94d9-91fcd200f225","terminalId":"f82f50c5-5c1f-4018-8c7c-8f6365a7eeb0","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/assignments/assignment_03/base","confidence":2,"exitCode":0,"doc":2,"seq":555,"ms":2960449,"op":"terminal.end"}
+{"branch":"main","commit":"d03bfcecfc14ee23ba82db7cdfbb211bcd94b51b","seq":556,"ms":393076264,"op":"source.context"}
+{"doc":1,"seq":557,"ms":393076264,"op":"close"}
