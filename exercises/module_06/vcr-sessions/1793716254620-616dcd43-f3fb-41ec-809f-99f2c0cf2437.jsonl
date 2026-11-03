@@ -246,3 +246,17 @@
 {"version":222,"changes":[{"offset":207,"length":4,"text":""},{"offset":197,"length":0,"text":"\n    "}],"doc":2,"seq":245,"ms":531627,"op":"edit"}
 {"version":223,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":197,"length":0,"text":"cout << \"program starting...\\n\";"}],"doc":2,"seq":246,"ms":534269,"op":"edit"}
 {"version":224,"changes":[{"offset":218,"length":1,"text":""}],"doc":2,"seq":247,"ms":538098,"op":"edit"}
+{"version":225,"changes":[{"offset":217,"length":1,"text":""}],"doc":2,"seq":248,"ms":538352,"op":"edit"}
+{"version":226,"changes":[{"offset":216,"length":1,"text":""}],"doc":2,"seq":249,"ms":538546,"op":"edit"}
+{"version":227,"changes":[{"offset":215,"length":1,"text":""}],"doc":2,"seq":250,"ms":538898,"op":"edit"}
+{"version":228,"changes":[{"offset":214,"length":1,"text":""}],"doc":2,"seq":251,"ms":539295,"op":"edit"}
+{"version":229,"changes":[{"offset":214,"length":0,"text":"e"}],"doc":2,"seq":252,"ms":540232,"op":"edit"}
+{"version":230,"changes":[{"offset":215,"length":0,"text":"n"}],"doc":2,"seq":253,"ms":540535,"op":"edit"}
+{"version":231,"changes":[{"offset":216,"length":0,"text":"d"}],"doc":2,"seq":254,"ms":540854,"op":"edit"}
+{"version":232,"changes":[{"offset":117,"length":1,"text":""}],"doc":2,"seq":255,"ms":543498,"op":"edit"}
+{"version":233,"changes":[{"offset":241,"length":1,"text":""}],"doc":2,"seq":256,"ms":543514,"op":"edit"}
+{"doc":2,"seq":257,"ms":543521,"op":"save"}
+{"executionId":"0b5245ac-16f7-4d4f-86cc-33054d7f20ba","terminalId":"c81d45dc-cc99-4658-a806-45dc00eea774","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/greeting","confidence":2,"doc":1,"seq":258,"ms":543926,"op":"terminal.start"}
+{"executionId":"0b5245ac-16f7-4d4f-86cc-33054d7f20ba","terminalId":"c81d45dc-cc99-4658-a806-45dc00eea774","data":"\u001b]633;C\u0007","doc":1,"seq":259,"ms":543977,"op":"terminal.output"}
+{"executionId":"0b5245ac-16f7-4d4f-86cc-33054d7f20ba","terminalId":"c81d45dc-cc99-4658-a806-45dc00eea774","data":"program starting...\r\nwelcome to CSC-120!\r\nprogram ending...\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                 \r \r","doc":1,"seq":260,"ms":544096,"op":"terminal.output"}
+{"executionId":"0b5245ac-16f7-4d4f-86cc-33054d7f20ba","terminalId":"c81d45dc-cc99-4658-a806-45dc00eea774","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/greeting","confidence":2,"exitCode":0,"doc":1,"seq":261,"ms":544096,"op":"terminal.end"}
