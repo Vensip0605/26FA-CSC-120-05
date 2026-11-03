@@ -76,3 +76,16 @@
 {"executionId":"24a2c21c-6125-42cb-924b-884ac6b76567","exitCode":0,"doc":2,"seq":75,"ms":3709117,"op":"task.processEnd"}
 {"executionId":"24a2c21c-6125-42cb-924b-884ac6b76567","doc":2,"seq":76,"ms":3709118,"op":"task.end"}
 {"executionId":"18c1a944-be58-43f0-8a02-b772369873ca","name":"C/C++: g++ build and debug active file","type":"cppdbg","noDebug":true,"doc":2,"seq":77,"ms":3709123,"op":"debug.start"}
+{"executionId":"18c1a944-be58-43f0-8a02-b772369873ca","doc":2,"seq":78,"ms":3725296,"op":"debug.end"}
+{"executionId":"74ffa020-e2d2-4d93-abdd-8a2b46fe6bae","name":"C/C++: g++ build active file","type":"cppbuild","doc":2,"seq":79,"ms":3742937,"op":"task.start"}
+{"executionId":"74ffa020-e2d2-4d93-abdd-8a2b46fe6bae","processId":-1,"doc":2,"seq":80,"ms":3742941,"op":"task.processStart"}
+{"executionId":"74ffa020-e2d2-4d93-abdd-8a2b46fe6bae","exitCode":0,"doc":2,"seq":81,"ms":3743164,"op":"task.processEnd"}
+{"executionId":"74ffa020-e2d2-4d93-abdd-8a2b46fe6bae","doc":2,"seq":82,"ms":3743165,"op":"task.end"}
+{"executionId":"340a1a19-b005-49df-9fff-b46f062bc986","name":"C/C++: g++ build and debug active file","type":"cppdbg","noDebug":true,"doc":2,"seq":83,"ms":3743170,"op":"debug.start"}
+{"executionId":"6e738782-56dc-4265-af26-9b7dec526e50","name":"C/C++: g++ build active file","type":"cppbuild","doc":2,"seq":84,"ms":3757675,"op":"task.start"}
+{"executionId":"6e738782-56dc-4265-af26-9b7dec526e50","processId":-1,"doc":2,"seq":85,"ms":3757678,"op":"task.processStart"}
+{"executionId":"6e738782-56dc-4265-af26-9b7dec526e50","exitCode":0,"doc":2,"seq":86,"ms":3757905,"op":"task.processEnd"}
+{"executionId":"6e738782-56dc-4265-af26-9b7dec526e50","doc":2,"seq":87,"ms":3757906,"op":"task.end"}
+{"executionId":"b02085c6-0411-4fae-9469-230e504597a1","name":"C/C++: g++ build and debug active file 2","type":"cppdbg","noDebug":true,"doc":2,"seq":88,"ms":3757911,"op":"debug.start"}
+{"executionId":"340a1a19-b005-49df-9fff-b46f062bc986","doc":2,"seq":89,"ms":3757934,"op":"debug.end"}
+{"executionId":"b02085c6-0411-4fae-9469-230e504597a1","doc":2,"seq":90,"ms":3770395,"op":"debug.end"}

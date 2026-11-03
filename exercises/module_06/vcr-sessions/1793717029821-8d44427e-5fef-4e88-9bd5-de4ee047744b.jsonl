@@ -591,3 +591,47 @@
 {"executionId":"36d54d31-7c76-4559-87db-b3685a92a9b6","terminalId":"2bf76e94-21e5-4b19-b7a1-6b8a7e90f000","commandLine":"\"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/ calculator\"","confidence":2,"doc":3,"seq":590,"ms":3686550,"op":"terminal.start"}
 {"executionId":"36d54d31-7c76-4559-87db-b3685a92a9b6","terminalId":"2bf76e94-21e5-4b19-b7a1-6b8a7e90f000","data":"\u001b]633;C\u0007","doc":3,"seq":591,"ms":3686602,"op":"terminal.output"}
 {"executionId":"36d54d31-7c76-4559-87db-b3685a92a9b6","terminalId":"2bf76e94-21e5-4b19-b7a1-6b8a7e90f000","data":"Enter the first number: \r\n Enter the second number: \r\n ","doc":3,"seq":592,"ms":3686825,"op":"terminal.output"}
+{"version":333,"changes":[{"offset":196,"length":0,"text":"2"}],"doc":5,"seq":593,"ms":3695500,"op":"edit"}
+{"version":334,"changes":[{"offset":196,"length":1,"text":""}],"doc":5,"seq":594,"ms":3697025,"op":"edit"}
+{"executionId":"36d54d31-7c76-4559-87db-b3685a92a9b6","terminalId":"2bf76e94-21e5-4b19-b7a1-6b8a7e90f000","data":"2","doc":3,"seq":595,"ms":3699036,"op":"terminal.output"}
+{"executionId":"36d54d31-7c76-4559-87db-b3685a92a9b6","terminalId":"2bf76e94-21e5-4b19-b7a1-6b8a7e90f000","data":"\r\n","doc":3,"seq":596,"ms":3699385,"op":"terminal.output"}
+{"executionId":"36d54d31-7c76-4559-87db-b3685a92a9b6","terminalId":"2bf76e94-21e5-4b19-b7a1-6b8a7e90f000","data":"3","doc":3,"seq":597,"ms":3701346,"op":"terminal.output"}
+{"executionId":"36d54d31-7c76-4559-87db-b3685a92a9b6","terminalId":"2bf76e94-21e5-4b19-b7a1-6b8a7e90f000","data":"\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":3,"seq":598,"ms":3702684,"op":"terminal.output"}
+{"executionId":"36d54d31-7c76-4559-87db-b3685a92a9b6","terminalId":"2bf76e94-21e5-4b19-b7a1-6b8a7e90f000","commandLine":"\"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/ calculator\"","confidence":2,"exitCode":0,"doc":3,"seq":599,"ms":3702684,"op":"terminal.end"}
+{"version":335,"changes":[{"offset":239,"length":0,"text":"\n    "}],"doc":5,"seq":600,"ms":3712640,"op":"edit"}
+{"version":336,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":244,"length":0,"text":"cin >> num1;"}],"doc":5,"seq":601,"ms":3713818,"op":"edit"}
+{"version":337,"changes":[{"offset":316,"length":1,"text":""}],"doc":5,"seq":602,"ms":3716003,"op":"edit"}
+{"version":338,"changes":[{"offset":315,"length":1,"text":""}],"doc":5,"seq":603,"ms":3716504,"op":"edit"}
+{"version":339,"changes":[{"offset":314,"length":1,"text":""}],"doc":5,"seq":604,"ms":3716585,"op":"edit"}
+{"version":340,"changes":[{"offset":313,"length":1,"text":""}],"doc":5,"seq":605,"ms":3716668,"op":"edit"}
+{"version":341,"changes":[{"offset":312,"length":1,"text":""}],"doc":5,"seq":606,"ms":3716752,"op":"edit"}
+{"version":342,"changes":[{"offset":311,"length":1,"text":""}],"doc":5,"seq":607,"ms":3716836,"op":"edit"}
+{"version":343,"changes":[{"offset":310,"length":1,"text":""}],"doc":5,"seq":608,"ms":3716924,"op":"edit"}
+{"version":344,"changes":[{"offset":309,"length":1,"text":""}],"doc":5,"seq":609,"ms":3717004,"op":"edit"}
+{"version":345,"changes":[{"offset":308,"length":1,"text":""}],"doc":5,"seq":610,"ms":3717088,"op":"edit"}
+{"version":346,"changes":[{"offset":307,"length":1,"text":""}],"doc":5,"seq":611,"ms":3717174,"op":"edit"}
+{"version":347,"changes":[{"offset":306,"length":1,"text":""}],"doc":5,"seq":612,"ms":3717424,"op":"edit"}
+{"version":348,"changes":[{"offset":305,"length":1,"text":""}],"doc":5,"seq":613,"ms":3717685,"op":"edit"}
+{"version":349,"changes":[{"offset":301,"length":4,"text":""}],"doc":5,"seq":614,"ms":3718063,"op":"edit"}
+{"version":350,"changes":[{"offset":300,"length":1,"text":""}],"doc":5,"seq":615,"ms":3718462,"op":"edit"}
+{"doc":5,"seq":616,"ms":3720238,"op":"save"}
+{"executionId":"1077d16e-e48f-4dc7-bdf3-51affb642d80","terminalId":"2bf76e94-21e5-4b19-b7a1-6b8a7e90f000","commandLine":"\"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/ calculator\"","confidence":2,"doc":3,"seq":617,"ms":3720600,"op":"terminal.start"}
+{"executionId":"1077d16e-e48f-4dc7-bdf3-51affb642d80","terminalId":"2bf76e94-21e5-4b19-b7a1-6b8a7e90f000","data":"\u001b]633;C\u0007","doc":3,"seq":618,"ms":3720651,"op":"terminal.output"}
+{"executionId":"1077d16e-e48f-4dc7-bdf3-51affb642d80","terminalId":"2bf76e94-21e5-4b19-b7a1-6b8a7e90f000","data":"Enter the first number: \r\n ","doc":3,"seq":619,"ms":3723800,"op":"terminal.output"}
+{"version":351,"changes":[{"offset":234,"length":2,"text":" "}],"doc":5,"seq":620,"ms":3730439,"op":"edit"}
+{"version":352,"changes":[{"offset":296,"length":1,"text":""}],"doc":5,"seq":621,"ms":3732444,"op":"edit"}
+{"version":353,"changes":[{"offset":295,"length":1,"text":""}],"doc":5,"seq":622,"ms":3732713,"op":"edit"}
+{"version":354,"changes":[{"offset":294,"length":1,"text":""}],"doc":5,"seq":623,"ms":3733005,"op":"edit"}
+{"doc":5,"seq":624,"ms":3734984,"op":"save"}
+{"executionId":"1077d16e-e48f-4dc7-bdf3-51affb642d80","terminalId":"2bf76e94-21e5-4b19-b7a1-6b8a7e90f000","data":"^C\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":3,"seq":625,"ms":3735310,"op":"terminal.output"}
+{"executionId":"1077d16e-e48f-4dc7-bdf3-51affb642d80","terminalId":"2bf76e94-21e5-4b19-b7a1-6b8a7e90f000","commandLine":"\"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/ calculator\"","confidence":2,"exitCode":130,"doc":3,"seq":626,"ms":3735310,"op":"terminal.end"}
+{"executionId":"6b015693-29da-4913-8ef7-332ffc676883","terminalId":"2bf76e94-21e5-4b19-b7a1-6b8a7e90f000","commandLine":"\"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/ calculator\"","confidence":2,"doc":3,"seq":627,"ms":3735443,"op":"terminal.start"}
+{"executionId":"6b015693-29da-4913-8ef7-332ffc676883","terminalId":"2bf76e94-21e5-4b19-b7a1-6b8a7e90f000","data":"\u001b]633;C\u0007","doc":3,"seq":628,"ms":3735494,"op":"terminal.output"}
+{"executionId":"6b015693-29da-4913-8ef7-332ffc676883","terminalId":"2bf76e94-21e5-4b19-b7a1-6b8a7e90f000","data":"Enter the first number:   ","doc":3,"seq":629,"ms":3735615,"op":"terminal.output"}
+{"version":355,"changes":[{"offset":294,"length":0,"text":"8"}],"doc":5,"seq":630,"ms":3740345,"op":"edit"}
+{"version":356,"changes":[{"offset":294,"length":1,"text":""}],"doc":5,"seq":631,"ms":3742026,"op":"edit"}
+{"executionId":"6b015693-29da-4913-8ef7-332ffc676883","terminalId":"2bf76e94-21e5-4b19-b7a1-6b8a7e90f000","data":"8","doc":3,"seq":632,"ms":3744502,"op":"terminal.output"}
+{"executionId":"6b015693-29da-4913-8ef7-332ffc676883","terminalId":"2bf76e94-21e5-4b19-b7a1-6b8a7e90f000","data":"\r\nEnter the second number: ","doc":3,"seq":633,"ms":3745004,"op":"terminal.output"}
+{"executionId":"6b015693-29da-4913-8ef7-332ffc676883","terminalId":"2bf76e94-21e5-4b19-b7a1-6b8a7e90f000","data":"5","doc":3,"seq":634,"ms":3747426,"op":"terminal.output"}
+{"executionId":"6b015693-29da-4913-8ef7-332ffc676883","terminalId":"2bf76e94-21e5-4b19-b7a1-6b8a7e90f000","data":"\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":3,"seq":635,"ms":3747775,"op":"terminal.output"}
+{"executionId":"6b015693-29da-4913-8ef7-332ffc676883","terminalId":"2bf76e94-21e5-4b19-b7a1-6b8a7e90f000","commandLine":"\"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/ calculator\"","confidence":2,"exitCode":0,"doc":3,"seq":636,"ms":3747776,"op":"terminal.end"}
