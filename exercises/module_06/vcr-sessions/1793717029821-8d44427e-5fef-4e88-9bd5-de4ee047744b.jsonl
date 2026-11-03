@@ -635,3 +635,29 @@
 {"executionId":"6b015693-29da-4913-8ef7-332ffc676883","terminalId":"2bf76e94-21e5-4b19-b7a1-6b8a7e90f000","data":"5","doc":3,"seq":634,"ms":3747426,"op":"terminal.output"}
 {"executionId":"6b015693-29da-4913-8ef7-332ffc676883","terminalId":"2bf76e94-21e5-4b19-b7a1-6b8a7e90f000","data":"\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":3,"seq":635,"ms":3747775,"op":"terminal.output"}
 {"executionId":"6b015693-29da-4913-8ef7-332ffc676883","terminalId":"2bf76e94-21e5-4b19-b7a1-6b8a7e90f000","commandLine":"\"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/ calculator\"","confidence":2,"exitCode":0,"doc":3,"seq":636,"ms":3747776,"op":"terminal.end"}
+{"version":357,"changes":[{"offset":235,"length":1,"text":""}],"doc":5,"seq":637,"ms":3778971,"op":"edit"}
+{"version":358,"changes":[{"offset":234,"length":1,"text":""}],"doc":5,"seq":638,"ms":3779421,"op":"edit"}
+{"version":359,"changes":[{"offset":233,"length":1,"text":""}],"doc":5,"seq":639,"ms":3780053,"op":"edit"}
+{"version":360,"changes":[{"offset":233,"length":0,"text":" "}],"doc":5,"seq":640,"ms":3780739,"op":"edit"}
+{"version":361,"changes":[{"offset":324,"length":0,"text":"\n    "}],"doc":5,"seq":641,"ms":3784853,"op":"edit"}
+{"version":362,"changes":[{"offset":329,"length":0,"text":"r"}],"doc":5,"seq":642,"ms":3785713,"op":"edit"}
+{"version":363,"changes":[{"offset":330,"length":0,"text":"e"}],"doc":5,"seq":643,"ms":3786003,"op":"edit"}
+{"version":364,"changes":[{"offset":331,"length":0,"text":"t"}],"doc":5,"seq":644,"ms":3786464,"op":"edit"}
+{"version":365,"changes":[{"offset":332,"length":0,"text":"u"}],"doc":5,"seq":645,"ms":3787462,"op":"edit"}
+{"version":366,"changes":[{"offset":333,"length":0,"text":"r"}],"doc":5,"seq":646,"ms":3787893,"op":"edit"}
+{"version":367,"changes":[{"offset":334,"length":0,"text":"n"}],"doc":5,"seq":647,"ms":3789313,"op":"edit"}
+{"version":368,"changes":[{"offset":335,"length":0,"text":" "}],"doc":5,"seq":648,"ms":3789899,"op":"edit"}
+{"version":369,"changes":[{"offset":336,"length":0,"text":"0"}],"doc":5,"seq":649,"ms":3790357,"op":"edit"}
+{"version":370,"changes":[{"offset":337,"length":0,"text":";"}],"doc":5,"seq":650,"ms":3791163,"op":"edit"}
+{"doc":5,"seq":651,"ms":3793354,"op":"save"}
+{"executionId":"88df15ee-1d16-4ba0-9d06-6cbeeeaf4f0d","terminalId":"2bf76e94-21e5-4b19-b7a1-6b8a7e90f000","commandLine":"\"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/ calculator\"","confidence":2,"doc":3,"seq":652,"ms":3793717,"op":"terminal.start"}
+{"executionId":"88df15ee-1d16-4ba0-9d06-6cbeeeaf4f0d","terminalId":"2bf76e94-21e5-4b19-b7a1-6b8a7e90f000","data":"\u001b]633;C\u0007","doc":3,"seq":653,"ms":3793769,"op":"terminal.output"}
+{"executionId":"88df15ee-1d16-4ba0-9d06-6cbeeeaf4f0d","terminalId":"2bf76e94-21e5-4b19-b7a1-6b8a7e90f000","data":"Enter the first number: ","doc":3,"seq":654,"ms":3793891,"op":"terminal.output"}
+{"executionId":"88df15ee-1d16-4ba0-9d06-6cbeeeaf4f0d","terminalId":"2bf76e94-21e5-4b19-b7a1-6b8a7e90f000","data":"8","doc":3,"seq":655,"ms":3796135,"op":"terminal.output"}
+{"executionId":"88df15ee-1d16-4ba0-9d06-6cbeeeaf4f0d","terminalId":"2bf76e94-21e5-4b19-b7a1-6b8a7e90f000","data":"\r\nEnter the second number: ","doc":3,"seq":656,"ms":3796550,"op":"terminal.output"}
+{"executionId":"88df15ee-1d16-4ba0-9d06-6cbeeeaf4f0d","terminalId":"2bf76e94-21e5-4b19-b7a1-6b8a7e90f000","data":"5","doc":3,"seq":657,"ms":3797086,"op":"terminal.output"}
+{"executionId":"88df15ee-1d16-4ba0-9d06-6cbeeeaf4f0d","terminalId":"2bf76e94-21e5-4b19-b7a1-6b8a7e90f000","data":"\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":3,"seq":658,"ms":3797376,"op":"terminal.output"}
+{"executionId":"88df15ee-1d16-4ba0-9d06-6cbeeeaf4f0d","terminalId":"2bf76e94-21e5-4b19-b7a1-6b8a7e90f000","commandLine":"\"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/ calculator\"","confidence":2,"exitCode":0,"doc":3,"seq":659,"ms":3797377,"op":"terminal.end"}
+{"executionId":"bb443cb0-5fbb-48dc-81ba-22b521053292","terminalId":"2bf76e94-21e5-4b19-b7a1-6b8a7e90f000","commandLine":"7","confidence":2,"doc":3,"seq":660,"ms":3802682,"op":"terminal.start"}
+{"executionId":"bb443cb0-5fbb-48dc-81ba-22b521053292","terminalId":"2bf76e94-21e5-4b19-b7a1-6b8a7e90f000","data":"\u001b]633;C\u0007zsh: command not found: 7\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":3,"seq":661,"ms":3802688,"op":"terminal.output"}
+{"executionId":"bb443cb0-5fbb-48dc-81ba-22b521053292","terminalId":"2bf76e94-21e5-4b19-b7a1-6b8a7e90f000","commandLine":"7","confidence":2,"exitCode":127,"doc":3,"seq":662,"ms":3802688,"op":"terminal.end"}
