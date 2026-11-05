@@ -1933,3 +1933,6 @@
 {"version":1119,"changes":[{"offset":1014,"length":0,"text":";"}],"doc":6,"seq":1932,"ms":174703717,"op":"edit"}
 {"version":1120,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":1084,"length":0,"text":"(num1,num2);"}],"doc":6,"seq":1933,"ms":174712386,"op":"edit"}
 {"version":1121,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":1148,"length":0,"text":"(num1,num2);"}],"doc":6,"seq":1934,"ms":174714968,"op":"edit"}
+{"version":1122,"changes":[{"offset":208,"length":34,"text":" "}],"doc":6,"seq":1935,"ms":174749339,"op":"edit"}
+{"text":"","version":1,"path":"division.cpp","snapshot":true,"doc":7,"seq":1936,"ms":174772063,"op":"snap"}
+{"version":2,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":0,"length":0,"text":"include <iostream>\n\nusing namespace std;\n"}],"doc":7,"seq":1937,"ms":174782650,"op":"edit"}
