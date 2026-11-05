@@ -1111,3 +1111,42 @@
 {"version":447,"changes":[{"offset":482,"length":1,"text":""},{"offset":479,"length":0,"text":"    "},{"offset":459,"length":0,"text":"  "},{"offset":455,"length":0,"text":"  "},{"offset":410,"length":0,"text":" "},{"offset":403,"length":0,"text":"    "},{"offset":393,"length":0,"text":" "},{"offset":380,"length":0,"text":"    "},{"offset":378,"length":0,"text":"\n    "},{"offset":255,"length":0,"text":"\n"},{"offset":241,"length":1,"text":""},{"offset":239,"length":0,"text":"\n"},{"offset":230,"length":0,"text":" "}],"doc":6,"seq":1110,"ms":172200707,"op":"edit"}
 {"doc":6,"seq":1111,"ms":172200714,"op":"save"}
 {"version":448,"changes":[{"offset":499,"length":0,"text":";"}],"doc":6,"seq":1112,"ms":172206730,"op":"edit"}
+{"doc":6,"seq":1113,"ms":172211197,"op":"save"}
+{"executionId":"52ec50cd-6415-463d-bf74-4592d4f8d0cd","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/menu","confidence":2,"doc":3,"seq":1114,"ms":172211843,"op":"terminal.start"}
+{"executionId":"52ec50cd-6415-463d-bf74-4592d4f8d0cd","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"\u001b]633;C\u0007","doc":3,"seq":1115,"ms":172211893,"op":"terminal.output"}
+{"executionId":"52ec50cd-6415-463d-bf74-4592d4f8d0cd","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"0. Exit\r\n1. Add two numbers\r\n2. subtract two numbers\r\n3. multiply two numbers\r\nEnter an option: ","doc":3,"seq":1116,"ms":172212166,"op":"terminal.output"}
+{"executionId":"52ec50cd-6415-463d-bf74-4592d4f8d0cd","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"0","doc":3,"seq":1117,"ms":172216374,"op":"terminal.output"}
+{"executionId":"52ec50cd-6415-463d-bf74-4592d4f8d0cd","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":3,"seq":1118,"ms":172217244,"op":"terminal.output"}
+{"executionId":"52ec50cd-6415-463d-bf74-4592d4f8d0cd","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/menu","confidence":2,"exitCode":0,"doc":3,"seq":1119,"ms":172217245,"op":"terminal.end"}
+{"executionId":"2d6c8b03-6d4f-4dc7-af18-fc314969f9c2","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/menu","confidence":2,"doc":3,"seq":1120,"ms":172221760,"op":"terminal.start"}
+{"executionId":"2d6c8b03-6d4f-4dc7-af18-fc314969f9c2","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"\u001b]633;C\u0007","doc":3,"seq":1121,"ms":172221810,"op":"terminal.output"}
+{"executionId":"2d6c8b03-6d4f-4dc7-af18-fc314969f9c2","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"0. Exit\r\n1. Add two numbers\r\n2. subtract two numbers\r\n3. multiply two numbers\r\nEnter an option: ","doc":3,"seq":1122,"ms":172222037,"op":"terminal.output"}
+{"executionId":"2d6c8b03-6d4f-4dc7-af18-fc314969f9c2","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"1","doc":3,"seq":1123,"ms":172227092,"op":"terminal.output"}
+{"executionId":"2d6c8b03-6d4f-4dc7-af18-fc314969f9c2","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":3,"seq":1124,"ms":172227898,"op":"terminal.output"}
+{"executionId":"2d6c8b03-6d4f-4dc7-af18-fc314969f9c2","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/menu","confidence":2,"exitCode":0,"doc":3,"seq":1125,"ms":172227898,"op":"terminal.end"}
+{"version":449,"changes":[{"offset":506,"length":0,"text":"e"}],"doc":6,"seq":1126,"ms":172241196,"op":"edit"}
+{"version":450,"changes":[{"offset":507,"length":0,"text":"l"}],"doc":6,"seq":1127,"ms":172241577,"op":"edit"}
+{"version":451,"changes":[{"offset":508,"length":0,"text":"s"}],"doc":6,"seq":1128,"ms":172241811,"op":"edit"}
+{"version":452,"changes":[{"offset":509,"length":0,"text":"e"}],"doc":6,"seq":1129,"ms":172242112,"op":"edit"}
+{"version":453,"changes":[{"offset":510,"length":0,"text":" "}],"doc":6,"seq":1130,"ms":172242327,"op":"edit"}
+{"version":454,"changes":[{"offset":511,"length":0,"text":"i"}],"doc":6,"seq":1131,"ms":172244796,"op":"edit"}
+{"version":455,"changes":[{"offset":512,"length":0,"text":"f"}],"doc":6,"seq":1132,"ms":172245471,"op":"edit"}
+{"version":456,"changes":[{"offset":513,"length":0,"text":" "}],"doc":6,"seq":1133,"ms":172245728,"op":"edit"}
+{"version":457,"changes":[{"offset":514,"length":0,"text":"()"}],"doc":6,"seq":1134,"ms":172246908,"op":"edit"}
+{"version":458,"changes":[{"offset":515,"length":0,"text":"c"}],"doc":6,"seq":1135,"ms":172249559,"op":"edit"}
+{"version":459,"changes":[{"offset":516,"length":0,"text":"h"}],"doc":6,"seq":1136,"ms":172249901,"op":"edit"}
+{"version":460,"changes":[{"offset":517,"length":0,"text":"o"}],"doc":6,"seq":1137,"ms":172250241,"op":"edit"}
+{"version":461,"changes":[{"offset":518,"length":0,"text":"l"}],"doc":6,"seq":1138,"ms":172250584,"op":"edit"}
+{"version":462,"changes":[{"offset":518,"length":1,"text":""}],"doc":6,"seq":1139,"ms":172251112,"op":"edit"}
+{"version":463,"changes":[{"offset":518,"length":0,"text":"i"}],"doc":6,"seq":1140,"ms":172251843,"op":"edit"}
+{"version":464,"changes":[{"offset":519,"length":0,"text":"c"}],"doc":6,"seq":1141,"ms":172252168,"op":"edit"}
+{"version":465,"changes":[{"offset":520,"length":0,"text":"e"}],"doc":6,"seq":1142,"ms":172252469,"op":"edit"}
+{"version":466,"changes":[{"offset":521,"length":0,"text":" "}],"doc":6,"seq":1143,"ms":172253251,"op":"edit"}
+{"version":467,"changes":[{"offset":522,"length":0,"text":"!"}],"doc":6,"seq":1144,"ms":172258161,"op":"edit"}
+{"version":468,"changes":[{"offset":523,"length":0,"text":"="}],"doc":6,"seq":1145,"ms":172261009,"op":"edit"}
+{"version":469,"changes":[{"offset":524,"length":0,"text":" "}],"doc":6,"seq":1146,"ms":172262529,"op":"edit"}
+{"version":470,"changes":[{"offset":525,"length":0,"text":"0"}],"doc":6,"seq":1147,"ms":172262964,"op":"edit"}
+{"version":471,"changes":[{"offset":527,"length":0,"text":"{}"}],"doc":6,"seq":1148,"ms":172265147,"op":"edit"}
+{"version":472,"changes":[{"offset":528,"length":0,"text":"\n        \n    "}],"doc":6,"seq":1149,"ms":172265653,"op":"edit"}
+{"version":473,"changes":[{"offset":537,"length":0,"text":"c"}],"doc":6,"seq":1150,"ms":172266521,"op":"edit"}
+{"version":474,"changes":[{"offset":538,"length":0,"text":"o"}],"doc":6,"seq":1151,"ms":172266800,"op":"edit"}
