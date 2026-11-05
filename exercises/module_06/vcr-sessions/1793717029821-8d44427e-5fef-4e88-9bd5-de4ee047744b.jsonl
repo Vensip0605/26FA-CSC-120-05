@@ -1627,3 +1627,60 @@
 {"version":887,"changes":[{"offset":1165,"length":1,"text":""}],"doc":6,"seq":1626,"ms":173706095,"op":"edit"}
 {"version":888,"changes":[{"offset":1165,"length":0,"text":" "}],"doc":6,"seq":1627,"ms":173706432,"op":"edit"}
 {"version":889,"changes":[{"offset":1166,"length":0,"text":"0"}],"doc":6,"seq":1628,"ms":173706811,"op":"edit"}
+{"version":890,"changes":[{"offset":1168,"length":0,"text":";"}],"doc":6,"seq":1629,"ms":173710456,"op":"edit"}
+{"version":891,"changes":[{"offset":1168,"length":0,"text":"\n        "},{"offset":1148,"length":0,"text":"\n   "},{"offset":1015,"length":0,"text":"\n        "},{"offset":1011,"length":0,"text":"\n        "},{"offset":959,"length":0,"text":"\n        "},{"offset":938,"length":0,"text":"       "},{"offset":937,"length":0,"text":"\n"},{"offset":890,"length":0,"text":"\n        "}],"doc":6,"seq":1630,"ms":173717992,"op":"edit"}
+{"doc":6,"seq":1631,"ms":173718007,"op":"save"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/menu","confidence":2,"doc":3,"seq":1632,"ms":173718659,"op":"terminal.start"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"\u001b]633;C\u0007","doc":3,"seq":1633,"ms":173718709,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"0. Exit\r\n1. Add two numbers\r\n2. subtract two numbers\r\n3. multiply two numbers\r\nEnter an option: ","doc":3,"seq":1634,"ms":173718963,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"1","doc":3,"seq":1635,"ms":173723308,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"\r\nEnter two numbers with space in between: ","doc":3,"seq":1636,"ms":173723754,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":" ","doc":3,"seq":1637,"ms":173725594,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"5","doc":3,"seq":1638,"ms":173725893,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"\r\n","doc":3,"seq":1639,"ms":173726491,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"6","doc":3,"seq":1640,"ms":173728648,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"\r\nThe sum of 5and6is11\r\n","doc":3,"seq":1641,"ms":173728959,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"\r\n","doc":3,"seq":1642,"ms":173730521,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"3","doc":3,"seq":1643,"ms":173731996,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"\r\n","doc":3,"seq":1644,"ms":173732549,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"3","doc":3,"seq":1645,"ms":173733170,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"\r\n","doc":3,"seq":1646,"ms":173733771,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"4","doc":3,"seq":1647,"ms":173734273,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"\r\n","doc":3,"seq":1648,"ms":173734664,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"\r\n3","doc":3,"seq":1649,"ms":173735162,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"\r\n","doc":3,"seq":1650,"ms":173735510,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"2","doc":3,"seq":1651,"ms":173735703,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"\r\n","doc":3,"seq":1652,"ms":173735904,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"3","doc":3,"seq":1653,"ms":173736100,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"2","doc":3,"seq":1654,"ms":173736187,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"\r\n","doc":3,"seq":1655,"ms":173736438,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"2","doc":3,"seq":1656,"ms":173736720,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"\r\n","doc":3,"seq":1657,"ms":173736878,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"2","doc":3,"seq":1658,"ms":173737585,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"\r\n","doc":3,"seq":1659,"ms":173737687,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"3","doc":3,"seq":1660,"ms":173737803,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"2","doc":3,"seq":1661,"ms":173737903,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"\r\n3","doc":3,"seq":1662,"ms":173738131,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"2","doc":3,"seq":1663,"ms":173738380,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"\r\n3","doc":3,"seq":1664,"ms":173738605,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"2","doc":3,"seq":1665,"ms":173738921,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"\r\n","doc":3,"seq":1666,"ms":173739384,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"3","doc":3,"seq":1667,"ms":173739484,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"\r\n","doc":3,"seq":1668,"ms":173739808,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"2","doc":3,"seq":1669,"ms":173739878,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"3","doc":3,"seq":1670,"ms":173740053,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"\r\n","doc":3,"seq":1671,"ms":173740296,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"2","doc":3,"seq":1672,"ms":173740387,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"\r\n3","doc":3,"seq":1673,"ms":173740775,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"3","doc":3,"seq":1674,"ms":173741109,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"\r\n","doc":3,"seq":1675,"ms":173741375,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"3","doc":3,"seq":1676,"ms":173741697,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"3","doc":3,"seq":1677,"ms":173742307,"op":"terminal.output"}
+{"version":892,"changes":[{"offset":622,"length":0,"text":" "}],"doc":6,"seq":1678,"ms":173756252,"op":"edit"}
+{"version":893,"changes":[{"offset":623,"length":0,"text":"d"}],"doc":6,"seq":1679,"ms":173757902,"op":"edit"}
+{"version":894,"changes":[{"offset":624,"length":0,"text":"0"}],"doc":6,"seq":1680,"ms":173758420,"op":"edit"}
+{"version":895,"changes":[{"offset":624,"length":1,"text":""}],"doc":6,"seq":1681,"ms":173759454,"op":"edit"}
+{"version":896,"changes":[{"offset":624,"length":0,"text":"o"}],"doc":6,"seq":1682,"ms":173760028,"op":"edit"}
+{"version":897,"changes":[{"offset":625,"length":0,"text":" "}],"doc":6,"seq":1683,"ms":173760516,"op":"edit"}
+{"version":898,"changes":[{"offset":626,"length":0,"text":"{}"}],"doc":6,"seq":1684,"ms":173762954,"op":"edit"}
+{"version":899,"changes":[{"offset":627,"length":1,"text":""}],"doc":6,"seq":1685,"ms":173764374,"op":"edit"}
