@@ -1572,3 +1572,21 @@
 {"version":845,"changes":[{"offset":1081,"length":4,"text":""}],"doc":6,"seq":1571,"ms":173565788,"op":"edit"}
 {"version":846,"changes":[{"offset":1077,"length":4,"text":""}],"doc":6,"seq":1572,"ms":173566243,"op":"edit"}
 {"version":847,"changes":[{"offset":1076,"length":1,"text":""}],"doc":6,"seq":1573,"ms":173566688,"op":"edit"}
+{"version":848,"changes":[{"offset":1076,"length":0,"text":"\n            "}],"doc":6,"seq":1574,"ms":173613291,"op":"edit"}
+{"doc":6,"seq":1575,"ms":173613308,"op":"save"}
+{"version":849,"changes":[{"offset":1063,"length":13,"text":" "}],"doc":6,"seq":1576,"ms":173620836,"op":"edit"}
+{"version":850,"changes":[{"offset":1051,"length":13,"text":""}],"doc":6,"seq":1577,"ms":173623464,"op":"edit"}
+{"version":851,"changes":[{"offset":1112,"length":4,"text":""},{"offset":1080,"length":2,"text":""},{"offset":1066,"length":2,"text":""},{"offset":1060,"length":4,"text":""}],"doc":6,"seq":1578,"ms":173623478,"op":"edit"}
+{"doc":6,"seq":1579,"ms":173623485,"op":"save"}
+{"version":852,"changes":[{"offset":1082,"length":1,"text":""}],"doc":6,"seq":1580,"ms":173629607,"op":"edit"}
+{"doc":6,"seq":1581,"ms":173633166,"op":"save"}
+{"executionId":"acf14f3f-8253-4af4-9e00-b9f00aa3154b","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/menu","confidence":2,"doc":3,"seq":1582,"ms":173633800,"op":"terminal.start"}
+{"executionId":"acf14f3f-8253-4af4-9e00-b9f00aa3154b","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"\u001b]633;C\u0007","doc":3,"seq":1583,"ms":173633851,"op":"terminal.output"}
+{"executionId":"acf14f3f-8253-4af4-9e00-b9f00aa3154b","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"0. Exit\r\n1. Add two numbers\r\n2. subtract two numbers\r\n3. multiply two numbers\r\nEnter an option: ","doc":3,"seq":1584,"ms":173634114,"op":"terminal.output"}
+{"executionId":"acf14f3f-8253-4af4-9e00-b9f00aa3154b","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"3","doc":3,"seq":1585,"ms":173637690,"op":"terminal.output"}
+{"executionId":"acf14f3f-8253-4af4-9e00-b9f00aa3154b","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"\r\nEnter two numbers with space in between: ","doc":3,"seq":1586,"ms":173638275,"op":"terminal.output"}
+{"executionId":"acf14f3f-8253-4af4-9e00-b9f00aa3154b","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"3","doc":3,"seq":1587,"ms":173640611,"op":"terminal.output"}
+{"executionId":"acf14f3f-8253-4af4-9e00-b9f00aa3154b","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":" ","doc":3,"seq":1588,"ms":173641862,"op":"terminal.output"}
+{"executionId":"acf14f3f-8253-4af4-9e00-b9f00aa3154b","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"4","doc":3,"seq":1589,"ms":173642509,"op":"terminal.output"}
+{"executionId":"acf14f3f-8253-4af4-9e00-b9f00aa3154b","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"\r\nThe multipl of 3and4is12\r\n \u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":3,"seq":1590,"ms":173642728,"op":"terminal.output"}
+{"executionId":"acf14f3f-8253-4af4-9e00-b9f00aa3154b","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/menu","confidence":2,"exitCode":0,"doc":3,"seq":1591,"ms":173642729,"op":"terminal.end"}
