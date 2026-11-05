@@ -1704,3 +1704,22 @@
 {"version":916,"changes":[{"offset":631,"length":0,"text":"c"}],"doc":6,"seq":1703,"ms":173817930,"op":"edit"}
 {"version":917,"changes":[{"offset":632,"length":0,"text":"e"}],"doc":6,"seq":1704,"ms":173818231,"op":"edit"}
 {"version":918,"changes":[{"offset":633,"length":0,"text":";"}],"doc":6,"seq":1705,"ms":173822309,"op":"edit"}
+{"version":919,"changes":[{"offset":1370,"length":0,"text":"}"}],"doc":6,"seq":1706,"ms":173829313,"op":"edit"}
+{"version":920,"changes":[{"offset":622,"length":0,"text":"\n   "}],"doc":6,"seq":1707,"ms":173831448,"op":"edit"}
+{"doc":6,"seq":1708,"ms":173831460,"op":"save"}
+{"version":921,"changes":[{"offset":1334,"length":19,"text":" "}],"doc":6,"seq":1709,"ms":173869130,"op":"edit"}
+{"version":922,"changes":[{"offset":1350,"length":4,"text":""}],"doc":6,"seq":1710,"ms":173873680,"op":"edit"}
+{"version":923,"changes":[{"offset":1349,"length":1,"text":""}],"doc":6,"seq":1711,"ms":173874836,"op":"edit"}
+{"version":924,"changes":[{"offset":1348,"length":1,"text":""}],"doc":6,"seq":1712,"ms":173875455,"op":"edit"}
+{"version":925,"changes":[{"offset":1344,"length":4,"text":""}],"doc":6,"seq":1713,"ms":173875923,"op":"edit"}
+{"version":926,"changes":[{"offset":1340,"length":4,"text":""}],"doc":6,"seq":1714,"ms":173876443,"op":"edit"}
+{"version":927,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":1341,"length":0,"text":"while (choice != 0)"}],"doc":6,"seq":1715,"ms":173879893,"op":"edit"}
+{"version":928,"changes":[{"offset":1360,"length":0,"text":";"}],"doc":6,"seq":1716,"ms":173881349,"op":"edit"}
+{"version":929,"changes":[{"offset":1326,"length":9,"text":""}],"doc":6,"seq":1717,"ms":173883239,"op":"edit"}
+{"version":930,"changes":[{"offset":1332,"length":0,"text":" "}],"doc":6,"seq":1718,"ms":173883249,"op":"edit"}
+{"doc":6,"seq":1719,"ms":173883260,"op":"save"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"^C\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":3,"seq":1720,"ms":173883842,"op":"terminal.output"}
+{"executionId":"0d5fd837-356a-4e8c-93d0-eba48473ea8d","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/menu","confidence":2,"exitCode":130,"doc":3,"seq":1721,"ms":173883842,"op":"terminal.end"}
+{"executionId":"2f8e2310-005a-45a9-bb3c-e70e6a7497d1","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/menu","confidence":2,"doc":3,"seq":1722,"ms":173883985,"op":"terminal.start"}
+{"executionId":"2f8e2310-005a-45a9-bb3c-e70e6a7497d1","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"\u001b]633;C\u0007","doc":3,"seq":1723,"ms":173884036,"op":"terminal.output"}
+{"executionId":"2f8e2310-005a-45a9-bb3c-e70e6a7497d1","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"0. Exit\r\n1. Add two numbers\r\n2. subtract two numbers\r\n3. multiply two numbers\r\nEnter an option: ","doc":3,"seq":1724,"ms":173884325,"op":"terminal.output"}
