@@ -1352,3 +1352,10 @@
 {"executionId":"ae3e2952-5921-49f0-812f-0bb24c818c3a","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"0. Exit\r\n1. Add two numbers\r\n2. subtract two numbers\r\n3. multiply two numbers\r\nEnter an option: ","doc":3,"seq":1351,"ms":173164139,"op":"terminal.output"}
 {"executionId":"ae3e2952-5921-49f0-812f-0bb24c818c3a","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"1","doc":3,"seq":1352,"ms":173166353,"op":"terminal.output"}
 {"executionId":"ae3e2952-5921-49f0-812f-0bb24c818c3a","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"\r\nEnter two numbers with space in between: ","doc":3,"seq":1353,"ms":173166827,"op":"terminal.output"}
+{"executionId":"ae3e2952-5921-49f0-812f-0bb24c818c3a","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"2","doc":3,"seq":1354,"ms":173168318,"op":"terminal.output"}
+{"executionId":"ae3e2952-5921-49f0-812f-0bb24c818c3a","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"3","doc":3,"seq":1355,"ms":173168704,"op":"terminal.output"}
+{"executionId":"ae3e2952-5921-49f0-812f-0bb24c818c3a","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"\r\n","doc":3,"seq":1356,"ms":173169043,"op":"terminal.output"}
+{"executionId":"ae3e2952-5921-49f0-812f-0bb24c818c3a","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"\r\n","doc":3,"seq":1357,"ms":173171025,"op":"terminal.output"}
+{"executionId":"ae3e2952-5921-49f0-812f-0bb24c818c3a","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"2","doc":3,"seq":1358,"ms":173175615,"op":"terminal.output"}
+{"executionId":"ae3e2952-5921-49f0-812f-0bb24c818c3a","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"\r\nThe sum of 23and2is25\r\n \u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":3,"seq":1359,"ms":173176242,"op":"terminal.output"}
+{"executionId":"ae3e2952-5921-49f0-812f-0bb24c818c3a","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/menu","confidence":2,"exitCode":0,"doc":3,"seq":1360,"ms":173176242,"op":"terminal.end"}
