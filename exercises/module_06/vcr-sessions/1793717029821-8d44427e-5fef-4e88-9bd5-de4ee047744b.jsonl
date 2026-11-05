@@ -1750,3 +1750,16 @@
 {"executionId":"295061ea-c2cd-4ce0-8c98-1188eb5da6ed","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"0","doc":3,"seq":1749,"ms":173947725,"op":"terminal.output"}
 {"executionId":"295061ea-c2cd-4ce0-8c98-1188eb5da6ed","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":3,"seq":1750,"ms":173948092,"op":"terminal.output"}
 {"executionId":"295061ea-c2cd-4ce0-8c98-1188eb5da6ed","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/menu","confidence":2,"exitCode":0,"doc":3,"seq":1751,"ms":173948092,"op":"terminal.end"}
+{"version":939,"changes":[{"offset":540,"length":1,"text":""}],"doc":6,"seq":1752,"ms":174172935,"op":"edit"}
+{"version":940,"changes":[{"offset":539,"length":1,"text":""}],"doc":6,"seq":1753,"ms":174173167,"op":"edit"}
+{"version":941,"changes":[{"offset":538,"length":1,"text":""}],"doc":6,"seq":1754,"ms":174173360,"op":"edit"}
+{"version":942,"changes":[{"offset":537,"length":1,"text":""}],"doc":6,"seq":1755,"ms":174173532,"op":"edit"}
+{"version":943,"changes":[{"offset":536,"length":1,"text":""}],"doc":6,"seq":1756,"ms":174173720,"op":"edit"}
+{"version":944,"changes":[{"offset":535,"length":1,"text":""}],"doc":6,"seq":1757,"ms":174173908,"op":"edit"}
+{"version":945,"changes":[{"offset":534,"length":1,"text":""}],"doc":6,"seq":1758,"ms":174174098,"op":"edit"}
+{"version":946,"changes":[{"offset":534,"length":0,"text":"p"}],"doc":6,"seq":1759,"ms":174175010,"op":"edit"}
+{"version":947,"changes":[{"offset":535,"length":0,"text":"r"}],"doc":6,"seq":1760,"ms":174175497,"op":"edit"}
+{"version":948,"changes":[{"offset":536,"length":0,"text":"o"}],"doc":6,"seq":1761,"ms":174175990,"op":"edit"}
+{"version":949,"changes":[{"offset":537,"length":0,"text":"d"}],"doc":6,"seq":1762,"ms":174176980,"op":"edit"}
+{"version":950,"changes":[{"offset":538,"length":0,"text":"u"}],"doc":6,"seq":1763,"ms":174177422,"op":"edit"}
+{"version":951,"changes":[{"offset":539,"length":0,"text":"t"}],"doc":6,"seq":1764,"ms":174177808,"op":"edit"}
