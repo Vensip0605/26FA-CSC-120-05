@@ -790,3 +790,35 @@
 {"version":127,"changes":[{"offset":57,"length":0,"text":"()"}],"doc":6,"seq":789,"ms":171598444,"op":"edit"}
 {"version":128,"changes":[{"offset":59,"length":0,"text":"{}"}],"doc":6,"seq":790,"ms":171604437,"op":"edit"}
 {"version":129,"changes":[{"offset":60,"length":0,"text":"\n    \n"}],"doc":6,"seq":791,"ms":171604887,"op":"edit"}
+{"version":130,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":65,"length":0,"text":" cout << \"0.Exit\\n\";\n    cout << \"1. Add two numbers\\n\";\n    cout << \"2. subtract two numbers\\n\";\n    cout << \"3.multiply two number \"\n     "}],"doc":6,"seq":792,"ms":171610340,"op":"edit"}
+{"version":131,"changes":[{"offset":226,"length":134,"text":" "}],"doc":6,"seq":793,"ms":171616132,"op":"edit"}
+{"version":132,"changes":[{"offset":227,"length":0,"text":"s"}],"doc":6,"seq":794,"ms":171617153,"op":"edit"}
+{"version":133,"changes":[{"offset":228,"length":0,"text":"h"}],"doc":6,"seq":795,"ms":171617384,"op":"edit"}
+{"version":134,"changes":[{"offset":228,"length":1,"text":""}],"doc":6,"seq":796,"ms":171619499,"op":"edit"}
+{"version":135,"changes":[{"offset":227,"length":1,"text":""}],"doc":6,"seq":797,"ms":171619771,"op":"edit"}
+{"version":136,"changes":[{"offset":223,"length":4,"text":""}],"doc":6,"seq":798,"ms":171620025,"op":"edit"}
+{"version":137,"changes":[{"offset":222,"length":1,"text":""}],"doc":6,"seq":799,"ms":171620190,"op":"edit"}
+{"version":138,"changes":[{"offset":219,"length":1,"text":""}],"doc":6,"seq":800,"ms":171622420,"op":"edit"}
+{"version":139,"changes":[{"offset":218,"length":1,"text":""}],"doc":6,"seq":801,"ms":171622665,"op":"edit"}
+{"version":140,"changes":[{"offset":218,"length":0,"text":")"}],"doc":6,"seq":802,"ms":171624515,"op":"edit"}
+{"version":141,"changes":[{"offset":220,"length":0,"text":"\n    "}],"doc":6,"seq":803,"ms":171626418,"op":"edit"}
+{"version":142,"changes":[{"offset":225,"length":0,"text":"s"}],"doc":6,"seq":804,"ms":171627624,"op":"edit"}
+{"version":143,"changes":[{"offset":226,"length":0,"text":"h"}],"doc":6,"seq":805,"ms":171627980,"op":"edit"}
+{"version":144,"changes":[{"offset":227,"length":0,"text":"p"}],"doc":6,"seq":806,"ms":171628346,"op":"edit"}
+{"version":145,"changes":[{"offset":227,"length":1,"text":""}],"doc":6,"seq":807,"ms":171629054,"op":"edit"}
+{"version":146,"changes":[{"offset":227,"length":0,"text":"o"}],"doc":6,"seq":808,"ms":171629985,"op":"edit"}
+{"version":147,"changes":[{"offset":228,"length":0,"text":"w"}],"doc":6,"seq":809,"ms":171630473,"op":"edit"}
+{"version":148,"changes":[{"offset":229,"length":0,"text":"m"}],"doc":6,"seq":810,"ms":171631521,"op":"edit"}
+{"version":149,"changes":[{"offset":230,"length":0,"text":"e"}],"doc":6,"seq":811,"ms":171632451,"op":"edit"}
+{"version":150,"changes":[{"offset":231,"length":0,"text":"n"}],"doc":6,"seq":812,"ms":171632713,"op":"edit"}
+{"version":151,"changes":[{"offset":232,"length":0,"text":"u"}],"doc":6,"seq":813,"ms":171634457,"op":"edit"}
+{"version":152,"changes":[{"offset":233,"length":0,"text":"()"}],"doc":6,"seq":814,"ms":171635923,"op":"edit"}
+{"version":153,"changes":[{"offset":235,"length":0,"text":";"}],"doc":6,"seq":815,"ms":171641302,"op":"edit"}
+{"version":154,"changes":[{"offset":236,"length":0,"text":"\n    "}],"doc":6,"seq":816,"ms":171641593,"op":"edit"}
+{"version":155,"changes":[{"offset":237,"length":4,"text":"}"}],"doc":6,"seq":817,"ms":171642626,"op":"edit"}
+{"version":156,"changes":[{"offset":65,"length":1,"text":""}],"doc":6,"seq":818,"ms":171651283,"op":"edit"}
+{"version":157,"changes":[{"offset":196,"length":0,"text":"\\"}],"doc":6,"seq":819,"ms":171659465,"op":"edit"}
+{"version":158,"changes":[{"offset":196,"length":1,"text":""}],"doc":6,"seq":820,"ms":171661655,"op":"edit"}
+{"version":159,"changes":[{"offset":196,"length":0,"text":"s"}],"doc":6,"seq":821,"ms":171664029,"op":"edit"}
+{"version":160,"changes":[{"offset":197,"length":0,"text":"\\"}],"doc":6,"seq":822,"ms":171665080,"op":"edit"}
+{"version":161,"changes":[{"offset":198,"length":0,"text":"n"}],"doc":6,"seq":823,"ms":171666482,"op":"edit"}
