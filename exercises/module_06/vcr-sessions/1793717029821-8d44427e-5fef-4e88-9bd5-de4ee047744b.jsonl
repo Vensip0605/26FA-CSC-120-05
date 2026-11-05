@@ -1335,3 +1335,20 @@
 {"version":637,"changes":[{"offset":326,"length":4,"text":""}],"doc":6,"seq":1334,"ms":173082186,"op":"edit"}
 {"version":638,"changes":[{"offset":325,"length":2,"text":""},{"offset":246,"length":2,"text":""}],"doc":6,"seq":1335,"ms":173082205,"op":"edit"}
 {"doc":6,"seq":1336,"ms":173082211,"op":"save"}
+{"version":639,"changes":[{"offset":304,"length":0,"text":"("}],"doc":6,"seq":1337,"ms":173116708,"op":"edit"}
+{"version":640,"changes":[{"offset":316,"length":0,"text":")"}],"doc":6,"seq":1338,"ms":173122402,"op":"edit"}
+{"version":641,"changes":[{"offset":317,"length":0,"text":"<"}],"doc":6,"seq":1339,"ms":173132614,"op":"edit"}
+{"version":642,"changes":[{"offset":318,"length":0,"text":"<"}],"doc":6,"seq":1340,"ms":173132877,"op":"edit"}
+{"version":643,"changes":[{"offset":317,"length":0,"text":" "}],"doc":6,"seq":1341,"ms":173135489,"op":"edit"}
+{"doc":6,"seq":1342,"ms":173135498,"op":"save"}
+{"version":644,"changes":[{"offset":320,"length":0,"text":" "}],"doc":6,"seq":1343,"ms":173144755,"op":"edit"}
+{"version":645,"changes":[{"offset":321,"length":0,"text":"\""}],"doc":6,"seq":1344,"ms":173149689,"op":"edit"}
+{"version":646,"changes":[{"offset":327,"length":1,"text":""},{"offset":240,"length":0,"text":"\n"}],"doc":6,"seq":1345,"ms":173151854,"op":"edit"}
+{"doc":6,"seq":1346,"ms":173151863,"op":"save"}
+{"version":647,"changes":[{"offset":220,"length":0,"text":"s"}],"doc":6,"seq":1347,"ms":173161593,"op":"edit"}
+{"doc":6,"seq":1348,"ms":173163095,"op":"save"}
+{"executionId":"ae3e2952-5921-49f0-812f-0bb24c818c3a","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/menu","confidence":2,"doc":3,"seq":1349,"ms":173163797,"op":"terminal.start"}
+{"executionId":"ae3e2952-5921-49f0-812f-0bb24c818c3a","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"\u001b]633;C\u0007","doc":3,"seq":1350,"ms":173163848,"op":"terminal.output"}
+{"executionId":"ae3e2952-5921-49f0-812f-0bb24c818c3a","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"0. Exit\r\n1. Add two numbers\r\n2. subtract two numbers\r\n3. multiply two numbers\r\nEnter an option: ","doc":3,"seq":1351,"ms":173164139,"op":"terminal.output"}
+{"executionId":"ae3e2952-5921-49f0-812f-0bb24c818c3a","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"1","doc":3,"seq":1352,"ms":173166353,"op":"terminal.output"}
+{"executionId":"ae3e2952-5921-49f0-812f-0bb24c818c3a","terminalId":"fcab857f-b101-4373-8fbb-94b95c2d322b","data":"\r\nEnter two numbers with space in between: ","doc":3,"seq":1353,"ms":173166827,"op":"terminal.output"}
