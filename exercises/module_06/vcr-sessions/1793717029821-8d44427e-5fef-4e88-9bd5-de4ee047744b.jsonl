@@ -661,3 +661,5 @@
 {"executionId":"bb443cb0-5fbb-48dc-81ba-22b521053292","terminalId":"2bf76e94-21e5-4b19-b7a1-6b8a7e90f000","commandLine":"7","confidence":2,"doc":3,"seq":660,"ms":3802682,"op":"terminal.start"}
 {"executionId":"bb443cb0-5fbb-48dc-81ba-22b521053292","terminalId":"2bf76e94-21e5-4b19-b7a1-6b8a7e90f000","data":"\u001b]633;C\u0007zsh: command not found: 7\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":3,"seq":661,"ms":3802688,"op":"terminal.output"}
 {"executionId":"bb443cb0-5fbb-48dc-81ba-22b521053292","terminalId":"2bf76e94-21e5-4b19-b7a1-6b8a7e90f000","commandLine":"7","confidence":2,"exitCode":127,"doc":3,"seq":662,"ms":3802688,"op":"terminal.end"}
+{"text":"","version":1,"path":"menu.cpp","snapshot":true,"doc":6,"seq":663,"ms":171248897,"op":"snap"}
+{"version":2,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":0,"length":0,"text":"#include <iostream>\n\nusing namespace std;"}],"doc":6,"seq":664,"ms":171264938,"op":"edit"}
