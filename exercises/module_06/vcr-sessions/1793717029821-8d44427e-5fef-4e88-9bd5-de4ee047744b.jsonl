@@ -1324,3 +1324,14 @@
 {"version":626,"changes":[{"offset":322,"length":0,"text":"\n    "}],"doc":6,"seq":1323,"ms":173042134,"op":"edit"}
 {"version":627,"changes":[{"offset":327,"length":0,"text":"\n"},{"offset":323,"length":4,"text":""}],"doc":6,"seq":1324,"ms":173043385,"op":"edit"}
 {"version":628,"changes":[{"offset":324,"length":0,"text":"]"}],"doc":6,"seq":1325,"ms":173043803,"op":"edit"}
+{"version":629,"changes":[{"offset":321,"length":1,"text":""}],"doc":6,"seq":1326,"ms":173047254,"op":"edit"}
+{"version":630,"changes":[{"offset":320,"length":1,"text":""}],"doc":6,"seq":1327,"ms":173047611,"op":"edit"}
+{"version":631,"changes":[{"offset":322,"length":1,"text":""}],"doc":6,"seq":1328,"ms":173051403,"op":"edit"}
+{"version":632,"changes":[{"offset":240,"length":1,"text":""}],"doc":6,"seq":1329,"ms":173054930,"op":"edit"}
+{"version":633,"changes":[{"offset":240,"length":0,"text":"{}"}],"doc":6,"seq":1330,"ms":173056807,"op":"edit"}
+{"version":634,"changes":[{"offset":241,"length":0,"text":"\n    \n"}],"doc":6,"seq":1331,"ms":173059105,"op":"edit"}
+{"version":635,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":246,"length":0,"text":"  cout << \"The sum of \" << num1 << \"and\" << num2 << \"is\" << num1 + num2\\n \";\n"}],"doc":6,"seq":1332,"ms":173066820,"op":"edit"}
+{"version":636,"changes":[{"offset":329,"length":76,"text":" "}],"doc":6,"seq":1333,"ms":173077719,"op":"edit"}
+{"version":637,"changes":[{"offset":326,"length":4,"text":""}],"doc":6,"seq":1334,"ms":173082186,"op":"edit"}
+{"version":638,"changes":[{"offset":325,"length":2,"text":""},{"offset":246,"length":2,"text":""}],"doc":6,"seq":1335,"ms":173082205,"op":"edit"}
+{"doc":6,"seq":1336,"ms":173082211,"op":"save"}
