@@ -1031,3 +1031,42 @@
 {"version":367,"changes":[{"offset":361,"length":0,"text":"="}],"doc":6,"seq":1030,"ms":172025242,"op":"edit"}
 {"version":368,"changes":[{"offset":362,"length":0,"text":"="}],"doc":6,"seq":1031,"ms":172025424,"op":"edit"}
 {"version":369,"changes":[{"offset":363,"length":0,"text":" "}],"doc":6,"seq":1032,"ms":172026401,"op":"edit"}
+{"version":370,"changes":[{"offset":364,"length":0,"text":"1"}],"doc":6,"seq":1033,"ms":172027117,"op":"edit"}
+{"version":371,"changes":[{"offset":365,"length":0,"text":" "}],"doc":6,"seq":1034,"ms":172027470,"op":"edit"}
+{"version":372,"changes":[{"offset":366,"length":0,"text":"\\"}],"doc":6,"seq":1035,"ms":172029464,"op":"edit"}
+{"version":373,"changes":[{"offset":367,"length":0,"text":"\\"}],"doc":6,"seq":1036,"ms":172029654,"op":"edit"}
+{"version":374,"changes":[{"offset":367,"length":1,"text":""}],"doc":6,"seq":1037,"ms":172030267,"op":"edit"}
+{"version":375,"changes":[{"offset":366,"length":1,"text":""}],"doc":6,"seq":1038,"ms":172030524,"op":"edit"}
+{"version":376,"changes":[{"offset":366,"length":0,"text":"|"}],"doc":6,"seq":1039,"ms":172031595,"op":"edit"}
+{"version":377,"changes":[{"offset":367,"length":0,"text":"|"}],"doc":6,"seq":1040,"ms":172031885,"op":"edit"}
+{"version":378,"changes":[{"offset":368,"length":0,"text":" "}],"doc":6,"seq":1041,"ms":172034262,"op":"edit"}
+{"version":379,"changes":[{"offset":369,"length":0,"text":"c"}],"doc":6,"seq":1042,"ms":172035447,"op":"edit"}
+{"version":380,"changes":[{"offset":370,"length":0,"text":"h"}],"doc":6,"seq":1043,"ms":172035855,"op":"edit"}
+{"version":381,"changes":[{"offset":371,"length":0,"text":"o"}],"doc":6,"seq":1044,"ms":172036257,"op":"edit"}
+{"version":382,"changes":[{"offset":372,"length":0,"text":"i"}],"doc":6,"seq":1045,"ms":172036626,"op":"edit"}
+{"version":383,"changes":[{"offset":373,"length":0,"text":"c"}],"doc":6,"seq":1046,"ms":172037016,"op":"edit"}
+{"version":384,"changes":[{"offset":374,"length":0,"text":"e"}],"doc":6,"seq":1047,"ms":172037357,"op":"edit"}
+{"version":385,"changes":[{"offset":375,"length":0,"text":" "}],"doc":6,"seq":1048,"ms":172038106,"op":"edit"}
+{"version":386,"changes":[{"offset":376,"length":0,"text":"+"}],"doc":6,"seq":1049,"ms":172039413,"op":"edit"}
+{"version":387,"changes":[{"offset":377,"length":0,"text":"+"}],"doc":6,"seq":1050,"ms":172039689,"op":"edit"}
+{"version":388,"changes":[{"offset":377,"length":1,"text":""}],"doc":6,"seq":1051,"ms":172040321,"op":"edit"}
+{"version":389,"changes":[{"offset":376,"length":1,"text":""}],"doc":6,"seq":1052,"ms":172040617,"op":"edit"}
+{"version":390,"changes":[{"offset":376,"length":0,"text":"="}],"doc":6,"seq":1053,"ms":172040997,"op":"edit"}
+{"version":391,"changes":[{"offset":377,"length":0,"text":"="}],"doc":6,"seq":1054,"ms":172041212,"op":"edit"}
+{"version":392,"changes":[{"offset":378,"length":0,"text":"m"}],"doc":6,"seq":1055,"ms":172042103,"op":"edit"}
+{"version":393,"changes":[{"offset":378,"length":1,"text":""}],"doc":6,"seq":1056,"ms":172045295,"op":"edit"}
+{"version":394,"changes":[{"offset":378,"length":0,"text":" "}],"doc":6,"seq":1057,"ms":172045792,"op":"edit"}
+{"version":395,"changes":[{"offset":379,"length":0,"text":"2"}],"doc":6,"seq":1058,"ms":172046722,"op":"edit"}
+{"version":396,"changes":[{"offset":379,"length":1,"text":""}],"doc":6,"seq":1059,"ms":172053851,"op":"edit"}
+{"version":397,"changes":[{"offset":379,"length":0,"text":"3"}],"doc":6,"seq":1060,"ms":172055086,"op":"edit"}
+{"version":398,"changes":[{"offset":381,"length":0,"text":"{}"}],"doc":6,"seq":1061,"ms":172061086,"op":"edit"}
+{"version":399,"changes":[{"offset":382,"length":0,"text":"\n        \n    "}],"doc":6,"seq":1062,"ms":172061489,"op":"edit"}
+{"version":400,"changes":[{"offset":387,"length":4,"text":""}],"doc":6,"seq":1063,"ms":172069213,"op":"edit"}
+{"text":"#include <iostream>\n\nusing namespace std;\n\nvoid showmenu()\n{\n    cout << \"0.Exit\\n\";\n    cout << \"1. Add two numbers\\n\";\n    cout << \"2. subtract two numbers\\n\";\n    cout << \"3.multiply two numbers\\n\";\n}\nvoid addnumber(int num1,int num2){\n\n}\n\nint main()\n{\n    showmenu();\n\n    int choice;\n    cout << \"Enter an option: \";\n    cin >> choice;\n    \n    if (choice == 1 || choice == 3){\n\n    }\n    int num1,num2;\n    cout <<\"Enter two numbers with space in between: \";\n    cin >> num1 >> num2\n}\n","version":401,"snapshot":true,"doc":6,"seq":1064,"ms":172069636,"op":"edit"}
+{"version":402,"changes":[{"offset":388,"length":1,"text":""}],"doc":6,"seq":1065,"ms":172073762,"op":"edit"}
+{"version":403,"changes":[{"offset":384,"length":4,"text":""}],"doc":6,"seq":1066,"ms":172074116,"op":"edit"}
+{"version":404,"changes":[{"offset":383,"length":1,"text":""}],"doc":6,"seq":1067,"ms":172074509,"op":"edit"}
+{"version":405,"changes":[{"offset":382,"length":1,"text":""}],"doc":6,"seq":1068,"ms":172075674,"op":"edit"}
+{"version":406,"changes":[{"offset":483,"length":0,"text":"\n"}],"doc":6,"seq":1069,"ms":172082391,"op":"edit"}
+{"version":407,"changes":[{"offset":484,"length":0,"text":"}"}],"doc":6,"seq":1070,"ms":172084020,"op":"edit"}
+{"version":408,"changes":[{"offset":485,"length":0,"text":"\n"}],"doc":6,"seq":1071,"ms":172084610,"op":"edit"}
