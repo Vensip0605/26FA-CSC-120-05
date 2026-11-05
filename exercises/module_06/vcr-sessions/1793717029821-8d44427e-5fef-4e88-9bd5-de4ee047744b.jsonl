@@ -1914,3 +1914,22 @@
 {"version":1100,"changes":[{"offset":994,"length":0,"text":"d"}],"doc":6,"seq":1913,"ms":174660016,"op":"edit"}
 {"text":"#include <iostream>\n\nusing namespace std;\n\nvoid showmenu()\n{\n    cout << \"0. Exit\\n\";\n    cout << \"1. Add two numbers\\n\";\n    cout << \"2. subtract two numbers\\n\";\n    cout << \"3. multiply two numbers\\n\";\n    cout << \"4. divide two numbers\\n\";\n}\nvoid addnumbers(int num1, int num2)\n{\n    cout << \"The sum of \" << num1 << \"and\" << num2 << \"is\" << (num1 + num2) << \"\\n \";\n}\nvoid subtractnumbers(int num1, int num2)\n{\n    cout << \"The diffrence between \" << num1 << \"and\" << num2 << \"is\" << (num1 - num2) << \"\\n \";\n}\nvoid multiplynumbers(int num1, int num2)\n{\n    cout << \"The produt of \" << num1 << \"and\" << num2 << \"is\" << (num1 * num2) << \"\\n \";\n}\n\nint main()\n{\n    int choice;\n    do\n    {\n        showmenu();\n        cout << \"Enter an option: \";\n        cin >> choice;\n\n        if (choice >= 1 && choice <= 3)\n        {\n            int num1, num2;\n            cout << \"Enter two numbers with space in between: \";\n            cin >> num1 >> num2;\n            if (choice == 1){\n                a\n            } else if (choice == 2){\n                subtractnumbers\n            }else {\n                multiplynumbers\n            }\n            \n        }\n        else if (choice != 0)\n        {\n            cout << \"Invalid choice.\\n\";\n        }\n\n    } while (choice != 0);\n}\n","version":1101,"snapshot":true,"doc":6,"seq":1914,"ms":174663010,"op":"edit"}
 {"version":1102,"changes":[{"offset":993,"length":1,"text":""}],"doc":6,"seq":1915,"ms":174666323,"op":"edit"}
+{"version":1103,"changes":[{"offset":993,"length":0,"text":"a"}],"doc":6,"seq":1916,"ms":174667667,"op":"edit"}
+{"version":1104,"changes":[{"offset":994,"length":0,"text":"d"}],"doc":6,"seq":1917,"ms":174668809,"op":"edit"}
+{"version":1105,"changes":[{"offset":995,"length":0,"text":"d"}],"doc":6,"seq":1918,"ms":174671109,"op":"edit"}
+{"version":1106,"changes":[{"offset":996,"length":0,"text":"n"}],"doc":6,"seq":1919,"ms":174671838,"op":"edit"}
+{"version":1107,"changes":[{"offset":997,"length":0,"text":"u"}],"doc":6,"seq":1920,"ms":174672159,"op":"edit"}
+{"version":1108,"changes":[{"offset":993,"length":5,"text":"addnumbers"}],"doc":6,"seq":1921,"ms":174673761,"op":"edit"}
+{"version":1109,"changes":[{"offset":1003,"length":0,"text":"()"}],"doc":6,"seq":1922,"ms":174694827,"op":"edit"}
+{"version":1110,"changes":[{"offset":1004,"length":0,"text":"n"}],"doc":6,"seq":1923,"ms":174696311,"op":"edit"}
+{"version":1111,"changes":[{"offset":1005,"length":0,"text":"u"}],"doc":6,"seq":1924,"ms":174696587,"op":"edit"}
+{"version":1112,"changes":[{"offset":1006,"length":0,"text":"m"}],"doc":6,"seq":1925,"ms":174697068,"op":"edit"}
+{"version":1113,"changes":[{"offset":1007,"length":0,"text":"1"}],"doc":6,"seq":1926,"ms":174697717,"op":"edit"}
+{"version":1114,"changes":[{"offset":1008,"length":0,"text":","}],"doc":6,"seq":1927,"ms":174698710,"op":"edit"}
+{"version":1115,"changes":[{"offset":1009,"length":0,"text":"n"}],"doc":6,"seq":1928,"ms":174699580,"op":"edit"}
+{"version":1116,"changes":[{"offset":1010,"length":0,"text":"u"}],"doc":6,"seq":1929,"ms":174699893,"op":"edit"}
+{"version":1117,"changes":[{"offset":1011,"length":0,"text":"m"}],"doc":6,"seq":1930,"ms":174700165,"op":"edit"}
+{"version":1118,"changes":[{"offset":1012,"length":0,"text":"2"}],"doc":6,"seq":1931,"ms":174700706,"op":"edit"}
+{"version":1119,"changes":[{"offset":1014,"length":0,"text":";"}],"doc":6,"seq":1932,"ms":174703717,"op":"edit"}
+{"version":1120,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":1084,"length":0,"text":"(num1,num2);"}],"doc":6,"seq":1933,"ms":174712386,"op":"edit"}
+{"version":1121,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":1148,"length":0,"text":"(num1,num2);"}],"doc":6,"seq":1934,"ms":174714968,"op":"edit"}
