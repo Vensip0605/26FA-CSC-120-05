@@ -663,3 +663,5 @@
 {"executionId":"bb443cb0-5fbb-48dc-81ba-22b521053292","terminalId":"2bf76e94-21e5-4b19-b7a1-6b8a7e90f000","commandLine":"7","confidence":2,"exitCode":127,"doc":3,"seq":662,"ms":3802688,"op":"terminal.end"}
 {"text":"","version":1,"path":"menu.cpp","snapshot":true,"doc":6,"seq":663,"ms":171248897,"op":"snap"}
 {"version":2,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":0,"length":0,"text":"#include <iostream>\n\nusing namespace std;"}],"doc":6,"seq":664,"ms":171264938,"op":"edit"}
+{"version":3,"changes":[{"offset":41,"length":0,"text":"\n"}],"doc":6,"seq":665,"ms":171360462,"op":"edit"}
+{"version":4,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":42,"length":0,"text":"int main()\n{\n    cout << \"==========================\\n\";\n    cout << \"   Base Conversion program\\n\";\n    cout << \"=========================\\n\";\n    cout << \"1. Convert Binary to Decimal\\n\";\n    cout << \"2. Convert Decimal to Binary\\n\";\n    cout << \"3. Exit\\n\";\n    cout << \"----------------------------\\n\";\n"}],"doc":6,"seq":666,"ms":171363910,"op":"edit"}
