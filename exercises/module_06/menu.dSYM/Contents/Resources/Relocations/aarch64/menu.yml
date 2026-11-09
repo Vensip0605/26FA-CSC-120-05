@@ -1,0 +1,13 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/menu'
+relocations:
+  - { offset: 0x2479, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0xF786, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0x2586, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_menu.cpp, symObjAddr: 0x488, symBinAddr: 0x100000A08, symSize: 0x14 }
+  - { offset: 0x259D, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x44C, symBinAddr: 0x1000009CC, symSize: 0x3C }
+  - { offset: 0x25BB, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x22C, symBinAddr: 0x1000008C4, symSize: 0x108 }
+  - { offset: 0x260D, size: 0x8, addend: 0x0, symName: __Z15multiplynumbersii, symObjAddr: 0x194, symBinAddr: 0x10000082C, symSize: 0x98 }
+  - { offset: 0x264A, size: 0x8, addend: 0x0, symName: __Z15subtractnumbersii, symObjAddr: 0xFC, symBinAddr: 0x100000794, symSize: 0x98 }
+  - { offset: 0x2687, size: 0x8, addend: 0x0, symName: __Z10addnumbersii, symObjAddr: 0x64, symBinAddr: 0x1000006FC, symSize: 0x98 }
+  - { offset: 0x26C4, size: 0x8, addend: 0x0, symName: __Z8showmenuv, symObjAddr: 0x0, symBinAddr: 0x100000698, symSize: 0x64 }
+...

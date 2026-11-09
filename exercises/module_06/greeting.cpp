@@ -2,7 +2,7 @@
 
 using namespace std;
 
-void displaygreet()
+void greet()
 {
     cout << "welcome to CSC-120!\n";
 }
@@ -10,7 +10,11 @@ void displaygreet()
 int main()
 {
     cout << "program starting...\n";
-    displaygreet(); // function call
+    greet();
+    greet();
+    greet();
+    greet();
+    greet();
     cout << "program ending...\n";
     return 0;
 }
