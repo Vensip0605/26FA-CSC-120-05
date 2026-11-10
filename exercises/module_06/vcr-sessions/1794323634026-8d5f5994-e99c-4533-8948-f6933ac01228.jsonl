@@ -1,3 +1,5 @@
 {"version":1,"courseId":"26FA-CSC-120-05","folder":"exercises/module_06","startedAt":"2026-11-10T15:13:54.027Z","attemptId":"6d73cf2d-5332-47de-ae67-ec766497bae4","segmentId":"1960a420-38fd-405f-a811-62eadb2a8892","sourceWindowId":"d07a6c28-68e2-4817-a599-f954dbe9773e","seq":0,"ms":0,"op":"session"}
 {"branch":"main","commit":"2a0233763591f1b253815cfc11bbb7339717be96","seq":1,"ms":-9746,"op":"source.context"}
 {"text":"include <iostream>\n\nusing namespace std;\n","version":1,"path":"division.cpp","snapshot":true,"doc":1,"seq":2,"ms":-9746,"op":"snap"}
+{"doc":1,"seq":3,"ms":1058910,"op":"close"}
+{"text":"include <iostream>\n\nusing namespace std;\n","version":1,"path":" inventory.cpp","snapshot":true,"doc":2,"seq":4,"ms":1058942,"op":"snap"}

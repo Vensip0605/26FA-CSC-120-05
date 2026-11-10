@@ -1,0 +1,4 @@
+{"version":1,"courseId":"26FA-CSC-120-05","folder":"exercises/module_06/ inventory.cpp","startedAt":"2026-11-10T15:31:33.277Z","attemptId":"bacf0148-4f2d-4e8b-ae22-869a86fe18e4","segmentId":"872939f2-757a-471b-b733-d553b0a0f213","sourceWindowId":"d07a6c28-68e2-4817-a599-f954dbe9773e","seq":0,"ms":0,"op":"session"}
+{"branch":"main","commit":"2a0233763591f1b253815cfc11bbb7339717be96","seq":1,"ms":-307,"op":"source.context"}
+{"source":"workspace","operationId":"11620ebe-eb12-43c6-af8b-36fe5fbe2852","path":".","doc":1,"seq":2,"ms":-307,"op":"fs.moveTo"}
+{"source":"watcher","doc":1,"seq":3,"ms":-241,"op":"fs.create"}
