@@ -1,3 +1,4 @@
 {"version":1,"courseId":"26FA-CSC-120-05","folder":"exercises/module_06/showsquare.dSYM/Contents/Info.plist","startedAt":"2026-11-03T15:06:43.514Z","attemptId":"d4fbe8e7-0c8d-444f-985e-7c2a2f487ca4","segmentId":"aa5eea70-9580-45b8-816c-218546f9b007","sourceWindowId":"04a5f2c4-62d5-448f-b596-d553b028c38a","seq":0,"ms":0,"op":"session"}
 {"branch":"main","commit":"3a28f63306b3b0ee4151238d80e3c8301877e695","seq":1,"ms":-178,"op":"source.context"}
 {"source":"watcher","path":".","doc":1,"seq":2,"ms":-178,"op":"fs.create"}
+{"seq":3,"ms":531008931,"op":"end"}

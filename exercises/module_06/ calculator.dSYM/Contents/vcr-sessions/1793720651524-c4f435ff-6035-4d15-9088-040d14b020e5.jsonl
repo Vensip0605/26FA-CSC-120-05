@@ -1,3 +1,4 @@
 {"version":1,"courseId":"26FA-CSC-120-05","folder":"exercises/module_06/ calculator.dSYM/Contents","startedAt":"2026-11-03T15:44:11.524Z","attemptId":"1235a19b-dd8a-4576-8b50-8588a534209e","segmentId":"f8da3afd-7b1d-43e7-9a81-e9990445c02f","sourceWindowId":"04a5f2c4-62d5-448f-b596-d553b028c38a","seq":0,"ms":0,"op":"session"}
 {"branch":"main","commit":"3a28f63306b3b0ee4151238d80e3c8301877e695","seq":1,"ms":-142,"op":"source.context"}
 {"source":"watcher","path":".","doc":1,"seq":2,"ms":-142,"op":"fs.create"}
+{"seq":3,"ms":528760921,"op":"end"}

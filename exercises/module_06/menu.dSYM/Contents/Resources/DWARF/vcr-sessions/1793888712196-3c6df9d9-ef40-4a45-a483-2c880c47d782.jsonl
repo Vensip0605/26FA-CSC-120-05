@@ -1,3 +1,4 @@
 {"version":1,"courseId":"26FA-CSC-120-05","folder":"exercises/module_06/menu.dSYM/Contents/Resources/DWARF","startedAt":"2026-11-05T14:25:12.196Z","attemptId":"ba23f24d-d0d0-4b70-a7f7-478e38467348","segmentId":"4ede2480-eba3-411b-a35e-80452d6bcabf","sourceWindowId":"04a5f2c4-62d5-448f-b596-d553b028c38a","seq":0,"ms":0,"op":"session"}
 {"branch":"main","commit":"3a28f63306b3b0ee4151238d80e3c8301877e695","seq":1,"ms":-516,"op":"source.context"}
 {"source":"watcher","path":".","doc":1,"seq":2,"ms":-516,"op":"fs.create"}
+{"seq":3,"ms":360700249,"op":"end"}

@@ -1,3 +1,4 @@
 {"version":1,"courseId":"26FA-CSC-120-05","folder":"exercises/module_06/ calculator.dSYM/Contents/Resources/DWARF/ calculator","startedAt":"2026-11-03T15:44:11.696Z","attemptId":"340650ea-14ce-4de3-a7bd-5f279bb86072","segmentId":"62ca399a-2bd0-4492-9aba-9f2ac7ec68cc","sourceWindowId":"04a5f2c4-62d5-448f-b596-d553b028c38a","seq":0,"ms":0,"op":"session"}
 {"branch":"main","commit":"3a28f63306b3b0ee4151238d80e3c8301877e695","seq":1,"ms":-314,"op":"source.context"}
 {"source":"watcher","path":".","doc":1,"seq":2,"ms":-314,"op":"fs.create"}
+{"seq":3,"ms":528760749,"op":"end"}
