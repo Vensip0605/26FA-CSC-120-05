@@ -139,3 +139,19 @@
 {"version":135,"changes":[{"offset":142,"length":0,"text":"()"}],"doc":2,"seq":138,"ms":1602086,"op":"edit"}
 {"version":136,"changes":[{"offset":144,"length":0,"text":"{}"}],"doc":2,"seq":139,"ms":1604299,"op":"edit"}
 {"version":137,"changes":[{"offset":145,"length":0,"text":"\n    \n"}],"doc":2,"seq":140,"ms":1604722,"op":"edit"}
+{"version":138,"changes":[{"offset":150,"length":0,"text":"c"}],"doc":2,"seq":141,"ms":1623803,"op":"edit"}
+{"version":139,"changes":[{"offset":151,"length":0,"text":"o"}],"doc":2,"seq":142,"ms":1624198,"op":"edit"}
+{"version":140,"changes":[{"offset":152,"length":0,"text":"u"}],"doc":2,"seq":143,"ms":1624552,"op":"edit"}
+{"version":141,"changes":[{"offset":153,"length":0,"text":"t"}],"doc":2,"seq":144,"ms":1625448,"op":"edit"}
+{"version":142,"changes":[{"offset":154,"length":0,"text":" "}],"doc":2,"seq":145,"ms":1625976,"op":"edit"}
+{"version":143,"changes":[{"offset":155,"length":0,"text":"<"}],"doc":2,"seq":146,"ms":1626886,"op":"edit"}
+{"version":144,"changes":[{"offset":156,"length":0,"text":"<"}],"doc":2,"seq":147,"ms":1627107,"op":"edit"}
+{"version":145,"changes":[{"offset":157,"length":0,"text":" "}],"doc":2,"seq":148,"ms":1627728,"op":"edit"}
+{"version":146,"changes":[{"offset":158,"length":0,"text":"\"\""}],"doc":2,"seq":149,"ms":1628609,"op":"edit"}
+{"version":147,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":159,"length":0,"text":"inventory"}],"doc":2,"seq":150,"ms":1637139,"op":"edit"}
+{"version":148,"changes":[{"offset":168,"length":0,"text":":"}],"doc":2,"seq":151,"ms":1642027,"op":"edit"}
+{"version":149,"changes":[{"offset":169,"length":0,"text":" "}],"doc":2,"seq":152,"ms":1644111,"op":"edit"}
+{"version":150,"changes":[{"offset":171,"length":0,"text":"<"}],"doc":2,"seq":153,"ms":1647024,"op":"edit"}
+{"version":151,"changes":[{"offset":172,"length":0,"text":"<"}],"doc":2,"seq":154,"ms":1647300,"op":"edit"}
+{"version":152,"changes":[{"offset":171,"length":0,"text":" "}],"doc":2,"seq":155,"ms":1650952,"op":"edit"}
+{"version":153,"changes":[{"offset":174,"length":0,"text":" "}],"doc":2,"seq":156,"ms":1653945,"op":"edit"}
