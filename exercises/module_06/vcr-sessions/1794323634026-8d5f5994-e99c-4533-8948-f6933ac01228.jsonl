@@ -3,3 +3,19 @@
 {"text":"include <iostream>\n\nusing namespace std;\n","version":1,"path":"division.cpp","snapshot":true,"doc":1,"seq":2,"ms":-9746,"op":"snap"}
 {"doc":1,"seq":3,"ms":1058910,"op":"close"}
 {"text":"include <iostream>\n\nusing namespace std;\n","version":1,"path":" inventory.cpp","snapshot":true,"doc":2,"seq":4,"ms":1058942,"op":"snap"}
+{"version":2,"changes":[{"offset":41,"length":0,"text":"i"}],"doc":2,"seq":5,"ms":1263981,"op":"edit"}
+{"version":3,"changes":[{"offset":42,"length":0,"text":"n"}],"doc":2,"seq":6,"ms":1264291,"op":"edit"}
+{"version":4,"changes":[{"offset":43,"length":0,"text":"v"}],"doc":2,"seq":7,"ms":1266108,"op":"edit"}
+{"version":5,"changes":[{"offset":44,"length":0,"text":"e"}],"doc":2,"seq":8,"ms":1266436,"op":"edit"}
+{"version":6,"changes":[{"offset":45,"length":0,"text":"n"}],"doc":2,"seq":9,"ms":1266735,"op":"edit"}
+{"version":7,"changes":[{"offset":46,"length":0,"text":"t"}],"doc":2,"seq":10,"ms":1268000,"op":"edit"}
+{"version":8,"changes":[{"offset":47,"length":0,"text":"o"}],"doc":2,"seq":11,"ms":1268326,"op":"edit"}
+{"version":9,"changes":[{"offset":48,"length":0,"text":"r"}],"doc":2,"seq":12,"ms":1268693,"op":"edit"}
+{"version":10,"changes":[{"offset":49,"length":0,"text":"y"}],"doc":2,"seq":13,"ms":1269193,"op":"edit"}
+{"version":11,"changes":[{"offset":50,"length":0,"text":" "}],"doc":2,"seq":14,"ms":1269966,"op":"edit"}
+{"version":12,"changes":[{"offset":51,"length":0,"text":"="}],"doc":2,"seq":15,"ms":1270847,"op":"edit"}
+{"version":13,"changes":[{"offset":52,"length":0,"text":"0"}],"doc":2,"seq":16,"ms":1271409,"op":"edit"}
+{"version":14,"changes":[{"offset":52,"length":1,"text":""}],"doc":2,"seq":17,"ms":1272777,"op":"edit"}
+{"version":15,"changes":[{"offset":52,"length":0,"text":" "}],"doc":2,"seq":18,"ms":1273092,"op":"edit"}
+{"version":16,"changes":[{"offset":53,"length":0,"text":"0"}],"doc":2,"seq":19,"ms":1274093,"op":"edit"}
+{"version":17,"changes":[{"offset":54,"length":0,"text":"\n"}],"doc":2,"seq":20,"ms":1275905,"op":"edit"}
