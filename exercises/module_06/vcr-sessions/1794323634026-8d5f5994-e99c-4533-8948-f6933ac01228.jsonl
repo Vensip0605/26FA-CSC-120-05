@@ -83,3 +83,26 @@
 {"version":79,"changes":[{"offset":44,"length":0,"text":" "}],"doc":2,"seq":82,"ms":1479590,"op":"edit"}
 {"version":80,"changes":[{"offset":58,"length":0,"text":";"}],"doc":2,"seq":83,"ms":1483205,"op":"edit"}
 {"version":81,"changes":[{"offset":59,"length":0,"text":"\n"}],"doc":2,"seq":84,"ms":1483691,"op":"edit"}
+{"version":82,"changes":[{"offset":63,"length":1,"text":""}],"doc":2,"seq":85,"ms":1490666,"op":"edit"}
+{"version":83,"changes":[{"offset":62,"length":1,"text":""}],"doc":2,"seq":86,"ms":1491078,"op":"edit"}
+{"version":84,"changes":[{"offset":62,"length":0,"text":"v"}],"doc":2,"seq":87,"ms":1492337,"op":"edit"}
+{"version":85,"changes":[{"offset":63,"length":0,"text":"o"}],"doc":2,"seq":88,"ms":1492756,"op":"edit"}
+{"version":86,"changes":[{"offset":64,"length":0,"text":"i"}],"doc":2,"seq":89,"ms":1492975,"op":"edit"}
+{"version":87,"changes":[{"offset":65,"length":0,"text":"d"}],"doc":2,"seq":90,"ms":1493449,"op":"edit"}
+{"version":88,"changes":[{"offset":61,"length":1,"text":""}],"doc":2,"seq":91,"ms":1496992,"op":"edit"}
+{"version":89,"changes":[{"offset":76,"length":0,"text":"{}"}],"doc":2,"seq":92,"ms":1502284,"op":"edit"}
+{"version":90,"changes":[{"offset":77,"length":0,"text":"\n    \n"}],"doc":2,"seq":93,"ms":1502768,"op":"edit"}
+{"version":91,"changes":[{"offset":78,"length":4,"text":""},{"offset":78,"length":0,"text":"int inventory = 0;\n"}],"doc":2,"seq":94,"ms":1509994,"op":"edit"}
+{"version":92,"changes":[{"offset":80,"length":1,"text":""}],"doc":2,"seq":95,"ms":1513832,"op":"edit"}
+{"version":93,"changes":[{"offset":79,"length":1,"text":""}],"doc":2,"seq":96,"ms":1514117,"op":"edit"}
+{"version":94,"changes":[{"offset":78,"length":1,"text":""}],"doc":2,"seq":97,"ms":1514370,"op":"edit"}
+{"version":95,"changes":[{"offset":92,"length":1,"text":""}],"doc":2,"seq":98,"ms":1517158,"op":"edit"}
+{"version":96,"changes":[{"offset":91,"length":1,"text":""}],"doc":2,"seq":99,"ms":1517435,"op":"edit"}
+{"version":97,"changes":[{"offset":90,"length":1,"text":""}],"doc":2,"seq":100,"ms":1517830,"op":"edit"}
+{"version":98,"changes":[{"offset":89,"length":1,"text":""}],"doc":2,"seq":101,"ms":1518075,"op":"edit"}
+{"version":99,"changes":[{"offset":89,"length":0,"text":"+"}],"doc":2,"seq":102,"ms":1519749,"op":"edit"}
+{"version":100,"changes":[{"offset":90,"length":0,"text":"+"}],"doc":2,"seq":103,"ms":1520006,"op":"edit"}
+{"text":"include <iostream>\n\nusing namespace std;\nint inventory = 0;\n\nvoid additem (){\n inventory ++;\n\n}\n","version":101,"snapshot":true,"doc":2,"seq":104,"ms":1521214,"op":"edit"}
+{"version":102,"changes":[{"offset":94,"length":1,"text":""}],"doc":2,"seq":105,"ms":1525489,"op":"edit"}
+{"version":103,"changes":[{"offset":93,"length":1,"text":""}],"doc":2,"seq":106,"ms":1525974,"op":"edit"}
+{"version":104,"changes":[{"offset":93,"length":0,"text":"}"}],"doc":2,"seq":107,"ms":1528269,"op":"edit"}
