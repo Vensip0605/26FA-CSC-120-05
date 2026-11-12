@@ -10,3 +10,4 @@
 {"executionId":"df82336f-e8a0-4d5e-880e-10b3e2afcd94","doc":1,"seq":9,"ms":168435206,"op":"task.end"}
 {"executionId":"4e67e97e-eb6c-4248-abb8-34e69d9ed1e7","name":"C/C++: g++ build and debug active file","type":"cppdbg","noDebug":true,"doc":1,"seq":10,"ms":168435241,"op":"debug.start"}
 {"executionId":"4e67e97e-eb6c-4248-abb8-34e69d9ed1e7","doc":1,"seq":11,"ms":168439656,"op":"debug.end"}
+{"seq":12,"ms":168482004,"op":"end"}

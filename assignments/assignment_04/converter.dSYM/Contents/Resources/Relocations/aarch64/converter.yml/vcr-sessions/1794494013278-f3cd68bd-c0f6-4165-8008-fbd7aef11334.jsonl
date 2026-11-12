@@ -1,3 +1,4 @@
 {"version":1,"courseId":"26FA-CSC-120-05","folder":"assignments/assignment_04/converter.dSYM/Contents/Resources/Relocations/aarch64/converter.yml","startedAt":"2026-11-12T14:33:33.279Z","attemptId":"f1cae927-9373-4911-9f3b-5f24ed6b30c3","segmentId":"79fa9708-8d58-45e8-bf89-870d7c639329","sourceWindowId":"d07a6c28-68e2-4817-a599-f954dbe9773e","seq":0,"ms":0,"op":"session"}
 {"branch":"main","commit":"2a0233763591f1b253815cfc11bbb7339717be96","seq":1,"ms":-852,"op":"source.context"}
 {"source":"watcher","path":".","doc":1,"seq":2,"ms":-852,"op":"fs.create"}
+{"seq":3,"ms":45813,"op":"end"}
