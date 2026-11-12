@@ -240,3 +240,53 @@
 {"version":225,"changes":[{"offset":113,"length":0,"text":"l"}],"doc":1,"seq":239,"ms":997173,"op":"edit"}
 {"version":226,"changes":[{"offset":114,"length":0,"text":"o"}],"doc":1,"seq":240,"ms":997481,"op":"edit"}
 {"version":227,"changes":[{"offset":115,"length":0,"text":"r"}],"doc":1,"seq":241,"ms":997931,"op":"edit"}
+{"version":228,"changes":[{"offset":115,"length":1,"text":""}],"doc":1,"seq":242,"ms":1000734,"op":"edit"}
+{"version":229,"changes":[{"offset":114,"length":1,"text":""}],"doc":1,"seq":243,"ms":1001043,"op":"edit"}
+{"version":230,"changes":[{"offset":113,"length":1,"text":""}],"doc":1,"seq":244,"ms":1001302,"op":"edit"}
+{"version":231,"changes":[{"offset":112,"length":1,"text":""}],"doc":1,"seq":245,"ms":1001684,"op":"edit"}
+{"version":232,"changes":[{"offset":112,"length":0,"text":"a"}],"doc":1,"seq":246,"ms":1002303,"op":"edit"}
+{"version":233,"changes":[{"offset":113,"length":0,"text":"l"}],"doc":1,"seq":247,"ms":1002780,"op":"edit"}
+{"version":234,"changes":[{"offset":114,"length":0,"text":"o"}],"doc":1,"seq":248,"ms":1003067,"op":"edit"}
+{"version":235,"changes":[{"offset":115,"length":0,"text":"r"}],"doc":1,"seq":249,"ms":1004629,"op":"edit"}
+{"version":236,"changes":[{"offset":116,"length":0,"text":"i"}],"doc":1,"seq":250,"ms":1004930,"op":"edit"}
+{"version":237,"changes":[{"offset":117,"length":0,"text":"e"}],"doc":1,"seq":251,"ms":1005286,"op":"edit"}
+{"version":238,"changes":[{"offset":118,"length":0,"text":"s"}],"doc":1,"seq":252,"ms":1005564,"op":"edit"}
+{"version":239,"changes":[{"offset":119,"length":0,"text":" "}],"doc":1,"seq":253,"ms":1007817,"op":"edit"}
+{"version":240,"changes":[{"offset":120,"length":0,"text":"="}],"doc":1,"seq":254,"ms":1009658,"op":"edit"}
+{"version":241,"changes":[{"offset":121,"length":0,"text":" "}],"doc":1,"seq":255,"ms":1010557,"op":"edit"}
+{"version":242,"changes":[{"offset":122,"length":0,"text":"m"}],"doc":1,"seq":256,"ms":1010953,"op":"edit"}
+{"version":243,"changes":[{"offset":123,"length":0,"text":"i"}],"doc":1,"seq":257,"ms":1011315,"op":"edit"}
+{"version":244,"changes":[{"offset":124,"length":0,"text":"l"}],"doc":1,"seq":258,"ms":1011583,"op":"edit"}
+{"version":245,"changes":[{"offset":125,"length":0,"text":"e"}],"doc":1,"seq":259,"ms":1011956,"op":"edit"}
+{"version":246,"changes":[{"offset":126,"length":0,"text":"s"}],"doc":1,"seq":260,"ms":1012210,"op":"edit"}
+{"version":247,"changes":[{"offset":127,"length":0,"text":" "}],"doc":1,"seq":261,"ms":1012877,"op":"edit"}
+{"version":248,"changes":[{"offset":128,"length":0,"text":"+"}],"doc":1,"seq":262,"ms":1015756,"op":"edit"}
+{"version":249,"changes":[{"offset":129,"length":0,"text":"1"}],"doc":1,"seq":263,"ms":1018269,"op":"edit"}
+{"version":250,"changes":[{"offset":130,"length":0,"text":"0"}],"doc":1,"seq":264,"ms":1018988,"op":"edit"}
+{"version":251,"changes":[{"offset":131,"length":0,"text":"0"}],"doc":1,"seq":265,"ms":1019213,"op":"edit"}
+{"version":252,"changes":[{"offset":131,"length":1,"text":""}],"doc":1,"seq":266,"ms":1020215,"op":"edit"}
+{"version":253,"changes":[{"offset":130,"length":1,"text":""}],"doc":1,"seq":267,"ms":1020490,"op":"edit"}
+{"version":254,"changes":[{"offset":129,"length":1,"text":""}],"doc":1,"seq":268,"ms":1020690,"op":"edit"}
+{"version":255,"changes":[{"offset":129,"length":0,"text":" "}],"doc":1,"seq":269,"ms":1021040,"op":"edit"}
+{"version":256,"changes":[{"offset":130,"length":0,"text":"1"}],"doc":1,"seq":270,"ms":1021813,"op":"edit"}
+{"version":257,"changes":[{"offset":131,"length":0,"text":"0"}],"doc":1,"seq":271,"ms":1022854,"op":"edit"}
+{"version":258,"changes":[{"offset":132,"length":0,"text":"0"}],"doc":1,"seq":272,"ms":1023018,"op":"edit"}
+{"version":259,"changes":[{"offset":133,"length":0,"text":";"}],"doc":1,"seq":273,"ms":1025624,"op":"edit"}
+{"doc":1,"seq":274,"ms":1030383,"op":"save"}
+{"executionId":"2191e2dd-c764-4995-89d5-a19d22587048","terminalId":"2de74709-766e-4fdc-914f-ec6cef0a4ba1","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/fitness","confidence":2,"doc":3,"seq":275,"ms":1031040,"op":"terminal.start"}
+{"executionId":"2191e2dd-c764-4995-89d5-a19d22587048","terminalId":"2de74709-766e-4fdc-914f-ec6cef0a4ba1","data":"\u001b]633;C\u0007","doc":3,"seq":276,"ms":1031091,"op":"terminal.output"}
+{"executionId":"2191e2dd-c764-4995-89d5-a19d22587048","terminalId":"2de74709-766e-4fdc-914f-ec6cef0a4ba1","data":"Burned 102.5 calories in 0 minutes.\r\nBurned 103.5 calories in 0 minutes.\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":3,"seq":277,"ms":1031323,"op":"terminal.output"}
+{"executionId":"2191e2dd-c764-4995-89d5-a19d22587048","terminalId":"2de74709-766e-4fdc-914f-ec6cef0a4ba1","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/fitness","confidence":2,"exitCode":0,"doc":3,"seq":278,"ms":1031323,"op":"terminal.end"}
+{"version":260,"changes":[{"offset":129,"length":1,"text":""}],"doc":1,"seq":279,"ms":1041021,"op":"edit"}
+{"version":261,"changes":[{"offset":128,"length":1,"text":""}],"doc":1,"seq":280,"ms":1041431,"op":"edit"}
+{"version":262,"changes":[{"offset":128,"length":0,"text":"*"}],"doc":1,"seq":281,"ms":1047456,"op":"edit"}
+{"version":263,"changes":[{"offset":129,"length":0,"text":" "}],"doc":1,"seq":282,"ms":1048503,"op":"edit"}
+{"doc":1,"seq":283,"ms":1049981,"op":"save"}
+{"executionId":"a868e910-3ba9-4dea-af36-a69bf3e78113","terminalId":"2de74709-766e-4fdc-914f-ec6cef0a4ba1","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/fitness","confidence":2,"doc":3,"seq":284,"ms":1050657,"op":"terminal.start"}
+{"executionId":"a868e910-3ba9-4dea-af36-a69bf3e78113","terminalId":"2de74709-766e-4fdc-914f-ec6cef0a4ba1","data":"\u001b]633;C\u0007","doc":3,"seq":285,"ms":1050707,"op":"terminal.output"}
+{"executionId":"a868e910-3ba9-4dea-af36-a69bf3e78113","terminalId":"2de74709-766e-4fdc-914f-ec6cef0a4ba1","data":"Burned 250 calories in 0 minutes.\r\nBurned 350 calories in 0 minutes.\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":3,"seq":286,"ms":1050902,"op":"terminal.output"}
+{"executionId":"a868e910-3ba9-4dea-af36-a69bf3e78113","terminalId":"2de74709-766e-4fdc-914f-ec6cef0a4ba1","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/fitness","confidence":2,"exitCode":0,"doc":3,"seq":287,"ms":1050902,"op":"terminal.end"}
+{"version":264,"changes":[{"offset":134,"length":0,"text":"\n    "}],"doc":1,"seq":288,"ms":1054518,"op":"edit"}
+{"version":265,"changes":[{"offset":139,"length":0,"text":"m"}],"doc":1,"seq":289,"ms":1056031,"op":"edit"}
+{"version":266,"changes":[{"offset":140,"length":0,"text":"i"}],"doc":1,"seq":290,"ms":1057632,"op":"edit"}
+{"version":267,"changes":[{"offset":141,"length":0,"text":"n"}],"doc":1,"seq":291,"ms":1058582,"op":"edit"}
