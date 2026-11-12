@@ -1,3 +1,4 @@
 {"version":1,"courseId":"26FA-CSC-120-05","folder":"exercises/module_06/fitness.dSYM/Contents/Resources/Relocations","startedAt":"2026-11-12T14:56:18.818Z","attemptId":"661b4cb5-9d14-4af2-a9c0-f59bdb803ae0","segmentId":"97c7f2df-7a09-43e6-9f2d-cf295ea70db6","sourceWindowId":"fce2f198-43c6-40f2-b01a-8a4797aa0f06","seq":0,"ms":0,"op":"session"}
 {"branch":"main","commit":"2a0233763591f1b253815cfc11bbb7339717be96","seq":1,"ms":-774,"op":"source.context"}
 {"source":"watcher","path":".","doc":1,"seq":2,"ms":-774,"op":"fs.create"}
+{"seq":3,"ms":1286677,"op":"end"}

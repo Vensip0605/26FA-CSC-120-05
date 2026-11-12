@@ -1,3 +1,4 @@
 {"version":1,"courseId":"26FA-CSC-120-05","folder":"exercises/module_06/fitness.dSYM/Contents/Resources/Relocations/aarch64/fitness.yml","startedAt":"2026-11-12T14:56:18.977Z","attemptId":"3b73b436-8742-4ba3-b8da-b96dbd77f637","segmentId":"3667d80d-f5b1-4498-9658-bf3e8dd416e6","sourceWindowId":"fce2f198-43c6-40f2-b01a-8a4797aa0f06","seq":0,"ms":0,"op":"session"}
 {"branch":"main","commit":"2a0233763591f1b253815cfc11bbb7339717be96","seq":1,"ms":-933,"op":"source.context"}
 {"source":"watcher","path":".","doc":1,"seq":2,"ms":-933,"op":"fs.create"}
+{"seq":3,"ms":1286518,"op":"end"}

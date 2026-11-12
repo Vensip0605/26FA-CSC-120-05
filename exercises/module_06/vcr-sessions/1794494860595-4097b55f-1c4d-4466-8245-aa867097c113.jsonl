@@ -315,3 +315,4 @@
 {"executionId":"dbd3d003-88c2-4dd5-8b53-8d7b4f4fd4ac","terminalId":"2de74709-766e-4fdc-914f-ec6cef0a4ba1","data":"\u001b]633;C\u0007","doc":3,"seq":314,"ms":1087624,"op":"terminal.output"}
 {"executionId":"dbd3d003-88c2-4dd5-8b53-8d7b4f4fd4ac","terminalId":"2de74709-766e-4fdc-914f-ec6cef0a4ba1","data":"Burned 250 calories in 25 minutes.\r\nBurned 350 calories in 35 minutes.\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":3,"seq":315,"ms":1087805,"op":"terminal.output"}
 {"executionId":"dbd3d003-88c2-4dd5-8b53-8d7b4f4fd4ac","terminalId":"2de74709-766e-4fdc-914f-ec6cef0a4ba1","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/fitness","confidence":2,"exitCode":0,"doc":3,"seq":316,"ms":1087805,"op":"terminal.end"}
+{"seq":317,"ms":1804900,"op":"end"}
