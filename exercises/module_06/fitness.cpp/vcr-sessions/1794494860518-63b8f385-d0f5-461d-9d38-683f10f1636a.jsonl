@@ -1,0 +1,4 @@
+{"version":1,"courseId":"26FA-CSC-120-05","folder":"exercises/module_06/fitness.cpp","startedAt":"2026-11-12T14:47:40.520Z","attemptId":"ef38acb9-5e40-4100-88df-701c62b731bd","segmentId":"e844d8f8-10fe-433b-adde-b77476b19be7","sourceWindowId":"fce2f198-43c6-40f2-b01a-8a4797aa0f06","seq":0,"ms":0,"op":"session"}
+{"branch":"main","commit":"2a0233763591f1b253815cfc11bbb7339717be96","seq":1,"ms":-108,"op":"source.context"}
+{"source":"workspace","path":".","doc":1,"seq":2,"ms":-108,"op":"fs.create"}
+{"source":"watcher","doc":1,"seq":3,"ms":-26,"op":"fs.create"}

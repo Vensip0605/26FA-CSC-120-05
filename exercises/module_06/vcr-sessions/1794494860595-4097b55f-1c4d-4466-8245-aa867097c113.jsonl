@@ -1,0 +1,6 @@
+{"version":1,"courseId":"26FA-CSC-120-05","folder":"exercises/module_06","startedAt":"2026-11-12T14:47:40.595Z","attemptId":"6d73cf2d-5332-47de-ae67-ec766497bae4","segmentId":"ee32497d-b918-4415-8163-5a515e314830","sourceWindowId":"fce2f198-43c6-40f2-b01a-8a4797aa0f06","seq":0,"ms":0,"op":"session"}
+{"branch":"main","commit":"2a0233763591f1b253815cfc11bbb7339717be96","seq":1,"ms":-157,"op":"source.context"}
+{"text":"","version":1,"path":"fitness.cpp","snapshot":true,"doc":1,"seq":2,"ms":-157,"op":"snap"}
+{"text":"#include <iostream>\n\nusing namespace std;\n\nvoid additem()\n{\n    return inventory + 1;\n}\nvoid removeitem()\n{\n    return inventory - 1;\n}\nint main()\n{\n    int inventory = 0;\n    cout << \"Inventory: \" << inventory << endl;\n    inventory = addItem(inventory);\n    inventory = addItem(inventory);\n\n    cout << \"Inventory: \" << inventory << endl;\n    inventory = removeItem(inventory);\n    cout << \"Inventory: \" << inventory << endl;\n}\n","version":1,"path":" inventory.cpp","snapshot":true,"doc":2,"seq":3,"ms":8575,"op":"snap"}
+{"version":2,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":0,"length":0,"text":"#include <iostream>\n\nusing namespace std;"}],"doc":1,"seq":4,"ms":16959,"op":"edit"}
+{"version":3,"changes":[{"offset":41,"length":0,"text":"\n"}],"doc":1,"seq":5,"ms":24679,"op":"edit"}
