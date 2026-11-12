@@ -122,3 +122,29 @@
 {"version":98,"changes":[{"offset":225,"length":1,"text":""}],"doc":2,"seq":121,"ms":757033,"op":"edit"}
 {"version":99,"changes":[{"offset":225,"length":0,"text":"\n    "}],"doc":2,"seq":122,"ms":757869,"op":"edit"}
 {"version":100,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":230,"length":0,"text":"calories = steps * 100;"}],"doc":2,"seq":123,"ms":759300,"op":"edit"}
+{"text":"#include <iostream>\n\nusing namespace std;\nvoid logActivity(double miles, double &calories, int &minutes)\n{\n    calories = miles * 100;\n    minutes = miles * 10;\n}\n\nvoid logActivity(int steps, double &calories, int &minutes)\n{\n    calories = steps/ * 100;\n    minutes = calories * 20;\n}\n\nint main()\n{\n    double calories = 0.0;\n    int minutes = 0;\n    logActivity(2.5, calories, minutes);\n    cout << \"Burned \" << calories << \" calories in \" << minutes << \" minutes.\\n\";\n    logActivity(3500, calories, minutes);\n    cout << \"Burned \" << calories << \" calories in \" << minutes << \" minutes.\\n\";\n}\n","version":101,"snapshot":true,"doc":2,"seq":124,"ms":802931,"op":"edit"}
+{"version":102,"changes":[{"offset":247,"length":0,"text":"1"}],"doc":2,"seq":125,"ms":803806,"op":"edit"}
+{"version":103,"changes":[{"offset":248,"length":0,"text":"0"}],"doc":2,"seq":126,"ms":804381,"op":"edit"}
+{"version":104,"changes":[{"offset":248,"length":1,"text":""}],"doc":2,"seq":127,"ms":805748,"op":"edit"}
+{"version":105,"changes":[{"offset":247,"length":1,"text":""}],"doc":2,"seq":128,"ms":806523,"op":"edit"}
+{"version":106,"changes":[{"offset":247,"length":0,"text":"2"}],"doc":2,"seq":129,"ms":807321,"op":"edit"}
+{"version":107,"changes":[{"offset":248,"length":0,"text":"0"}],"doc":2,"seq":130,"ms":807679,"op":"edit"}
+{"version":108,"changes":[{"offset":249,"length":0,"text":"0"}],"doc":2,"seq":131,"ms":807927,"op":"edit"}
+{"version":109,"changes":[{"offset":250,"length":0,"text":"0"}],"doc":2,"seq":132,"ms":808127,"op":"edit"}
+{"version":110,"changes":[{"offset":251,"length":0,"text":")"}],"doc":2,"seq":133,"ms":811891,"op":"edit"}
+{"version":111,"changes":[{"offset":241,"length":0,"text":"("}],"doc":2,"seq":134,"ms":816589,"op":"edit"}
+{"version":112,"changes":[{"offset":282,"length":1,"text":""}],"doc":2,"seq":135,"ms":819279,"op":"edit"}
+{"version":113,"changes":[{"offset":282,"length":0,"text":"\\"}],"doc":2,"seq":136,"ms":819648,"op":"edit"}
+{"version":114,"changes":[{"offset":282,"length":1,"text":""}],"doc":2,"seq":137,"ms":819877,"op":"edit"}
+{"version":115,"changes":[{"offset":281,"length":1,"text":""}],"doc":2,"seq":138,"ms":820372,"op":"edit"}
+{"version":116,"changes":[{"offset":280,"length":1,"text":""}],"doc":2,"seq":139,"ms":820453,"op":"edit"}
+{"version":117,"changes":[{"offset":279,"length":1,"text":""}],"doc":2,"seq":140,"ms":820536,"op":"edit"}
+{"version":118,"changes":[{"offset":278,"length":1,"text":""}],"doc":2,"seq":141,"ms":820621,"op":"edit"}
+{"version":119,"changes":[{"offset":277,"length":1,"text":""}],"doc":2,"seq":142,"ms":820704,"op":"edit"}
+{"version":120,"changes":[{"offset":276,"length":1,"text":""}],"doc":2,"seq":143,"ms":820788,"op":"edit"}
+{"version":121,"changes":[{"offset":275,"length":1,"text":""}],"doc":2,"seq":144,"ms":820871,"op":"edit"}
+{"version":122,"changes":[{"offset":275,"length":0,"text":"s"}],"doc":2,"seq":145,"ms":821846,"op":"edit"}
+{"version":123,"changes":[{"offset":276,"length":0,"text":"t"}],"doc":2,"seq":146,"ms":822271,"op":"edit"}
+{"version":124,"changes":[{"offset":277,"length":0,"text":"e"}],"doc":2,"seq":147,"ms":822669,"op":"edit"}
+{"version":125,"changes":[{"offset":278,"length":0,"text":"p"}],"doc":2,"seq":148,"ms":823345,"op":"edit"}
+{"version":126,"changes":[{"offset":279,"length":0,"text":"s"}],"doc":2,"seq":149,"ms":823834,"op":"edit"}
