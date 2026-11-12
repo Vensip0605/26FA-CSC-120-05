@@ -112,3 +112,13 @@
 {"executionId":"c6e085d4-5b4d-418b-a698-76f177f37333","terminalId":"9d9a9219-0c79-40d1-a527-36d731c9f232","data":"\u001b]633;C\u0007","doc":3,"seq":111,"ms":542563,"op":"terminal.output"}
 {"executionId":"c6e085d4-5b4d-418b-a698-76f177f37333","terminalId":"9d9a9219-0c79-40d1-a527-36d731c9f232","data":"Burned 250 calories in 25 minutes.\r\nBurned 350000 calories in 7000000 minutes.\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":3,"seq":112,"ms":542802,"op":"terminal.output"}
 {"executionId":"c6e085d4-5b4d-418b-a698-76f177f37333","terminalId":"9d9a9219-0c79-40d1-a527-36d731c9f232","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/overloadedfitness","confidence":2,"exitCode":0,"doc":3,"seq":113,"ms":542802,"op":"terminal.end"}
+{"version":96,"changes":[{"offset":230,"length":23,"text":" "}],"doc":2,"seq":114,"ms":743414,"op":"edit"}
+{"version":97,"changes":[{"offset":226,"length":5,"text":""}],"doc":2,"seq":115,"ms":747524,"op":"edit"}
+{"doc":2,"seq":116,"ms":747550,"op":"save"}
+{"executionId":"da67e749-bb1e-48e3-a400-3fc605f48cae","terminalId":"9d9a9219-0c79-40d1-a527-36d731c9f232","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/overloadedfitness","confidence":2,"doc":3,"seq":117,"ms":748197,"op":"terminal.start"}
+{"executionId":"da67e749-bb1e-48e3-a400-3fc605f48cae","terminalId":"9d9a9219-0c79-40d1-a527-36d731c9f232","data":"\u001b]633;C\u0007","doc":3,"seq":118,"ms":748248,"op":"terminal.output"}
+{"executionId":"da67e749-bb1e-48e3-a400-3fc605f48cae","terminalId":"9d9a9219-0c79-40d1-a527-36d731c9f232","data":"Burned 250 calories in 25 minutes.\r\nBurned 250 calories in 5000 minutes.\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":3,"seq":119,"ms":748485,"op":"terminal.output"}
+{"executionId":"da67e749-bb1e-48e3-a400-3fc605f48cae","terminalId":"9d9a9219-0c79-40d1-a527-36d731c9f232","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/overloadedfitness","confidence":2,"exitCode":0,"doc":3,"seq":120,"ms":748485,"op":"terminal.end"}
+{"version":98,"changes":[{"offset":225,"length":1,"text":""}],"doc":2,"seq":121,"ms":757033,"op":"edit"}
+{"version":99,"changes":[{"offset":225,"length":0,"text":"\n    "}],"doc":2,"seq":122,"ms":757869,"op":"edit"}
+{"version":100,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":230,"length":0,"text":"calories = steps * 100;"}],"doc":2,"seq":123,"ms":759300,"op":"edit"}
