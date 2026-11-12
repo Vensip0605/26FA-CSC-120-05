@@ -1,0 +1,3 @@
+{"version":1,"courseId":"26FA-CSC-120-05","folder":"assignments/assignment_04/converter","startedAt":"2026-11-12T14:33:32.351Z","attemptId":"96d9a5ce-0d97-4114-a3ab-9a78fbe86755","segmentId":"d0f584c0-a149-4abc-a8d1-190d22cdb6f7","sourceWindowId":"d07a6c28-68e2-4817-a599-f954dbe9773e","seq":0,"ms":0,"op":"session"}
+{"branch":"main","commit":"2a0233763591f1b253815cfc11bbb7339717be96","seq":1,"ms":-84,"op":"source.context"}
+{"source":"watcher","path":".","doc":1,"seq":2,"ms":-84,"op":"fs.create"}
