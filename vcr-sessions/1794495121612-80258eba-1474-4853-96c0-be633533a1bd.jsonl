@@ -4,3 +4,17 @@
 {"executionId":"b26e32fc-a840-4674-9830-d0d09fffb0e0","processId":-1,"doc":1,"seq":3,"ms":-52,"op":"task.processStart"}
 {"executionId":"b26e32fc-a840-4674-9830-d0d09fffb0e0","exitCode":-1,"doc":1,"seq":4,"ms":366,"op":"task.processEnd"}
 {"executionId":"b26e32fc-a840-4674-9830-d0d09fffb0e0","doc":1,"seq":5,"ms":368,"op":"task.end"}
+{"executionId":"52bbf94a-9b13-45cd-a4ce-7edbc13d6fc4","name":"C/C++: g++ build active file","type":"cppbuild","doc":1,"seq":6,"ms":204030,"op":"task.start"}
+{"executionId":"52bbf94a-9b13-45cd-a4ce-7edbc13d6fc4","processId":-1,"doc":1,"seq":7,"ms":204048,"op":"task.processStart"}
+{"executionId":"52bbf94a-9b13-45cd-a4ce-7edbc13d6fc4","exitCode":-1,"doc":1,"seq":8,"ms":204376,"op":"task.processEnd"}
+{"executionId":"52bbf94a-9b13-45cd-a4ce-7edbc13d6fc4","doc":1,"seq":9,"ms":204377,"op":"task.end"}
+{"executionId":"bddaefb2-74ed-4db0-b512-3fa72502275a","name":"C/C++: g++ build active file","type":"cppbuild","doc":1,"seq":10,"ms":232064,"op":"task.start"}
+{"executionId":"bddaefb2-74ed-4db0-b512-3fa72502275a","processId":-1,"doc":1,"seq":11,"ms":232076,"op":"task.processStart"}
+{"executionId":"bddaefb2-74ed-4db0-b512-3fa72502275a","exitCode":-1,"doc":1,"seq":12,"ms":232342,"op":"task.processEnd"}
+{"executionId":"bddaefb2-74ed-4db0-b512-3fa72502275a","doc":1,"seq":13,"ms":232342,"op":"task.end"}
+{"executionId":"0165aa2f-0d09-453b-ba06-7798c1127cc7","name":"C/C++: g++ build active file","type":"cppbuild","doc":1,"seq":14,"ms":255828,"op":"task.start"}
+{"executionId":"0165aa2f-0d09-453b-ba06-7798c1127cc7","processId":-1,"doc":1,"seq":15,"ms":255837,"op":"task.processStart"}
+{"executionId":"0165aa2f-0d09-453b-ba06-7798c1127cc7","exitCode":0,"doc":1,"seq":16,"ms":256294,"op":"task.processEnd"}
+{"executionId":"0165aa2f-0d09-453b-ba06-7798c1127cc7","doc":1,"seq":17,"ms":256296,"op":"task.end"}
+{"executionId":"c090c2e9-9944-41d2-bc70-2b2782730849","name":"C/C++: g++ build and debug active file","type":"cppdbg","noDebug":true,"doc":1,"seq":18,"ms":256336,"op":"debug.start"}
+{"executionId":"c090c2e9-9944-41d2-bc70-2b2782730849","doc":1,"seq":19,"ms":256882,"op":"debug.end"}

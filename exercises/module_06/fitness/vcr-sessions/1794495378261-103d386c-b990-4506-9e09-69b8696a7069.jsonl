@@ -1,0 +1,3 @@
+{"version":1,"courseId":"26FA-CSC-120-05","folder":"exercises/module_06/fitness","startedAt":"2026-11-12T14:56:18.261Z","attemptId":"02201bd2-89d5-4ae7-92df-a4c70bfa6a01","segmentId":"01b80ddf-8d3e-4736-8b87-fe0b7d4ba750","sourceWindowId":"fce2f198-43c6-40f2-b01a-8a4797aa0f06","seq":0,"ms":0,"op":"session"}
+{"branch":"main","commit":"2a0233763591f1b253815cfc11bbb7339717be96","seq":1,"ms":-295,"op":"source.context"}
+{"source":"watcher","path":".","doc":1,"seq":2,"ms":-295,"op":"fs.create"}
