@@ -1,0 +1,4 @@
+{"version":1,"courseId":"26FA-CSC-120-05","folder":"assignments/assignment_04/converter.cpp","startedAt":"2026-11-12T14:31:24.866Z","attemptId":"955eed7b-be01-402b-a0eb-5a253e8cd1b6","segmentId":"21aabef2-c85c-476b-a595-d3bb5f29e767","sourceWindowId":"d07a6c28-68e2-4817-a599-f954dbe9773e","seq":0,"ms":0,"op":"session"}
+{"branch":"main","commit":"2a0233763591f1b253815cfc11bbb7339717be96","seq":1,"ms":-151,"op":"source.context"}
+{"source":"workspace","path":".","doc":1,"seq":2,"ms":-151,"op":"fs.create"}
+{"source":"watcher","doc":1,"seq":3,"ms":-19,"op":"fs.create"}
