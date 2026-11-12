@@ -222,3 +222,12 @@
 {"doc":2,"seq":221,"ms":948379,"op":"save"}
 {"executionId":"10f1cef6-ba74-4927-88b0-c08a084315c6","terminalId":"9d9a9219-0c79-40d1-a527-36d731c9f232","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/overloadedfitness","confidence":2,"doc":3,"seq":222,"ms":949056,"op":"terminal.start"}
 {"executionId":"10f1cef6-ba74-4927-88b0-c08a084315c6","terminalId":"9d9a9219-0c79-40d1-a527-36d731c9f232","data":"\u001b]633;C\u0007","doc":3,"seq":223,"ms":949107,"op":"terminal.output"}
+{"executionId":"10f1cef6-ba74-4927-88b0-c08a084315c6","terminalId":"9d9a9219-0c79-40d1-a527-36d731c9f232","data":"Burned 250 calories in 25 minutes.\r\nBurned 175 calories in 10 minutes.\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":3,"seq":224,"ms":952250,"op":"terminal.output"}
+{"executionId":"10f1cef6-ba74-4927-88b0-c08a084315c6","terminalId":"9d9a9219-0c79-40d1-a527-36d731c9f232","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/overloadedfitness","confidence":2,"exitCode":0,"doc":3,"seq":225,"ms":952250,"op":"terminal.end"}
+{"version":183,"changes":[{"offset":288,"length":1,"text":""}],"doc":2,"seq":226,"ms":975202,"op":"edit"}
+{"version":184,"changes":[{"offset":288,"length":0,"text":"2"}],"doc":2,"seq":227,"ms":975736,"op":"edit"}
+{"doc":2,"seq":228,"ms":989108,"op":"save"}
+{"executionId":"5461b09e-9345-4344-a688-a16cf3614fff","terminalId":"9d9a9219-0c79-40d1-a527-36d731c9f232","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/overloadedfitness","confidence":2,"doc":3,"seq":229,"ms":989741,"op":"terminal.start"}
+{"executionId":"5461b09e-9345-4344-a688-a16cf3614fff","terminalId":"9d9a9219-0c79-40d1-a527-36d731c9f232","data":"\u001b]633;C\u0007","doc":3,"seq":230,"ms":989792,"op":"terminal.output"}
+{"executionId":"5461b09e-9345-4344-a688-a16cf3614fff","terminalId":"9d9a9219-0c79-40d1-a527-36d731c9f232","data":"Burned 250 calories in 25 minutes.\r\nBurned 175 calories in 35 minutes.\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":3,"seq":231,"ms":989923,"op":"terminal.output"}
+{"executionId":"5461b09e-9345-4344-a688-a16cf3614fff","terminalId":"9d9a9219-0c79-40d1-a527-36d731c9f232","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/overloadedfitness","confidence":2,"exitCode":0,"doc":3,"seq":232,"ms":989924,"op":"terminal.end"}
