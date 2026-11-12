@@ -213,3 +213,19 @@
 {"executionId":"d407cc7d-dc49-4cbc-a88c-097120e5d01c","terminalId":"2de74709-766e-4fdc-914f-ec6cef0a4ba1","data":"Burned 100 calories in 10 minutes.\r\nBurned 100 calories in 10 minutes.\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":3,"seq":212,"ms":773967,"op":"terminal.output"}
 {"executionId":"d407cc7d-dc49-4cbc-a88c-097120e5d01c","terminalId":"2de74709-766e-4fdc-914f-ec6cef0a4ba1","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/fitness","confidence":2,"exitCode":0,"doc":3,"seq":213,"ms":773968,"op":"terminal.end"}
 {"version":202,"changes":[{"offset":159,"length":0,"text":"\n    "}],"doc":1,"seq":214,"ms":811005,"op":"edit"}
+{"version":203,"changes":[{"offset":160,"length":4,"text":""},{"offset":120,"length":1,"text":""}],"doc":1,"seq":215,"ms":832819,"op":"edit"}
+{"version":204,"changes":[{"offset":120,"length":0,"text":";"}],"doc":1,"seq":216,"ms":836890,"op":"edit"}
+{"version":205,"changes":[{"offset":120,"length":1,"text":""}],"doc":1,"seq":217,"ms":838023,"op":"edit"}
+{"version":206,"changes":[{"offset":120,"length":0,"text":" "}],"doc":1,"seq":218,"ms":838781,"op":"edit"}
+{"version":207,"changes":[{"offset":122,"length":4,"text":""}],"doc":1,"seq":219,"ms":844081,"op":"edit"}
+{"version":208,"changes":[{"offset":121,"length":1,"text":""}],"doc":1,"seq":220,"ms":844549,"op":"edit"}
+{"version":209,"changes":[{"offset":121,"length":0,"text":" "}],"doc":1,"seq":221,"ms":845566,"op":"edit"}
+{"version":210,"changes":[{"offset":138,"length":4,"text":""}],"doc":1,"seq":222,"ms":853122,"op":"edit"}
+{"version":211,"changes":[{"offset":137,"length":1,"text":""}],"doc":1,"seq":223,"ms":853616,"op":"edit"}
+{"version":212,"changes":[{"offset":136,"length":1,"text":""}],"doc":1,"seq":224,"ms":854664,"op":"edit"}
+{"version":213,"changes":[{"offset":136,"length":0,"text":" "}],"doc":1,"seq":225,"ms":855369,"op":"edit"}
+{"version":214,"changes":[{"offset":150,"length":1,"text":""},{"offset":121,"length":1,"text":""}],"doc":1,"seq":226,"ms":857461,"op":"edit"}
+{"doc":1,"seq":227,"ms":857475,"op":"save"}
+{"version":215,"changes":[{"offset":121,"length":0,"text":"="}],"doc":1,"seq":228,"ms":865594,"op":"edit"}
+{"version":216,"changes":[{"offset":122,"length":0,"text":" "}],"doc":1,"seq":229,"ms":866370,"op":"edit"}
+{"doc":1,"seq":230,"ms":868818,"op":"save"}
