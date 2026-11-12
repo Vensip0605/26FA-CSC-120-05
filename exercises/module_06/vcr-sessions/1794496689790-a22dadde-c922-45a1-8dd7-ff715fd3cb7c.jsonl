@@ -50,3 +50,23 @@
 {"version":47,"changes":[{"offset":154,"length":1,"text":""}],"doc":2,"seq":49,"ms":312552,"op":"edit"}
 {"version":48,"changes":[{"offset":154,"length":0,"text":"2"}],"doc":2,"seq":50,"ms":313071,"op":"edit"}
 {"doc":2,"seq":51,"ms":317728,"op":"save"}
+{"version":49,"changes":[{"offset":151,"length":1,"text":""}],"doc":2,"seq":52,"ms":361753,"op":"edit"}
+{"version":50,"changes":[{"offset":150,"length":1,"text":""}],"doc":2,"seq":53,"ms":362099,"op":"edit"}
+{"version":51,"changes":[{"offset":149,"length":1,"text":""}],"doc":2,"seq":54,"ms":362492,"op":"edit"}
+{"version":52,"changes":[{"offset":148,"length":1,"text":""}],"doc":2,"seq":55,"ms":362954,"op":"edit"}
+{"version":53,"changes":[{"offset":147,"length":1,"text":""}],"doc":2,"seq":56,"ms":364311,"op":"edit"}
+{"version":54,"changes":[{"offset":146,"length":1,"text":""}],"doc":2,"seq":57,"ms":364820,"op":"edit"}
+{"version":55,"changes":[{"offset":146,"length":0,"text":"c"}],"doc":2,"seq":58,"ms":372630,"op":"edit"}
+{"version":56,"changes":[{"offset":147,"length":0,"text":"a"}],"doc":2,"seq":59,"ms":373933,"op":"edit"}
+{"version":57,"changes":[{"offset":148,"length":0,"text":"l"}],"doc":2,"seq":60,"ms":374352,"op":"edit"}
+{"version":58,"changes":[{"offset":149,"length":0,"text":"o"}],"doc":2,"seq":61,"ms":375091,"op":"edit"}
+{"version":59,"changes":[{"offset":150,"length":0,"text":"r"}],"doc":2,"seq":62,"ms":375610,"op":"edit"}
+{"version":60,"changes":[{"offset":151,"length":0,"text":"i"}],"doc":2,"seq":63,"ms":376835,"op":"edit"}
+{"version":61,"changes":[{"offset":152,"length":0,"text":"e"}],"doc":2,"seq":64,"ms":377602,"op":"edit"}
+{"version":62,"changes":[{"offset":153,"length":0,"text":"s"}],"doc":2,"seq":65,"ms":377960,"op":"edit"}
+{"version":63,"changes":[{"offset":154,"length":0,"text":" "}],"doc":2,"seq":66,"ms":378794,"op":"edit"}
+{"doc":2,"seq":67,"ms":383218,"op":"save"}
+{"executionId":"f14db794-70e7-4044-b806-626c5ce0429b","terminalId":"9d9a9219-0c79-40d1-a527-36d731c9f232","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/overloadedfitness","confidence":2,"path":".","doc":3,"seq":68,"ms":383928,"op":"terminal.start"}
+{"executionId":"f14db794-70e7-4044-b806-626c5ce0429b","terminalId":"9d9a9219-0c79-40d1-a527-36d731c9f232","data":"\u001b]633;C\u0007","doc":3,"seq":69,"ms":383979,"op":"terminal.output"}
+{"executionId":"f14db794-70e7-4044-b806-626c5ce0429b","terminalId":"9d9a9219-0c79-40d1-a527-36d731c9f232","data":"Burned 200 calories in 4000 minutes.\r\nBurned 350000 calories in 7000000 minutes.\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":3,"seq":70,"ms":384233,"op":"terminal.output"}
+{"executionId":"f14db794-70e7-4044-b806-626c5ce0429b","terminalId":"9d9a9219-0c79-40d1-a527-36d731c9f232","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/overloadedfitness","confidence":2,"exitCode":0,"doc":3,"seq":71,"ms":384234,"op":"terminal.end"}
