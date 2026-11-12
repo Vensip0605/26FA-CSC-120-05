@@ -1,0 +1,4 @@
+{"version":1,"courseId":"26FA-CSC-120-05","folder":"exercises/module_06/overloadedfitness.cpp","startedAt":"2026-11-12T15:21:08.705Z","attemptId":"2009adaa-06d6-4282-97c0-d24b8787ca82","segmentId":"af3fe871-e567-4bf6-996a-218e4fea6a54","sourceWindowId":"6200800f-545c-4e61-a796-1118f0f4c4c6","seq":0,"ms":0,"op":"session"}
+{"branch":"main","commit":"2a0233763591f1b253815cfc11bbb7339717be96","seq":1,"ms":-9069,"op":"source.context"}
+{"source":"workspace","path":".","doc":1,"seq":2,"ms":-9069,"op":"fs.create"}
+{"source":"watcher","doc":1,"seq":3,"ms":-8873,"op":"fs.create"}
