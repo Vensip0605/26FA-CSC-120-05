@@ -148,3 +148,39 @@
 {"version":124,"changes":[{"offset":277,"length":0,"text":"e"}],"doc":2,"seq":147,"ms":822669,"op":"edit"}
 {"version":125,"changes":[{"offset":278,"length":0,"text":"p"}],"doc":2,"seq":148,"ms":823345,"op":"edit"}
 {"version":126,"changes":[{"offset":279,"length":0,"text":"s"}],"doc":2,"seq":149,"ms":823834,"op":"edit"}
+{"version":127,"changes":[{"offset":280,"length":0,"text":"/"}],"doc":2,"seq":150,"ms":835349,"op":"edit"}
+{"version":128,"changes":[{"offset":281,"length":0,"text":"2"}],"doc":2,"seq":151,"ms":836478,"op":"edit"}
+{"version":129,"changes":[{"offset":282,"length":0,"text":"0"}],"doc":2,"seq":152,"ms":836912,"op":"edit"}
+{"version":130,"changes":[{"offset":283,"length":0,"text":"0"}],"doc":2,"seq":153,"ms":837147,"op":"edit"}
+{"version":131,"changes":[{"offset":284,"length":0,"text":"0"}],"doc":2,"seq":154,"ms":837312,"op":"edit"}
+{"version":132,"changes":[{"offset":285,"length":0,"text":")"}],"doc":2,"seq":155,"ms":840763,"op":"edit"}
+{"version":133,"changes":[{"offset":275,"length":0,"text":"("}],"doc":2,"seq":156,"ms":849274,"op":"edit"}
+{"version":134,"changes":[{"offset":282,"length":0,"text":" "},{"offset":281,"length":0,"text":" "},{"offset":248,"length":0,"text":" "},{"offset":247,"length":0,"text":" "}],"doc":2,"seq":157,"ms":851191,"op":"edit"}
+{"doc":2,"seq":158,"ms":851199,"op":"save"}
+{"executionId":"eccf1174-9878-41c5-be4d-8e0d6c357dac","terminalId":"9d9a9219-0c79-40d1-a527-36d731c9f232","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/overloadedfitness","confidence":2,"doc":3,"seq":159,"ms":851866,"op":"terminal.start"}
+{"executionId":"eccf1174-9878-41c5-be4d-8e0d6c357dac","terminalId":"9d9a9219-0c79-40d1-a527-36d731c9f232","data":"\u001b]633;C\u0007","doc":3,"seq":160,"ms":851920,"op":"terminal.output"}
+{"executionId":"eccf1174-9878-41c5-be4d-8e0d6c357dac","terminalId":"9d9a9219-0c79-40d1-a527-36d731c9f232","data":"Burned 250 calories in 25 minutes.\r\nBurned 100 calories in 20 minutes.\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":3,"seq":161,"ms":852141,"op":"terminal.output"}
+{"executionId":"eccf1174-9878-41c5-be4d-8e0d6c357dac","terminalId":"9d9a9219-0c79-40d1-a527-36d731c9f232","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/overloadedfitness","confidence":2,"exitCode":0,"doc":3,"seq":162,"ms":852142,"op":"terminal.end"}
+{"version":135,"changes":[{"offset":277,"length":1,"text":" "}],"doc":2,"seq":163,"ms":860878,"op":"edit"}
+{"version":136,"changes":[{"offset":284,"length":7,"text":" "}],"doc":2,"seq":164,"ms":864424,"op":"edit"}
+{"version":137,"changes":[{"offset":283,"length":2,"text":""},{"offset":277,"length":1,"text":""}],"doc":2,"seq":165,"ms":867572,"op":"edit"}
+{"doc":2,"seq":166,"ms":867584,"op":"save"}
+{"executionId":"0be1bacc-d538-42c2-a998-ce40880beb5c","terminalId":"9d9a9219-0c79-40d1-a527-36d731c9f232","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/overloadedfitness","confidence":2,"doc":3,"seq":167,"ms":868229,"op":"terminal.start"}
+{"executionId":"0be1bacc-d538-42c2-a998-ce40880beb5c","terminalId":"9d9a9219-0c79-40d1-a527-36d731c9f232","data":"\u001b]633;C\u0007","doc":3,"seq":168,"ms":868280,"op":"terminal.output"}
+{"executionId":"0be1bacc-d538-42c2-a998-ce40880beb5c","terminalId":"9d9a9219-0c79-40d1-a527-36d731c9f232","data":"Burned 250 calories in 25 minutes.\r\nBurned 100 calories in 70000 minutes.\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":3,"seq":169,"ms":868467,"op":"terminal.output"}
+{"executionId":"0be1bacc-d538-42c2-a998-ce40880beb5c","terminalId":"9d9a9219-0c79-40d1-a527-36d731c9f232","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/overloadedfitness","confidence":2,"exitCode":0,"doc":3,"seq":170,"ms":868467,"op":"terminal.end"}
+{"version":138,"changes":[{"offset":281,"length":1,"text":""}],"doc":2,"seq":171,"ms":876498,"op":"edit"}
+{"version":139,"changes":[{"offset":280,"length":1,"text":""}],"doc":2,"seq":172,"ms":876998,"op":"edit"}
+{"version":140,"changes":[{"offset":279,"length":1,"text":""}],"doc":2,"seq":173,"ms":877079,"op":"edit"}
+{"version":141,"changes":[{"offset":278,"length":1,"text":""}],"doc":2,"seq":174,"ms":877163,"op":"edit"}
+{"version":142,"changes":[{"offset":277,"length":1,"text":""}],"doc":2,"seq":175,"ms":877422,"op":"edit"}
+{"version":143,"changes":[{"offset":277,"length":0,"text":"c"}],"doc":2,"seq":176,"ms":878194,"op":"edit"}
+{"version":144,"changes":[{"offset":278,"length":0,"text":"o"}],"doc":2,"seq":177,"ms":878862,"op":"edit"}
+{"version":145,"changes":[{"offset":279,"length":0,"text":"l"}],"doc":2,"seq":178,"ms":879253,"op":"edit"}
+{"version":146,"changes":[{"offset":280,"length":0,"text":"o"}],"doc":2,"seq":179,"ms":879962,"op":"edit"}
+{"version":147,"changes":[{"offset":281,"length":0,"text":"r"}],"doc":2,"seq":180,"ms":880545,"op":"edit"}
+{"version":148,"changes":[{"offset":282,"length":0,"text":"i"}],"doc":2,"seq":181,"ms":883496,"op":"edit"}
+{"version":149,"changes":[{"offset":283,"length":0,"text":"e"}],"doc":2,"seq":182,"ms":883928,"op":"edit"}
+{"version":150,"changes":[{"offset":284,"length":0,"text":"s"}],"doc":2,"seq":183,"ms":884228,"op":"edit"}
+{"version":151,"changes":[{"offset":278,"length":1,"text":""}],"doc":2,"seq":184,"ms":886905,"op":"edit"}
+{"version":152,"changes":[{"offset":278,"length":0,"text":"a"}],"doc":2,"seq":185,"ms":887039,"op":"edit"}
