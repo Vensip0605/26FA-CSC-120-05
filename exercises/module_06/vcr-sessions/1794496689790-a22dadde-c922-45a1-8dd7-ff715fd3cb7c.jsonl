@@ -87,3 +87,14 @@
 {"version":78,"changes":[{"offset":269,"length":0,"text":"t"}],"doc":2,"seq":86,"ms":468344,"op":"edit"}
 {"version":79,"changes":[{"offset":270,"length":0,"text":"e"}],"doc":2,"seq":87,"ms":468686,"op":"edit"}
 {"version":80,"changes":[{"offset":271,"length":0,"text":"p"}],"doc":2,"seq":88,"ms":469567,"op":"edit"}
+{"version":81,"changes":[{"offset":272,"length":0,"text":"s"}],"doc":2,"seq":89,"ms":469773,"op":"edit"}
+{"doc":2,"seq":90,"ms":472036,"op":"save"}
+{"executionId":"678dd698-09f7-499e-a28e-1e25f74bb47f","terminalId":"9d9a9219-0c79-40d1-a527-36d731c9f232","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/overloadedfitness","confidence":2,"doc":3,"seq":91,"ms":472781,"op":"terminal.start"}
+{"executionId":"678dd698-09f7-499e-a28e-1e25f74bb47f","terminalId":"9d9a9219-0c79-40d1-a527-36d731c9f232","data":"\u001b]633;C\u0007","doc":3,"seq":92,"ms":472832,"op":"terminal.output"}
+{"executionId":"678dd698-09f7-499e-a28e-1e25f74bb47f","terminalId":"9d9a9219-0c79-40d1-a527-36d731c9f232","data":"Burned 250 calories in 25 minutes.\r\nBurned 350000 calories in 70000 minutes.\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":3,"seq":93,"ms":473082,"op":"terminal.output"}
+{"executionId":"678dd698-09f7-499e-a28e-1e25f74bb47f","terminalId":"9d9a9219-0c79-40d1-a527-36d731c9f232","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/overloadedfitness","confidence":2,"exitCode":0,"doc":3,"seq":94,"ms":473082,"op":"terminal.end"}
+{"version":82,"changes":[{"offset":272,"length":1,"text":""}],"doc":2,"seq":95,"ms":523450,"op":"edit"}
+{"version":83,"changes":[{"offset":271,"length":1,"text":""}],"doc":2,"seq":96,"ms":523728,"op":"edit"}
+{"version":84,"changes":[{"offset":270,"length":1,"text":""}],"doc":2,"seq":97,"ms":524057,"op":"edit"}
+{"version":85,"changes":[{"offset":269,"length":1,"text":""}],"doc":2,"seq":98,"ms":524506,"op":"edit"}
+{"version":86,"changes":[{"offset":268,"length":1,"text":""}],"doc":2,"seq":99,"ms":524970,"op":"edit"}
