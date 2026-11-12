@@ -198,3 +198,18 @@
 {"version":191,"changes":[{"offset":153,"length":0,"text":" "}],"doc":1,"seq":197,"ms":756993,"op":"edit"}
 {"version":192,"changes":[{"offset":154,"length":0,"text":"="}],"doc":1,"seq":198,"ms":757899,"op":"edit"}
 {"version":193,"changes":[{"offset":155,"length":0,"text":" "}],"doc":1,"seq":199,"ms":758499,"op":"edit"}
+{"version":194,"changes":[{"offset":156,"length":0,"text":"1"}],"doc":1,"seq":200,"ms":760644,"op":"edit"}
+{"version":195,"changes":[{"offset":157,"length":0,"text":"0"}],"doc":1,"seq":201,"ms":761217,"op":"edit"}
+{"version":196,"changes":[{"offset":158,"length":0,"text":";"}],"doc":1,"seq":202,"ms":762452,"op":"edit"}
+{"version":197,"changes":[{"offset":143,"length":2,"text":":"},{"offset":140,"length":2,"text":""}],"doc":1,"seq":203,"ms":764319,"op":"edit"}
+{"doc":1,"seq":204,"ms":764334,"op":"save"}
+{"version":198,"changes":[{"offset":141,"length":1,"text":""}],"doc":1,"seq":205,"ms":768608,"op":"edit"}
+{"version":199,"changes":[{"offset":141,"length":0,"text":";"}],"doc":1,"seq":206,"ms":769793,"op":"edit"}
+{"version":200,"changes":[{"offset":142,"length":0,"text":"\n    "}],"doc":1,"seq":207,"ms":771343,"op":"edit"}
+{"text":"#include <iostream>\n\nusing namespace std;\nvoid logActivity(double miles, double &calories, int &minutes)\n{\n    miles = 1;\n    calories = 100;\n    minutes = 10;\n}\nint main()\n{\n    double calories = 0.0;\n    int minutes = 0;\n    logActivity(2.5, calories, minutes);\n    cout << \"Burned \" << calories << \" calories in \" << minutes << \" minutes.\\n\";\n    logActivity(3.5, calories, minutes);\n    cout << \"Burned \" << calories << \" calories in \" << minutes << \" minutes.\\n\";\n}\n","version":201,"snapshot":true,"doc":1,"seq":208,"ms":772989,"op":"edit"}
+{"doc":1,"seq":209,"ms":773001,"op":"save"}
+{"executionId":"d407cc7d-dc49-4cbc-a88c-097120e5d01c","terminalId":"2de74709-766e-4fdc-914f-ec6cef0a4ba1","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/fitness","confidence":2,"path":".","doc":3,"seq":210,"ms":773697,"op":"terminal.start"}
+{"executionId":"d407cc7d-dc49-4cbc-a88c-097120e5d01c","terminalId":"2de74709-766e-4fdc-914f-ec6cef0a4ba1","data":"\u001b]633;C\u0007","doc":3,"seq":211,"ms":773747,"op":"terminal.output"}
+{"executionId":"d407cc7d-dc49-4cbc-a88c-097120e5d01c","terminalId":"2de74709-766e-4fdc-914f-ec6cef0a4ba1","data":"Burned 100 calories in 10 minutes.\r\nBurned 100 calories in 10 minutes.\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":3,"seq":212,"ms":773967,"op":"terminal.output"}
+{"executionId":"d407cc7d-dc49-4cbc-a88c-097120e5d01c","terminalId":"2de74709-766e-4fdc-914f-ec6cef0a4ba1","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/fitness","confidence":2,"exitCode":0,"doc":3,"seq":213,"ms":773968,"op":"terminal.end"}
+{"version":202,"changes":[{"offset":159,"length":0,"text":"\n    "}],"doc":1,"seq":214,"ms":811005,"op":"edit"}
