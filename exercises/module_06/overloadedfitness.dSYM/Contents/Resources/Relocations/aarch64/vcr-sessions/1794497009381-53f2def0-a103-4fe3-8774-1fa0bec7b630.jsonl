@@ -1,0 +1,3 @@
+{"version":1,"courseId":"26FA-CSC-120-05","folder":"exercises/module_06/overloadedfitness.dSYM/Contents/Resources/Relocations/aarch64","startedAt":"2026-11-12T15:23:29.381Z","attemptId":"46091276-7c8a-4d35-bc7d-0173027d2f9b","segmentId":"c167fd2a-fa85-4278-95bc-69284ecfc7df","sourceWindowId":"6200800f-545c-4e61-a796-1118f0f4c4c6","seq":0,"ms":0,"op":"session"}
+{"branch":"main","commit":"2a0233763591f1b253815cfc11bbb7339717be96","seq":1,"ms":-873,"op":"source.context"}
+{"source":"watcher","path":".","doc":1,"seq":2,"ms":-873,"op":"fs.create"}
