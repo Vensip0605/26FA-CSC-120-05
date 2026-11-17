@@ -441,3 +441,10 @@
 {"version":257,"changes":[{"offset":275,"length":1,"text":""}],"doc":6,"seq":440,"ms":2765783,"op":"edit"}
 {"version":258,"changes":[{"offset":275,"length":0,"text":"b"}],"doc":6,"seq":441,"ms":2767656,"op":"edit"}
 {"version":259,"changes":[{"offset":276,"length":0,"text":"l"}],"doc":6,"seq":442,"ms":2768035,"op":"edit"}
+{"version":260,"changes":[{"offset":277,"length":0,"text":"e"}],"doc":6,"seq":443,"ms":2768319,"op":"edit"}
+{"version":261,"changes":[{"offset":402,"length":31,"text":" "}],"doc":6,"seq":444,"ms":2786155,"op":"edit"}
+{"version":262,"changes":[{"offset":136,"length":92,"text":" "}],"doc":6,"seq":445,"ms":2793380,"op":"edit"}
+{"version":263,"changes":[{"offset":136,"length":1,"text":""}],"doc":6,"seq":446,"ms":2795165,"op":"edit"}
+{"version":264,"changes":[{"offset":132,"length":4,"text":""}],"doc":6,"seq":447,"ms":2795575,"op":"edit"}
+{"version":265,"changes":[{"offset":131,"length":1,"text":""}],"doc":6,"seq":448,"ms":2795942,"op":"edit"}
+{"version":266,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":306,"length":0,"text":"for (int i = 1; i <= 12; i++)\n        cout << num << \"x\" << i << \" = \" << (num * i) << \"\\n\";"}],"doc":6,"seq":449,"ms":2800660,"op":"edit"}
