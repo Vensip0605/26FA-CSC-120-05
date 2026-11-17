@@ -128,3 +128,4 @@
 {"executionId":"76b2e167-1ef2-43e0-81d6-d4d1df6814d8","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"3","doc":3,"seq":127,"ms":1137794,"op":"terminal.output"}
 {"executionId":"76b2e167-1ef2-43e0-81d6-d4d1df6814d8","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"\r\nGoodbye!\r\nProgram finished.\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                         \r \r","doc":3,"seq":128,"ms":1138500,"op":"terminal.output"}
 {"executionId":"76b2e167-1ef2-43e0-81d6-d4d1df6814d8","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/assignments/assignment_04/converter","confidence":2,"exitCode":0,"doc":3,"seq":129,"ms":1138501,"op":"terminal.end"}
+{"doc":2,"seq":130,"ms":49530335,"op":"close"}

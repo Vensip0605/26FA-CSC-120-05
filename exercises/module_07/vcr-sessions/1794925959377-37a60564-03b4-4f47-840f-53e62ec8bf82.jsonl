@@ -7,3 +7,4 @@
 {"version":3,"changes":[{"offset":0,"length":0,"text":"#"}],"doc":2,"seq":6,"ms":39763,"op":"edit"}
 {"version":4,"changes":[{"offset":158,"length":0,"text":"\n   "},{"offset":72,"length":1,"text":"\n"}],"doc":2,"seq":7,"ms":47124,"op":"edit"}
 {"doc":2,"seq":8,"ms":47137,"op":"save"}
+{"text":"Hello File!\n","version":1,"path":"output.txt","snapshot":true,"doc":3,"seq":9,"ms":96809,"op":"snap"}
