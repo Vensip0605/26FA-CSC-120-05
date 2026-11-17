@@ -45,3 +45,15 @@
 {"version":3,"changes":[{"offset":161,"length":0,"text":"\n   "},{"offset":90,"length":1,"text":"\n"}],"doc":5,"seq":44,"ms":1143268,"op":"edit"}
 {"doc":5,"seq":45,"ms":1143281,"op":"save"}
 {"doc":2,"seq":46,"ms":1143286,"op":"save"}
+{"version":4,"changes":[{"offset":238,"length":0,"text":"\n    "}],"doc":5,"seq":47,"ms":1155037,"op":"edit"}
+{"version":5,"changes":[{"offset":239,"length":4,"text":"}"}],"doc":5,"seq":48,"ms":1157165,"op":"edit"}
+{"doc":5,"seq":49,"ms":1159785,"op":"save"}
+{"version":6,"changes":[{"offset":238,"length":0,"text":"\n    "}],"doc":5,"seq":50,"ms":1194335,"op":"edit"}
+{"version":7,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":243,"length":0,"text":"string line;\n\n    while (getline(inputFile, line)) {\n        cout << line << endl;\n    }\n\n    inputFile.close();\n    return 0;\n}\n"}],"doc":5,"seq":51,"ms":1198235,"op":"edit"}
+{"version":8,"changes":[{"offset":373,"length":1,"text":""}],"doc":5,"seq":52,"ms":1200631,"op":"edit"}
+{"version":9,"changes":[{"offset":371,"length":2,"text":""},{"offset":294,"length":0,"text":" "},{"offset":293,"length":0,"text":"\n  "}],"doc":5,"seq":53,"ms":1203027,"op":"edit"}
+{"doc":5,"seq":54,"ms":1203043,"op":"save"}
+{"executionId":"050036db-4b93-4f4b-885e-3fa8f87d63e9","terminalId":"83714728-ae7d-4c8c-87f0-8dd53dbb367f","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_07/file2","confidence":2,"doc":1,"seq":55,"ms":1203901,"op":"terminal.start"}
+{"executionId":"050036db-4b93-4f4b-885e-3fa8f87d63e9","terminalId":"83714728-ae7d-4c8c-87f0-8dd53dbb367f","data":"\u001b]633;C\u0007","doc":1,"seq":56,"ms":1203952,"op":"terminal.output"}
+{"executionId":"050036db-4b93-4f4b-885e-3fa8f87d63e9","terminalId":"83714728-ae7d-4c8c-87f0-8dd53dbb367f","data":"Hello File!\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":1,"seq":57,"ms":1207116,"op":"terminal.output"}
+{"executionId":"050036db-4b93-4f4b-885e-3fa8f87d63e9","terminalId":"83714728-ae7d-4c8c-87f0-8dd53dbb367f","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_07/file2","confidence":2,"exitCode":0,"doc":1,"seq":58,"ms":1207116,"op":"terminal.end"}
