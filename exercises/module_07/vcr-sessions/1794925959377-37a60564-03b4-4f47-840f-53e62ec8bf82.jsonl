@@ -602,3 +602,4 @@
 {"executionId":"8bc8ac2a-9cec-427b-8277-f3bb3be4a686","terminalId":"2cb3e456-656e-4625-a83a-2d22f9eb5bb0","data":"7","doc":1,"seq":601,"ms":3821750,"op":"terminal.output"}
 {"executionId":"8bc8ac2a-9cec-427b-8277-f3bb3be4a686","terminalId":"2cb3e456-656e-4625-a83a-2d22f9eb5bb0","data":"\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":1,"seq":602,"ms":3822414,"op":"terminal.output"}
 {"executionId":"8bc8ac2a-9cec-427b-8277-f3bb3be4a686","terminalId":"2cb3e456-656e-4625-a83a-2d22f9eb5bb0","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_07/multi","confidence":2,"exitCode":0,"doc":1,"seq":603,"ms":3822414,"op":"terminal.end"}
+{"doc":7,"seq":604,"ms":4081049,"op":"close"}
