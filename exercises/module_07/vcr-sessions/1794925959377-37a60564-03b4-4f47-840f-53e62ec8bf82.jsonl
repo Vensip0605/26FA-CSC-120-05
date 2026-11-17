@@ -36,3 +36,7 @@
 {"source":"watcher","path":"out*put.txt","doc":4,"seq":35,"ms":761494,"op":"fs.create"}
 {"doc":3,"seq":36,"ms":787986,"op":"close"}
 {"text":"Hello File!\n","version":1,"snapshot":true,"doc":4,"seq":37,"ms":788005,"op":"snap"}
+{"doc":4,"seq":38,"ms":793835,"op":"close"}
+{"source":"workspace","doc":4,"seq":39,"ms":793838,"op":"fs.delete"}
+{"source":"watcher","doc":4,"seq":40,"ms":793927,"op":"fs.delete"}
+{"version":6,"changes":[{"offset":112,"length":1,"text":""}],"doc":2,"seq":41,"ms":798106,"op":"edit"}
