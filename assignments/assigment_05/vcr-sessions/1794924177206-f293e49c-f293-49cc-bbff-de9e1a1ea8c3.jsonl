@@ -64,3 +64,5 @@
 {"executionId":"305566a0-51d5-450b-993e-389063834577","terminalId":"3bd4b89d-be60-4b49-b2c6-c8a3b4e21a7c","data":"\u001b]633;C\u0007","doc":1,"seq":63,"ms":213878,"op":"terminal.output"}
 {"executionId":"305566a0-51d5-450b-993e-389063834577","terminalId":"3bd4b89d-be60-4b49-b2c6-c8a3b4e21a7c","data":"Base Conversion program\r\n1. Convert Binary to Decimal\r\n2. Convert Decimal to Binary\r\n3. Exit\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":1,"seq":64,"ms":214060,"op":"terminal.output"}
 {"executionId":"305566a0-51d5-450b-993e-389063834577","terminalId":"3bd4b89d-be60-4b49-b2c6-c8a3b4e21a7c","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/assignments/assigment_05/baseconverter","confidence":2,"exitCode":0,"doc":1,"seq":65,"ms":214060,"op":"terminal.end"}
+{"version":57,"changes":[{"offset":237,"length":0,"text":"\n"}],"doc":2,"seq":66,"ms":311724,"op":"edit"}
+{"version":58,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":238,"length":0,"text":"int getMenuChoice()"}],"doc":2,"seq":67,"ms":315332,"op":"edit"}
