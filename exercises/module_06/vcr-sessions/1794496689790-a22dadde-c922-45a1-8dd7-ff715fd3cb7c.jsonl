@@ -231,3 +231,6 @@
 {"executionId":"5461b09e-9345-4344-a688-a16cf3614fff","terminalId":"9d9a9219-0c79-40d1-a527-36d731c9f232","data":"\u001b]633;C\u0007","doc":3,"seq":230,"ms":989792,"op":"terminal.output"}
 {"executionId":"5461b09e-9345-4344-a688-a16cf3614fff","terminalId":"9d9a9219-0c79-40d1-a527-36d731c9f232","data":"Burned 250 calories in 25 minutes.\r\nBurned 175 calories in 35 minutes.\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":3,"seq":231,"ms":989923,"op":"terminal.output"}
 {"executionId":"5461b09e-9345-4344-a688-a16cf3614fff","terminalId":"9d9a9219-0c79-40d1-a527-36d731c9f232","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_06/overloadedfitness","confidence":2,"exitCode":0,"doc":3,"seq":232,"ms":989924,"op":"terminal.end"}
+{"text":"#include <iostream>\n\nusing namespace std;\n\nvoid greet()\n{\n    cout << \"welcome to CSC-120!\\n\";\n}\n\nint main()\n{\n    cout << \"program starting...\\n\";\n    greet();\n    greet();\n    greet();\n    greet();\n    greet();\n    cout << \"program ending...\\n\";\n    return 0;\n}\n","version":1,"path":"greeting.cpp","snapshot":true,"doc":4,"seq":233,"ms":379794129,"op":"snap"}
+{"doc":4,"seq":234,"ms":379801879,"op":"close"}
+{"doc":1,"seq":235,"ms":379810634,"op":"close"}
