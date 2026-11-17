@@ -40,3 +40,8 @@
 {"source":"workspace","doc":4,"seq":39,"ms":793838,"op":"fs.delete"}
 {"source":"watcher","doc":4,"seq":40,"ms":793927,"op":"fs.delete"}
 {"version":6,"changes":[{"offset":112,"length":1,"text":""}],"doc":2,"seq":41,"ms":798106,"op":"edit"}
+{"text":"","version":1,"path":"file2.cpp","snapshot":true,"doc":5,"seq":42,"ms":1128703,"op":"snap"}
+{"version":2,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":0,"length":0,"text":"#include <fstream>\n#include <string>\n#include <iostream>\n\nusing namespace std;\n\nint main() {\n    ifstream inputFile(\"output.txt\");\n\n    if (!inputFile.is_open()) {\n        cerr << \"Error opening file!\" << endl;\n        return 1;\n    }\n"}],"doc":5,"seq":43,"ms":1141476,"op":"edit"}
+{"version":3,"changes":[{"offset":161,"length":0,"text":"\n   "},{"offset":90,"length":1,"text":"\n"}],"doc":5,"seq":44,"ms":1143268,"op":"edit"}
+{"doc":5,"seq":45,"ms":1143281,"op":"save"}
+{"doc":2,"seq":46,"ms":1143286,"op":"save"}
