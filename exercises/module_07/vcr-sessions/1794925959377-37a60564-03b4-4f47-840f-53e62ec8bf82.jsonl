@@ -448,3 +448,9 @@
 {"version":264,"changes":[{"offset":132,"length":4,"text":""}],"doc":6,"seq":447,"ms":2795575,"op":"edit"}
 {"version":265,"changes":[{"offset":131,"length":1,"text":""}],"doc":6,"seq":448,"ms":2795942,"op":"edit"}
 {"version":266,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":306,"length":0,"text":"for (int i = 1; i <= 12; i++)\n        cout << num << \"x\" << i << \" = \" << (num * i) << \"\\n\";"}],"doc":6,"seq":449,"ms":2800660,"op":"edit"}
+{"version":267,"changes":[{"offset":344,"length":1,"text":""}],"doc":6,"seq":450,"ms":2851866,"op":"edit"}
+{"version":268,"changes":[{"offset":344,"length":0,"text":"f"}],"doc":6,"seq":451,"ms":2852756,"op":"edit"}
+{"version":269,"changes":[{"offset":445,"length":1,"text":""},{"offset":442,"length":1,"text":""},{"offset":136,"length":4,"text":""}],"doc":6,"seq":452,"ms":2859688,"op":"edit"}
+{"doc":6,"seq":453,"ms":2859704,"op":"save"}
+{"version":270,"changes":[{"offset":145,"length":1,"text":""}],"doc":6,"seq":454,"ms":2883208,"op":"edit"}
+{"version":271,"changes":[{"offset":145,"length":0,"text":"f"}],"doc":6,"seq":455,"ms":2884678,"op":"edit"}
