@@ -80,3 +80,9 @@
 {"executionId":"987b6681-e134-4c02-ab6e-d09f40d50a2b","terminalId":"83714728-ae7d-4c8c-87f0-8dd53dbb367f","data":"Hello File!\r\nHey There\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":1,"seq":79,"ms":1495164,"op":"terminal.output"}
 {"executionId":"987b6681-e134-4c02-ab6e-d09f40d50a2b","terminalId":"83714728-ae7d-4c8c-87f0-8dd53dbb367f","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_07/file2","confidence":2,"exitCode":0,"doc":1,"seq":80,"ms":1495164,"op":"terminal.end"}
 {"text":"","version":1,"path":"multi.cpp","snapshot":true,"doc":6,"seq":81,"ms":1738000,"op":"snap"}
+{"version":2,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":0,"length":0,"text":"#include <iostream>\n"}],"doc":6,"seq":82,"ms":1762856,"op":"edit"}
+{"version":3,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":20,"length":0,"text":"using namespace std;"}],"doc":6,"seq":83,"ms":1782523,"op":"edit"}
+{"version":4,"changes":[{"offset":40,"length":0,"text":"\n"}],"doc":6,"seq":84,"ms":1783915,"op":"edit"}
+{"version":5,"changes":[{"offset":41,"length":0,"text":"\n"}],"doc":6,"seq":85,"ms":1805599,"op":"edit"}
+{"version":6,"changes":[{"offset":42,"length":0,"text":"i"}],"doc":6,"seq":86,"ms":1807447,"op":"edit"}
+{"version":7,"changes":[{"offset":43,"length":0,"text":"n"}],"doc":6,"seq":87,"ms":1807745,"op":"edit"}
