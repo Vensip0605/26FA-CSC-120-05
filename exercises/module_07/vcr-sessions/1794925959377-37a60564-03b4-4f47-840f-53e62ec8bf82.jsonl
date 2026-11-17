@@ -8,3 +8,6 @@
 {"version":4,"changes":[{"offset":158,"length":0,"text":"\n   "},{"offset":72,"length":1,"text":"\n"}],"doc":2,"seq":7,"ms":47124,"op":"edit"}
 {"doc":2,"seq":8,"ms":47137,"op":"save"}
 {"text":"Hello File!\n","version":1,"path":"output.txt","snapshot":true,"doc":3,"seq":9,"ms":96809,"op":"snap"}
+{"executionId":"e2f826ef-30cd-44c8-a0d8-9b7325982f24","terminalId":"a25a19c4-c3a4-4ba4-9936-3fdfa90f9709","commandLine":"catfile.cpp","confidence":2,"doc":1,"seq":10,"ms":187730,"op":"terminal.start"}
+{"executionId":"e2f826ef-30cd-44c8-a0d8-9b7325982f24","terminalId":"a25a19c4-c3a4-4ba4-9936-3fdfa90f9709","data":"\u001b]633;C\u0007zsh: command not found: catfile.cpp\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":1,"seq":11,"ms":187739,"op":"terminal.output"}
+{"executionId":"e2f826ef-30cd-44c8-a0d8-9b7325982f24","terminalId":"a25a19c4-c3a4-4ba4-9936-3fdfa90f9709","commandLine":"catfile.cpp","confidence":2,"exitCode":127,"doc":1,"seq":12,"ms":187739,"op":"terminal.end"}
