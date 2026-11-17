@@ -1,0 +1,3 @@
+{"version":1,"courseId":"26FA-CSC-120-05","folder":"exercises/module_07/file.dSYM/Contents/Resources/Relocations","startedAt":"2026-11-17T14:33:28.408Z","attemptId":"5e9172e2-0775-47eb-b692-d5a211b9a2df","segmentId":"06daaf28-4f5c-46ff-a9a8-ce211cc6e607","sourceWindowId":"6200800f-545c-4e61-a796-1118f0f4c4c6","seq":0,"ms":0,"op":"session"}
+{"branch":"main","commit":"2a0233763591f1b253815cfc11bbb7339717be96","seq":1,"ms":-769,"op":"source.context"}
+{"source":"watcher","path":".","doc":1,"seq":2,"ms":-769,"op":"fs.create"}
