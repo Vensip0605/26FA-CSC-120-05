@@ -79,3 +79,4 @@
 {"executionId":"987b6681-e134-4c02-ab6e-d09f40d50a2b","terminalId":"83714728-ae7d-4c8c-87f0-8dd53dbb367f","data":"\u001b]633;C\u0007","doc":1,"seq":78,"ms":1495026,"op":"terminal.output"}
 {"executionId":"987b6681-e134-4c02-ab6e-d09f40d50a2b","terminalId":"83714728-ae7d-4c8c-87f0-8dd53dbb367f","data":"Hello File!\r\nHey There\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":1,"seq":79,"ms":1495164,"op":"terminal.output"}
 {"executionId":"987b6681-e134-4c02-ab6e-d09f40d50a2b","terminalId":"83714728-ae7d-4c8c-87f0-8dd53dbb367f","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_07/file2","confidence":2,"exitCode":0,"doc":1,"seq":80,"ms":1495164,"op":"terminal.end"}
+{"text":"","version":1,"path":"multi.cpp","snapshot":true,"doc":6,"seq":81,"ms":1738000,"op":"snap"}
