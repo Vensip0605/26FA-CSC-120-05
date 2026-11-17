@@ -343,3 +343,23 @@
 {"version":182,"changes":[{"offset":73,"length":1,"text":""}],"doc":6,"seq":342,"ms":2403000,"op":"edit"}
 {"version":183,"changes":[{"offset":73,"length":0,"text":" "}],"doc":6,"seq":343,"ms":2403423,"op":"edit"}
 {"version":184,"changes":[{"offset":74,"length":0,"text":"a"}],"doc":6,"seq":344,"ms":2404167,"op":"edit"}
+{"version":185,"changes":[{"offset":82,"length":0,"text":" "}],"doc":6,"seq":345,"ms":2409965,"op":"edit"}
+{"version":186,"changes":[{"offset":83,"length":0,"text":"b"}],"doc":6,"seq":346,"ms":2410294,"op":"edit"}
+{"version":187,"changes":[{"offset":84,"length":0,"text":"e"}],"doc":6,"seq":347,"ms":2411024,"op":"edit"}
+{"version":188,"changes":[{"offset":85,"length":0,"text":"t"}],"doc":6,"seq":348,"ms":2411422,"op":"edit"}
+{"version":189,"changes":[{"offset":86,"length":0,"text":"w"}],"doc":6,"seq":349,"ms":2412281,"op":"edit"}
+{"version":190,"changes":[{"offset":87,"length":0,"text":"e"}],"doc":6,"seq":350,"ms":2412998,"op":"edit"}
+{"version":191,"changes":[{"offset":88,"length":0,"text":"e"}],"doc":6,"seq":351,"ms":2413244,"op":"edit"}
+{"version":192,"changes":[{"offset":89,"length":0,"text":"n"}],"doc":6,"seq":352,"ms":2413944,"op":"edit"}
+{"version":193,"changes":[{"offset":90,"length":0,"text":" "}],"doc":6,"seq":353,"ms":2416081,"op":"edit"}
+{"version":194,"changes":[{"offset":91,"length":0,"text":"()"}],"doc":6,"seq":354,"ms":2417497,"op":"edit"}
+{"version":195,"changes":[{"offset":92,"length":0,"text":"1"}],"doc":6,"seq":355,"ms":2418261,"op":"edit"}
+{"version":196,"changes":[{"offset":93,"length":0,"text":"-"}],"doc":6,"seq":356,"ms":2419204,"op":"edit"}
+{"version":197,"changes":[{"offset":94,"length":0,"text":"1"}],"doc":6,"seq":357,"ms":2420137,"op":"edit"}
+{"version":198,"changes":[{"offset":95,"length":0,"text":"2"}],"doc":6,"seq":358,"ms":2421041,"op":"edit"}
+{"version":199,"changes":[{"offset":68,"length":1,"text":""}],"doc":6,"seq":359,"ms":2431412,"op":"edit"}
+{"version":200,"changes":[{"offset":68,"length":0,"text":"E"}],"doc":6,"seq":360,"ms":2432441,"op":"edit"}
+{"text":"#include <iostream>\nusing namespace std;\n\nint main()\n{\n    cout << \"Enter a number between (1-12): \\n\";\n    int num;\n    cin >> num;\n    \n    for (int i = 1; i <= 12; i++)\n        cout << num << \"x\" << i << \" = \" << (num * i) << \"\\n\";\n}\n","version":201,"snapshot":true,"doc":6,"seq":361,"ms":2463607,"op":"edit"}
+{"version":202,"changes":[{"offset":137,"length":0,"text":"i"}],"doc":6,"seq":362,"ms":2464846,"op":"edit"}
+{"version":203,"changes":[{"offset":138,"length":0,"text":"f"}],"doc":6,"seq":363,"ms":2465433,"op":"edit"}
+{"version":204,"changes":[{"offset":139,"length":0,"text":" "}],"doc":6,"seq":364,"ms":2465852,"op":"edit"}
