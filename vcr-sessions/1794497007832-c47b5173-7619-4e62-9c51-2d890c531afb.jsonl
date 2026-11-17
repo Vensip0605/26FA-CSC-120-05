@@ -236,3 +236,15 @@
 {"executionId":"042c0108-f20b-44a0-9326-b2629f613edd","doc":1,"seq":235,"ms":431288657,"op":"task.end"}
 {"executionId":"881ae09a-ece8-45e6-990c-44b672ecfbc7","name":"C/C++: g++ build and debug active file","type":"cppdbg","noDebug":true,"doc":1,"seq":236,"ms":431288661,"op":"debug.start"}
 {"executionId":"881ae09a-ece8-45e6-990c-44b672ecfbc7","doc":1,"seq":237,"ms":431294910,"op":"debug.end"}
+{"executionId":"f1959273-5df8-47d1-aa2e-26213c8ec7a7","name":"C/C++: g++ build active file","type":"cppbuild","doc":1,"seq":238,"ms":431498796,"op":"task.start"}
+{"executionId":"f1959273-5df8-47d1-aa2e-26213c8ec7a7","processId":-1,"doc":1,"seq":239,"ms":431498808,"op":"task.processStart"}
+{"executionId":"f1959273-5df8-47d1-aa2e-26213c8ec7a7","exitCode":0,"doc":1,"seq":240,"ms":431499254,"op":"task.processEnd"}
+{"executionId":"f1959273-5df8-47d1-aa2e-26213c8ec7a7","doc":1,"seq":241,"ms":431499256,"op":"task.end"}
+{"executionId":"22415e02-e1b9-41d8-b374-00779f65dcc5","name":"C/C++: g++ build and debug active file","type":"cppdbg","noDebug":true,"doc":1,"seq":242,"ms":431499269,"op":"debug.start"}
+{"executionId":"381d89ce-315a-4fda-9cef-611b3f0c4b48","name":"C/C++: g++ build active file","type":"cppbuild","doc":1,"seq":243,"ms":431517439,"op":"task.start"}
+{"executionId":"381d89ce-315a-4fda-9cef-611b3f0c4b48","processId":-1,"doc":1,"seq":244,"ms":431517452,"op":"task.processStart"}
+{"executionId":"381d89ce-315a-4fda-9cef-611b3f0c4b48","exitCode":0,"doc":1,"seq":245,"ms":431517884,"op":"task.processEnd"}
+{"executionId":"381d89ce-315a-4fda-9cef-611b3f0c4b48","doc":1,"seq":246,"ms":431517886,"op":"task.end"}
+{"executionId":"c7e64be2-0451-4e02-b96c-174a23776dbc","name":"C/C++: g++ build and debug active file 2","type":"cppdbg","noDebug":true,"doc":1,"seq":247,"ms":431517897,"op":"debug.start"}
+{"executionId":"22415e02-e1b9-41d8-b374-00779f65dcc5","doc":1,"seq":248,"ms":431517911,"op":"debug.end"}
+{"executionId":"c7e64be2-0451-4e02-b96c-174a23776dbc","doc":1,"seq":249,"ms":431527620,"op":"debug.end"}
