@@ -467,3 +467,17 @@
 {"version":281,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":136,"length":0,"text":" ofstream fout;"}],"doc":6,"seq":466,"ms":2939643,"op":"edit"}
 {"version":282,"changes":[{"offset":136,"length":1,"text":""}],"doc":6,"seq":467,"ms":2942180,"op":"edit"}
 {"doc":6,"seq":468,"ms":2942188,"op":"save"}
+{"version":283,"changes":[{"offset":19,"length":0,"text":"\n"}],"doc":6,"seq":469,"ms":3022788,"op":"edit"}
+{"version":284,"changes":[{"offset":20,"length":0,"text":"#"}],"doc":6,"seq":470,"ms":3025746,"op":"edit"}
+{"version":285,"changes":[{"offset":20,"length":1,"text":""}],"doc":6,"seq":471,"ms":3045978,"op":"edit"}
+{"version":286,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":20,"length":0,"text":"#include <fstream>"}],"doc":6,"seq":472,"ms":3047175,"op":"edit"}
+{"doc":6,"seq":473,"ms":3049329,"op":"save"}
+{"executionId":"cca77101-d86d-4c9d-9855-45212602f089","terminalId":"2cb3e456-656e-4625-a83a-2d22f9eb5bb0","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_07/multi","confidence":2,"doc":1,"seq":474,"ms":3050026,"op":"terminal.start"}
+{"executionId":"cca77101-d86d-4c9d-9855-45212602f089","terminalId":"2cb3e456-656e-4625-a83a-2d22f9eb5bb0","data":"\u001b]633;C\u0007","doc":1,"seq":475,"ms":3050077,"op":"terminal.output"}
+{"executionId":"cca77101-d86d-4c9d-9855-45212602f089","terminalId":"2cb3e456-656e-4625-a83a-2d22f9eb5bb0","data":"Enter a number between (1-12): ","doc":1,"seq":476,"ms":3050270,"op":"terminal.output"}
+{"version":287,"changes":[{"offset":38,"length":0,"text":"3"}],"doc":6,"seq":477,"ms":3054393,"op":"edit"}
+{"version":288,"changes":[{"offset":38,"length":1,"text":""}],"doc":6,"seq":478,"ms":3055961,"op":"edit"}
+{"executionId":"cca77101-d86d-4c9d-9855-45212602f089","terminalId":"2cb3e456-656e-4625-a83a-2d22f9eb5bb0","data":"3","doc":1,"seq":479,"ms":3058658,"op":"terminal.output"}
+{"executionId":"cca77101-d86d-4c9d-9855-45212602f089","terminalId":"2cb3e456-656e-4625-a83a-2d22f9eb5bb0","data":"\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":1,"seq":480,"ms":3058924,"op":"terminal.output"}
+{"executionId":"cca77101-d86d-4c9d-9855-45212602f089","terminalId":"2cb3e456-656e-4625-a83a-2d22f9eb5bb0","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_07/multi","confidence":2,"exitCode":0,"doc":1,"seq":481,"ms":3058925,"op":"terminal.end"}
+{"text":"3x1 = 3\n3x2 = 6\n3x3 = 9\n3x4 = 12\n3x5 = 15\n3x6 = 18\n3x7 = 21\n3x8 = 24\n3x9 = 27\n3x10 = 30\n3x11 = 33\n3x12 = 36\n","version":1,"path":"times_table.txt","snapshot":true,"doc":7,"seq":482,"ms":3062789,"op":"snap"}
