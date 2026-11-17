@@ -483,3 +483,22 @@
 {"text":"3x1 = 3\n3x2 = 6\n3x3 = 9\n3x4 = 12\n3x5 = 15\n3x6 = 18\n3x7 = 21\n3x8 = 24\n3x9 = 27\n3x10 = 30\n3x11 = 33\n3x12 = 36\n","version":1,"path":"times_table.txt","snapshot":true,"doc":7,"seq":482,"ms":3062789,"op":"snap"}
 {"version":289,"changes":[{"offset":38,"length":0,"text":"\n"}],"doc":6,"seq":483,"ms":3557522,"op":"edit"}
 {"version":290,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":39,"length":0,"text":"#include <string>"}],"doc":6,"seq":484,"ms":3558931,"op":"edit"}
+{"version":291,"changes":[{"offset":187,"length":0,"text":"\n    "}],"doc":6,"seq":485,"ms":3646991,"op":"edit"}
+{"version":292,"changes":[{"offset":192,"length":0,"text":"s"}],"doc":6,"seq":486,"ms":3649421,"op":"edit"}
+{"version":293,"changes":[{"offset":193,"length":0,"text":"t"}],"doc":6,"seq":487,"ms":3649810,"op":"edit"}
+{"version":294,"changes":[{"offset":194,"length":0,"text":"r"}],"doc":6,"seq":488,"ms":3650114,"op":"edit"}
+{"version":295,"changes":[{"offset":195,"length":0,"text":"i"}],"doc":6,"seq":489,"ms":3650586,"op":"edit"}
+{"version":296,"changes":[{"offset":196,"length":0,"text":"n"}],"doc":6,"seq":490,"ms":3650917,"op":"edit"}
+{"version":297,"changes":[{"offset":197,"length":0,"text":"g"}],"doc":6,"seq":491,"ms":3651452,"op":"edit"}
+{"version":298,"changes":[{"offset":198,"length":0,"text":" "}],"doc":6,"seq":492,"ms":3654197,"op":"edit"}
+{"version":299,"changes":[{"offset":199,"length":0,"text":"f"}],"doc":6,"seq":493,"ms":3656379,"op":"edit"}
+{"version":300,"changes":[{"offset":200,"length":0,"text":"i"}],"doc":6,"seq":494,"ms":3656985,"op":"edit"}
+{"text":"#include <iostream>\n#include <fstream>\n#include <string>\nusing namespace std;\n\nint main()\n{\n    cout << \"Enter a number between (1-12): \";\n    int num;\n    cin >> num;\n\n    ofstream fout;\n    string fil\n    fout.open(\"times_table.txt\"); // Open for writing\n\n    if (!fout)\n    {\n        cout << \"Error opening file!\" << endl;\n        return 1;\n    }\n    for (int i = 1; i <= 12; i++)\n        fout << num << \"x\" << i << \" = \" << (num * i) << \"\\n\";\n    fout.close(); // Always close when done\n}\n","version":301,"snapshot":true,"doc":6,"seq":495,"ms":3657951,"op":"edit"}
+{"version":302,"changes":[{"offset":202,"length":0,"text":"r"}],"doc":6,"seq":496,"ms":3658440,"op":"edit"}
+{"version":303,"changes":[{"offset":202,"length":1,"text":""}],"doc":6,"seq":497,"ms":3659241,"op":"edit"}
+{"version":304,"changes":[{"offset":202,"length":0,"text":"e"}],"doc":6,"seq":498,"ms":3659977,"op":"edit"}
+{"version":305,"changes":[{"offset":203,"length":0,"text":"_"}],"doc":6,"seq":499,"ms":3662187,"op":"edit"}
+{"version":306,"changes":[{"offset":204,"length":0,"text":"n"}],"doc":6,"seq":500,"ms":3663725,"op":"edit"}
+{"version":307,"changes":[{"offset":205,"length":0,"text":"a"}],"doc":6,"seq":501,"ms":3664203,"op":"edit"}
+{"version":308,"changes":[{"offset":206,"length":0,"text":"m"}],"doc":6,"seq":502,"ms":3664712,"op":"edit"}
+{"version":309,"changes":[{"offset":207,"length":0,"text":"e"}],"doc":6,"seq":503,"ms":3665085,"op":"edit"}
