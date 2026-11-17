@@ -41,3 +41,26 @@
 {"version":37,"changes":[{"offset":248,"length":0,"text":" "}],"doc":2,"seq":40,"ms":160595,"op":"edit"}
 {"version":38,"changes":[{"offset":251,"length":0,"text":"{}"}],"doc":2,"seq":41,"ms":163345,"op":"edit"}
 {"version":39,"changes":[{"offset":252,"length":0,"text":"\n    \n"}],"doc":2,"seq":42,"ms":166944,"op":"edit"}
+{"version":40,"changes":[{"offset":257,"length":0,"text":"s"}],"doc":2,"seq":43,"ms":173063,"op":"edit"}
+{"version":41,"changes":[{"offset":258,"length":0,"text":"h"}],"doc":2,"seq":44,"ms":173422,"op":"edit"}
+{"version":42,"changes":[{"offset":259,"length":0,"text":"o"}],"doc":2,"seq":45,"ms":173804,"op":"edit"}
+{"version":43,"changes":[{"offset":260,"length":0,"text":"w"}],"doc":2,"seq":46,"ms":175208,"op":"edit"}
+{"version":44,"changes":[{"offset":261,"length":0,"text":"m"}],"doc":2,"seq":47,"ms":177104,"op":"edit"}
+{"version":45,"changes":[{"offset":262,"length":0,"text":"e"}],"doc":2,"seq":48,"ms":178465,"op":"edit"}
+{"version":46,"changes":[{"offset":262,"length":1,"text":""}],"doc":2,"seq":49,"ms":179466,"op":"edit"}
+{"version":47,"changes":[{"offset":261,"length":1,"text":""}],"doc":2,"seq":50,"ms":179792,"op":"edit"}
+{"version":48,"changes":[{"offset":261,"length":0,"text":"M"}],"doc":2,"seq":51,"ms":181078,"op":"edit"}
+{"version":49,"changes":[{"offset":262,"length":0,"text":"e"}],"doc":2,"seq":52,"ms":181720,"op":"edit"}
+{"version":50,"changes":[{"offset":263,"length":0,"text":"n"}],"doc":2,"seq":53,"ms":181974,"op":"edit"}
+{"version":51,"changes":[{"offset":264,"length":0,"text":"u"}],"doc":2,"seq":54,"ms":182585,"op":"edit"}
+{"version":52,"changes":[{"offset":265,"length":0,"text":";"}],"doc":2,"seq":55,"ms":183395,"op":"edit"}
+{"version":53,"changes":[{"offset":59,"length":2,"text":""}],"doc":2,"seq":56,"ms":185598,"op":"edit"}
+{"version":54,"changes":[{"offset":249,"length":0,"text":"\n"},{"offset":246,"length":1,"text":""},{"offset":75,"length":0,"text":"\n"}],"doc":2,"seq":57,"ms":185619,"op":"edit"}
+{"version":55,"changes":[{"offset":267,"length":0,"text":"\n"}],"doc":2,"seq":58,"ms":185620,"op":"edit"}
+{"doc":2,"seq":59,"ms":185627,"op":"save"}
+{"version":56,"changes":[{"offset":264,"length":0,"text":"()"}],"doc":2,"seq":60,"ms":210808,"op":"edit"}
+{"doc":2,"seq":61,"ms":213153,"op":"save"}
+{"executionId":"305566a0-51d5-450b-993e-389063834577","terminalId":"3bd4b89d-be60-4b49-b2c6-c8a3b4e21a7c","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/assignments/assigment_05/baseconverter","confidence":2,"doc":1,"seq":62,"ms":213827,"op":"terminal.start"}
+{"executionId":"305566a0-51d5-450b-993e-389063834577","terminalId":"3bd4b89d-be60-4b49-b2c6-c8a3b4e21a7c","data":"\u001b]633;C\u0007","doc":1,"seq":63,"ms":213878,"op":"terminal.output"}
+{"executionId":"305566a0-51d5-450b-993e-389063834577","terminalId":"3bd4b89d-be60-4b49-b2c6-c8a3b4e21a7c","data":"Base Conversion program\r\n1. Convert Binary to Decimal\r\n2. Convert Decimal to Binary\r\n3. Exit\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":1,"seq":64,"ms":214060,"op":"terminal.output"}
+{"executionId":"305566a0-51d5-450b-993e-389063834577","terminalId":"3bd4b89d-be60-4b49-b2c6-c8a3b4e21a7c","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/assignments/assigment_05/baseconverter","confidence":2,"exitCode":0,"doc":1,"seq":65,"ms":214060,"op":"terminal.end"}
