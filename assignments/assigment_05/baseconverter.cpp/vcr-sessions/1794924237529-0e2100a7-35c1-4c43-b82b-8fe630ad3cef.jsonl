@@ -1,0 +1,4 @@
+{"version":1,"courseId":"26FA-CSC-120-05","folder":"assignments/assigment_05/baseconverter.cpp","startedAt":"2026-11-17T14:03:57.529Z","attemptId":"7c58ab29-d727-403f-8df0-75a8179f08e5","segmentId":"cc84f1af-8790-4ba0-972e-71ccb34dabf1","sourceWindowId":"6200800f-545c-4e61-a796-1118f0f4c4c6","seq":0,"ms":0,"op":"session"}
+{"branch":"main","commit":"2a0233763591f1b253815cfc11bbb7339717be96","seq":1,"ms":-7056,"op":"source.context"}
+{"source":"workspace","path":".","doc":1,"seq":2,"ms":-7056,"op":"fs.create"}
+{"source":"watcher","doc":1,"seq":3,"ms":-6983,"op":"fs.create"}

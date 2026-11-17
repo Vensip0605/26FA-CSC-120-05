@@ -2,3 +2,6 @@
 {"branch":"main","commit":"2a0233763591f1b253815cfc11bbb7339717be96","seq":1,"ms":-5722,"op":"source.context"}
 {"source":"workspace","path":".","doc":1,"seq":2,"ms":-5722,"op":"fs.create"}
 {"source":"watcher","doc":1,"seq":3,"ms":-5646,"op":"fs.create"}
+{"text":"","version":1,"path":"baseconverter.cpp","snapshot":true,"doc":2,"seq":4,"ms":53279,"op":"snap"}
+{"version":2,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":0,"length":0,"text":"#include <iostream>\n#include <string>\nusing namespace std;\n"}],"doc":2,"seq":5,"ms":102301,"op":"edit"}
+{"version":3,"changes":[{"offset":59,"length":0,"text":" "}],"doc":2,"seq":6,"ms":104274,"op":"edit"}
