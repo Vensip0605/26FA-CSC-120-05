@@ -5,3 +5,39 @@
 {"text":"","version":1,"path":"baseconverter.cpp","snapshot":true,"doc":2,"seq":4,"ms":53279,"op":"snap"}
 {"version":2,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":0,"length":0,"text":"#include <iostream>\n#include <string>\nusing namespace std;\n"}],"doc":2,"seq":5,"ms":102301,"op":"edit"}
 {"version":3,"changes":[{"offset":59,"length":0,"text":" "}],"doc":2,"seq":6,"ms":104274,"op":"edit"}
+{"version":4,"changes":[{"offset":60,"length":0,"text":" "}],"doc":2,"seq":7,"ms":117227,"op":"edit"}
+{"version":5,"changes":[{"offset":61,"length":0,"text":"\n"}],"doc":2,"seq":8,"ms":118008,"op":"edit"}
+{"version":6,"changes":[{"offset":62,"length":0,"text":"v"}],"doc":2,"seq":9,"ms":119001,"op":"edit"}
+{"version":7,"changes":[{"offset":63,"length":0,"text":"o"}],"doc":2,"seq":10,"ms":119312,"op":"edit"}
+{"version":8,"changes":[{"offset":64,"length":0,"text":"i"}],"doc":2,"seq":11,"ms":119581,"op":"edit"}
+{"version":9,"changes":[{"offset":65,"length":0,"text":"d"}],"doc":2,"seq":12,"ms":120033,"op":"edit"}
+{"version":10,"changes":[{"offset":66,"length":0,"text":" "}],"doc":2,"seq":13,"ms":121650,"op":"edit"}
+{"version":11,"changes":[{"offset":67,"length":0,"text":"s"}],"doc":2,"seq":14,"ms":122466,"op":"edit"}
+{"version":12,"changes":[{"offset":68,"length":0,"text":"h"}],"doc":2,"seq":15,"ms":122760,"op":"edit"}
+{"version":13,"changes":[{"offset":69,"length":0,"text":"o"}],"doc":2,"seq":16,"ms":123079,"op":"edit"}
+{"version":14,"changes":[{"offset":70,"length":0,"text":"w"}],"doc":2,"seq":17,"ms":123421,"op":"edit"}
+{"version":15,"changes":[{"offset":71,"length":0,"text":"M"}],"doc":2,"seq":18,"ms":128883,"op":"edit"}
+{"version":16,"changes":[{"offset":72,"length":0,"text":"w"}],"doc":2,"seq":19,"ms":130857,"op":"edit"}
+{"version":17,"changes":[{"offset":72,"length":1,"text":""}],"doc":2,"seq":20,"ms":132312,"op":"edit"}
+{"version":18,"changes":[{"offset":72,"length":0,"text":"e"}],"doc":2,"seq":21,"ms":132629,"op":"edit"}
+{"version":19,"changes":[{"offset":73,"length":0,"text":"n"}],"doc":2,"seq":22,"ms":133347,"op":"edit"}
+{"version":20,"changes":[{"offset":74,"length":0,"text":"u"}],"doc":2,"seq":23,"ms":134468,"op":"edit"}
+{"version":21,"changes":[{"offset":75,"length":0,"text":"()"}],"doc":2,"seq":24,"ms":136649,"op":"edit"}
+{"version":22,"changes":[{"offset":77,"length":0,"text":"{}"}],"doc":2,"seq":25,"ms":139264,"op":"edit"}
+{"version":23,"changes":[{"offset":78,"length":0,"text":"\n    \n"}],"doc":2,"seq":26,"ms":140178,"op":"edit"}
+{"version":24,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":83,"length":0,"text":"cout << \"Base Conversion program\\n\";\n    cout << \"1. Convert Binary to Decimal\\n\";\n    cout << \"2. Convert Decimal to Binary\\n\";\n    cout << \"3. Exit\\n\";\n"}],"doc":2,"seq":27,"ms":142153,"op":"edit"}
+{"version":25,"changes":[{"offset":236,"length":1,"text":""}],"doc":2,"seq":28,"ms":144445,"op":"edit"}
+{"version":26,"changes":[{"offset":238,"length":0,"text":"\n"}],"doc":2,"seq":29,"ms":149188,"op":"edit"}
+{"version":27,"changes":[{"offset":239,"length":0,"text":"\n"}],"doc":2,"seq":30,"ms":150026,"op":"edit"}
+{"version":28,"changes":[{"offset":240,"length":0,"text":"i"}],"doc":2,"seq":31,"ms":152874,"op":"edit"}
+{"version":29,"changes":[{"offset":241,"length":0,"text":"n"}],"doc":2,"seq":32,"ms":153206,"op":"edit"}
+{"version":30,"changes":[{"offset":242,"length":0,"text":"t"}],"doc":2,"seq":33,"ms":153497,"op":"edit"}
+{"version":31,"changes":[{"offset":243,"length":0,"text":" "}],"doc":2,"seq":34,"ms":154197,"op":"edit"}
+{"version":32,"changes":[{"offset":244,"length":0,"text":"m"}],"doc":2,"seq":35,"ms":155104,"op":"edit"}
+{"version":33,"changes":[{"offset":245,"length":0,"text":"a"}],"doc":2,"seq":36,"ms":155661,"op":"edit"}
+{"version":34,"changes":[{"offset":246,"length":0,"text":"i"}],"doc":2,"seq":37,"ms":155949,"op":"edit"}
+{"version":35,"changes":[{"offset":247,"length":0,"text":"n"}],"doc":2,"seq":38,"ms":156244,"op":"edit"}
+{"version":36,"changes":[{"offset":248,"length":0,"text":"()"}],"doc":2,"seq":39,"ms":158258,"op":"edit"}
+{"version":37,"changes":[{"offset":248,"length":0,"text":" "}],"doc":2,"seq":40,"ms":160595,"op":"edit"}
+{"version":38,"changes":[{"offset":251,"length":0,"text":"{}"}],"doc":2,"seq":41,"ms":163345,"op":"edit"}
+{"version":39,"changes":[{"offset":252,"length":0,"text":"\n    \n"}],"doc":2,"seq":42,"ms":166944,"op":"edit"}
