@@ -481,3 +481,5 @@
 {"executionId":"cca77101-d86d-4c9d-9855-45212602f089","terminalId":"2cb3e456-656e-4625-a83a-2d22f9eb5bb0","data":"\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":1,"seq":480,"ms":3058924,"op":"terminal.output"}
 {"executionId":"cca77101-d86d-4c9d-9855-45212602f089","terminalId":"2cb3e456-656e-4625-a83a-2d22f9eb5bb0","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_07/multi","confidence":2,"exitCode":0,"doc":1,"seq":481,"ms":3058925,"op":"terminal.end"}
 {"text":"3x1 = 3\n3x2 = 6\n3x3 = 9\n3x4 = 12\n3x5 = 15\n3x6 = 18\n3x7 = 21\n3x8 = 24\n3x9 = 27\n3x10 = 30\n3x11 = 33\n3x12 = 36\n","version":1,"path":"times_table.txt","snapshot":true,"doc":7,"seq":482,"ms":3062789,"op":"snap"}
+{"version":289,"changes":[{"offset":38,"length":0,"text":"\n"}],"doc":6,"seq":483,"ms":3557522,"op":"edit"}
+{"version":290,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":39,"length":0,"text":"#include <string>"}],"doc":6,"seq":484,"ms":3558931,"op":"edit"}
