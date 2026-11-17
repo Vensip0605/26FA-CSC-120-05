@@ -234,3 +234,4 @@
 {"text":"#include <iostream>\n\nusing namespace std;\n\nvoid greet()\n{\n    cout << \"welcome to CSC-120!\\n\";\n}\n\nint main()\n{\n    cout << \"program starting...\\n\";\n    greet();\n    greet();\n    greet();\n    greet();\n    greet();\n    cout << \"program ending...\\n\";\n    return 0;\n}\n","version":1,"path":"greeting.cpp","snapshot":true,"doc":4,"seq":233,"ms":379794129,"op":"snap"}
 {"doc":4,"seq":234,"ms":379801879,"op":"close"}
 {"doc":1,"seq":235,"ms":379810634,"op":"close"}
+{"doc":2,"seq":236,"ms":379832413,"op":"close"}
