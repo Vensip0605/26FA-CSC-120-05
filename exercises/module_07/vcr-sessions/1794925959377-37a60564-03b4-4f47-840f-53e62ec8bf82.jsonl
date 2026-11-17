@@ -119,3 +119,36 @@
 {"version":38,"changes":[{"offset":81,"length":0,"text":"m"}],"doc":6,"seq":118,"ms":1859882,"op":"edit"}
 {"version":39,"changes":[{"offset":82,"length":0,"text":" "}],"doc":6,"seq":119,"ms":1860536,"op":"edit"}
 {"version":40,"changes":[{"offset":83,"length":0,"text":"\n    "}],"doc":6,"seq":120,"ms":1861207,"op":"edit"}
+{"version":41,"changes":[{"offset":84,"length":4,"text":""},{"offset":66,"length":0,"text":";"}],"doc":6,"seq":121,"ms":1868374,"op":"edit"}
+{"version":42,"changes":[{"offset":83,"length":0,"text":";"}],"doc":6,"seq":122,"ms":1872641,"op":"edit"}
+{"version":43,"changes":[{"offset":84,"length":0,"text":"\n    "}],"doc":6,"seq":123,"ms":1873797,"op":"edit"}
+{"version":44,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":90,"length":0,"text":"for (int i = 1; i < 12; i++) \n\tcout << num << \"x\" << i << \" = \" << (num * i) << \"\\n\";\n"}],"doc":6,"seq":124,"ms":1882427,"op":"edit"}
+{"version":45,"changes":[{"offset":89,"length":1,"text":""}],"doc":6,"seq":125,"ms":1885621,"op":"edit"}
+{"version":46,"changes":[{"offset":117,"length":1,"text":""},{"offset":67,"length":1,"text":""}],"doc":6,"seq":126,"ms":1897855,"op":"edit"}
+{"version":47,"changes":[{"offset":172,"length":2,"text":""},{"offset":117,"length":1,"text":"        "},{"offset":53,"length":0,"text":"\n"},{"offset":50,"length":1,"text":""}],"doc":6,"seq":127,"ms":1897873,"op":"edit"}
+{"version":48,"changes":[{"offset":181,"length":0,"text":"\n"}],"doc":6,"seq":128,"ms":1897874,"op":"edit"}
+{"doc":6,"seq":129,"ms":1897892,"op":"save"}
+{"version":49,"changes":[{"offset":67,"length":0,"text":"\n    "}],"doc":6,"seq":130,"ms":1911896,"op":"edit"}
+{"version":50,"changes":[{"offset":72,"length":0,"text":"c"}],"doc":6,"seq":131,"ms":1913334,"op":"edit"}
+{"version":51,"changes":[{"offset":73,"length":0,"text":"o"}],"doc":6,"seq":132,"ms":1913568,"op":"edit"}
+{"version":52,"changes":[{"offset":74,"length":0,"text":"u"}],"doc":6,"seq":133,"ms":1913913,"op":"edit"}
+{"version":53,"changes":[{"offset":75,"length":0,"text":"t"}],"doc":6,"seq":134,"ms":1914374,"op":"edit"}
+{"version":54,"changes":[{"offset":76,"length":0,"text":" "}],"doc":6,"seq":135,"ms":1914757,"op":"edit"}
+{"version":55,"changes":[{"offset":77,"length":0,"text":"<"}],"doc":6,"seq":136,"ms":1915955,"op":"edit"}
+{"version":56,"changes":[{"offset":78,"length":0,"text":"<"}],"doc":6,"seq":137,"ms":1916188,"op":"edit"}
+{"version":57,"changes":[{"offset":79,"length":0,"text":" "}],"doc":6,"seq":138,"ms":1916606,"op":"edit"}
+{"version":58,"changes":[{"offset":80,"length":0,"text":"e"}],"doc":6,"seq":139,"ms":1917624,"op":"edit"}
+{"version":59,"changes":[{"offset":81,"length":0,"text":"n"}],"doc":6,"seq":140,"ms":1917935,"op":"edit"}
+{"version":60,"changes":[{"offset":82,"length":0,"text":"t"}],"doc":6,"seq":141,"ms":1918434,"op":"edit"}
+{"version":61,"changes":[{"offset":83,"length":0,"text":"e"}],"doc":6,"seq":142,"ms":1919422,"op":"edit"}
+{"version":62,"changes":[{"offset":84,"length":0,"text":"r"}],"doc":6,"seq":143,"ms":1919909,"op":"edit"}
+{"version":63,"changes":[{"offset":85,"length":0,"text":" "}],"doc":6,"seq":144,"ms":1920304,"op":"edit"}
+{"version":64,"changes":[{"offset":86,"length":0,"text":"n"}],"doc":6,"seq":145,"ms":1920971,"op":"edit"}
+{"version":65,"changes":[{"offset":87,"length":0,"text":"u"}],"doc":6,"seq":146,"ms":1921362,"op":"edit"}
+{"version":66,"changes":[{"offset":88,"length":0,"text":"m"}],"doc":6,"seq":147,"ms":1921696,"op":"edit"}
+{"version":67,"changes":[{"offset":89,"length":0,"text":"b"}],"doc":6,"seq":148,"ms":1922031,"op":"edit"}
+{"version":68,"changes":[{"offset":90,"length":0,"text":"e"}],"doc":6,"seq":149,"ms":1922610,"op":"edit"}
+{"version":69,"changes":[{"offset":91,"length":0,"text":"r"}],"doc":6,"seq":150,"ms":1923021,"op":"edit"}
+{"version":70,"changes":[{"offset":92,"length":0,"text":" "}],"doc":6,"seq":151,"ms":1923395,"op":"edit"}
+{"version":71,"changes":[{"offset":93,"length":0,"text":"<"}],"doc":6,"seq":152,"ms":1926731,"op":"edit"}
+{"version":72,"changes":[{"offset":94,"length":0,"text":"<"}],"doc":6,"seq":153,"ms":1927115,"op":"edit"}
