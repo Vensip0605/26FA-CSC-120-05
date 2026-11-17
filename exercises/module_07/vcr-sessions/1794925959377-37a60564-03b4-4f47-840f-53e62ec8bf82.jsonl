@@ -416,3 +416,28 @@
 {"executionId":"d13ba2d5-1b12-4b3f-89bb-ee808ccf7bf9","terminalId":"2cb3e456-656e-4625-a83a-2d22f9eb5bb0","data":"3","doc":1,"seq":415,"ms":2627390,"op":"terminal.output"}
 {"executionId":"d13ba2d5-1b12-4b3f-89bb-ee808ccf7bf9","terminalId":"2cb3e456-656e-4625-a83a-2d22f9eb5bb0","data":"\r\n13x1 = 13\r\n13x2 = 26\r\n13x3 = 39\r\n13x4 = 52\r\n13x5 = 65\r\n13x6 = 78\r\n13x7 = 91\r\n13x8 = 104\r\n13x9 = 117\r\n13x10 = 130\r\n13x11 = 143\r\n13x12 = 156\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":1,"seq":416,"ms":2627716,"op":"terminal.output"}
 {"executionId":"d13ba2d5-1b12-4b3f-89bb-ee808ccf7bf9","terminalId":"2cb3e456-656e-4625-a83a-2d22f9eb5bb0","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_07/multi","confidence":2,"exitCode":0,"doc":1,"seq":417,"ms":2627717,"op":"terminal.end"}
+{"version":235,"changes":[{"offset":230,"length":0,"text":"\n"}],"doc":6,"seq":418,"ms":2724166,"op":"edit"}
+{"version":236,"changes":[{"offset":228,"length":0,"text":"\n        "}],"doc":6,"seq":419,"ms":2728708,"op":"edit"}
+{"version":237,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":237,"length":0,"text":"ofstream fout;\n    fout.open(\"output.txt\"); // Open for writing\n\n    if (!fout)\n    {\n        cout << \"Error opening file!\" << endl;\n        return 1;\n    }\n    fout << \"Hello File!\" << endl;\n    fout.close(); // Always close when done\n}"}],"doc":6,"seq":420,"ms":2730495,"op":"edit"}
+{"version":238,"changes":[{"offset":473,"length":1,"text":""}],"doc":6,"seq":421,"ms":2732861,"op":"edit"}
+{"version":239,"changes":[{"offset":272,"length":1,"text":""}],"doc":6,"seq":422,"ms":2746297,"op":"edit"}
+{"version":240,"changes":[{"offset":271,"length":1,"text":""}],"doc":6,"seq":423,"ms":2746797,"op":"edit"}
+{"version":241,"changes":[{"offset":270,"length":1,"text":""}],"doc":6,"seq":424,"ms":2746878,"op":"edit"}
+{"version":242,"changes":[{"offset":269,"length":1,"text":""}],"doc":6,"seq":425,"ms":2746961,"op":"edit"}
+{"version":243,"changes":[{"offset":268,"length":1,"text":""}],"doc":6,"seq":426,"ms":2747044,"op":"edit"}
+{"version":244,"changes":[{"offset":267,"length":1,"text":""}],"doc":6,"seq":427,"ms":2747222,"op":"edit"}
+{"version":245,"changes":[{"offset":266,"length":1,"text":""}],"doc":6,"seq":428,"ms":2747419,"op":"edit"}
+{"version":246,"changes":[{"offset":266,"length":0,"text":"\"\""}],"doc":6,"seq":429,"ms":2749025,"op":"edit"}
+{"version":247,"changes":[{"offset":267,"length":1,"text":""}],"doc":6,"seq":430,"ms":2751841,"op":"edit"}
+{"version":248,"changes":[{"offset":267,"length":0,"text":"t"}],"doc":6,"seq":431,"ms":2754650,"op":"edit"}
+{"version":249,"changes":[{"offset":268,"length":0,"text":"i"}],"doc":6,"seq":432,"ms":2756505,"op":"edit"}
+{"version":250,"changes":[{"offset":269,"length":0,"text":"m"}],"doc":6,"seq":433,"ms":2756795,"op":"edit"}
+{"version":251,"changes":[{"offset":270,"length":0,"text":"e"}],"doc":6,"seq":434,"ms":2757232,"op":"edit"}
+{"version":252,"changes":[{"offset":271,"length":0,"text":"s"}],"doc":6,"seq":435,"ms":2757457,"op":"edit"}
+{"version":253,"changes":[{"offset":272,"length":0,"text":"_"}],"doc":6,"seq":436,"ms":2761384,"op":"edit"}
+{"version":254,"changes":[{"offset":273,"length":0,"text":"t"}],"doc":6,"seq":437,"ms":2763479,"op":"edit"}
+{"version":255,"changes":[{"offset":274,"length":0,"text":"a"}],"doc":6,"seq":438,"ms":2763701,"op":"edit"}
+{"version":256,"changes":[{"offset":275,"length":0,"text":"b"}],"doc":6,"seq":439,"ms":2764233,"op":"edit"}
+{"version":257,"changes":[{"offset":275,"length":1,"text":""}],"doc":6,"seq":440,"ms":2765783,"op":"edit"}
+{"version":258,"changes":[{"offset":275,"length":0,"text":"b"}],"doc":6,"seq":441,"ms":2767656,"op":"edit"}
+{"version":259,"changes":[{"offset":276,"length":0,"text":"l"}],"doc":6,"seq":442,"ms":2768035,"op":"edit"}
