@@ -804,3 +804,29 @@
 {"version":611,"changes":[{"offset":1695,"length":0,"text":" "}],"doc":1,"seq":803,"ms":91477627,"op":"edit"}
 {"version":612,"changes":[{"offset":1696,"length":0,"text":"0"}],"doc":1,"seq":804,"ms":91478385,"op":"edit"}
 {"version":613,"changes":[{"offset":1696,"length":1,"text":""}],"doc":1,"seq":805,"ms":91479798,"op":"edit"}
+{"version":614,"changes":[{"offset":1696,"length":0,"text":" "}],"doc":1,"seq":806,"ms":91483972,"op":"edit"}
+{"version":615,"changes":[{"offset":1697,"length":0,"text":"\"\""}],"doc":1,"seq":807,"ms":91485889,"op":"edit"}
+{"version":616,"changes":[{"offset":1698,"length":0,"text":"0"}],"doc":1,"seq":808,"ms":91487347,"op":"edit"}
+{"version":617,"changes":[{"offset":1699,"length":0,"text":" "}],"doc":1,"seq":809,"ms":91488457,"op":"edit"}
+{"version":618,"changes":[{"offset":1699,"length":1,"text":""}],"doc":1,"seq":810,"ms":91489652,"op":"edit"}
+{"version":619,"changes":[{"offset":1700,"length":0,"text":"+"}],"doc":1,"seq":811,"ms":91493889,"op":"edit"}
+{"version":620,"changes":[{"offset":1701,"length":0,"text":" "}],"doc":1,"seq":812,"ms":91495960,"op":"edit"}
+{"version":621,"changes":[{"offset":1702,"length":0,"text":"b"}],"doc":1,"seq":813,"ms":91496923,"op":"edit"}
+{"version":622,"changes":[{"offset":1703,"length":0,"text":"i"}],"doc":1,"seq":814,"ms":91497241,"op":"edit"}
+{"version":623,"changes":[{"offset":1704,"length":0,"text":"n"}],"doc":1,"seq":815,"ms":91497704,"op":"edit"}
+{"version":624,"changes":[{"offset":1705,"length":0,"text":"a"}],"doc":1,"seq":816,"ms":91499442,"op":"edit"}
+{"version":625,"changes":[{"offset":1706,"length":0,"text":"r"}],"doc":1,"seq":817,"ms":91499930,"op":"edit"}
+{"version":626,"changes":[{"offset":1707,"length":0,"text":"y"}],"doc":1,"seq":818,"ms":91500301,"op":"edit"}
+{"version":627,"changes":[{"offset":1708,"length":0,"text":";"}],"doc":1,"seq":819,"ms":91502297,"op":"edit"}
+{"version":628,"changes":[{"offset":1700,"length":0,"text":" "}],"doc":1,"seq":820,"ms":91511124,"op":"edit"}
+{"version":629,"changes":[{"offset":1695,"length":1,"text":""},{"offset":1665,"length":0,"text":"\n                "},{"offset":1661,"length":0,"text":" "},{"offset":1639,"length":0,"text":"               "},{"offset":1638,"length":0,"text":"\n"}],"doc":1,"seq":821,"ms":91515849,"op":"edit"}
+{"doc":1,"seq":822,"ms":91515864,"op":"save"}
+{"executionId":"3d4976f4-b97b-42aa-a2bd-3505d1ae8967","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"^C\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                         \r \r","doc":3,"seq":823,"ms":91516714,"op":"terminal.output"}
+{"executionId":"3d4976f4-b97b-42aa-a2bd-3505d1ae8967","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/assignments/assignment_04/converter","confidence":2,"exitCode":130,"doc":3,"seq":824,"ms":91516715,"op":"terminal.end"}
+{"executionId":"c7e25230-becc-44c1-9302-af44c3fb85d7","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/assignments/assignment_04/converter","confidence":2,"doc":3,"seq":825,"ms":91516868,"op":"terminal.start"}
+{"executionId":"c7e25230-becc-44c1-9302-af44c3fb85d7","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"\u001b]633;C\u0007","doc":3,"seq":826,"ms":91516918,"op":"terminal.output"}
+{"executionId":"c7e25230-becc-44c1-9302-af44c3fb85d7","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"Base Conversion program\r\n1. Convert Binary to Decimal\r\n2. Convert Decimal to Binary\r\n3. Exit\r\nEnter your choice : ","doc":3,"seq":827,"ms":91517227,"op":"terminal.output"}
+{"executionId":"c7e25230-becc-44c1-9302-af44c3fb85d7","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"2","doc":3,"seq":828,"ms":91520835,"op":"terminal.output"}
+{"executionId":"c7e25230-becc-44c1-9302-af44c3fb85d7","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"\r\nEnter a decimal number (0-15): ","doc":3,"seq":829,"ms":91521654,"op":"terminal.output"}
+{"executionId":"c7e25230-becc-44c1-9302-af44c3fb85d7","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"5","doc":3,"seq":830,"ms":91523454,"op":"terminal.output"}
+{"executionId":"c7e25230-becc-44c1-9302-af44c3fb85d7","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"\r\nBinary: 101 \r\nBase Conversion program\r\n1. Convert Binary to Decimal\r\n2. Convert Decimal to Binary\r\n3. Exit\r\nEnter your choice : ","doc":3,"seq":831,"ms":91524219,"op":"terminal.output"}
