@@ -761,3 +761,4 @@
 {"executionId":"3d4976f4-b97b-42aa-a2bd-3505d1ae8967","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"\r\nEnter a decimal number (0-15): ","doc":3,"seq":760,"ms":90554801,"op":"terminal.output"}
 {"executionId":"3d4976f4-b97b-42aa-a2bd-3505d1ae8967","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"5","doc":3,"seq":761,"ms":90559498,"op":"terminal.output"}
 {"executionId":"3d4976f4-b97b-42aa-a2bd-3505d1ae8967","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"\r\nBinary: 101 \r\nBase Conversion program\r\n1. Convert Binary to Decimal\r\n2. Convert Decimal to Binary\r\n3. Exit\r\nEnter your choice : ","doc":3,"seq":762,"ms":90560320,"op":"terminal.output"}
+{"doc":2,"seq":763,"ms":90897043,"op":"close"}
