@@ -260,3 +260,10 @@
 {"executionId":"b6a93658-f056-4a5c-8993-0b695dafe167","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"0","doc":3,"seq":259,"ms":87364719,"op":"terminal.output"}
 {"executionId":"b6a93658-f056-4a5c-8993-0b695dafe167","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"1","doc":3,"seq":260,"ms":87365388,"op":"terminal.output"}
 {"executionId":"b6a93658-f056-4a5c-8993-0b695dafe167","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"\r\ndecimal : 01015\r\nEnter your choice : ","doc":3,"seq":261,"ms":87368957,"op":"terminal.output"}
+{"executionId":"b6a93658-f056-4a5c-8993-0b695dafe167","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"1","doc":3,"seq":262,"ms":87485521,"op":"terminal.output"}
+{"executionId":"b6a93658-f056-4a5c-8993-0b695dafe167","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"\r\nEnter a binary number: ","doc":3,"seq":263,"ms":87486331,"op":"terminal.output"}
+{"executionId":"b6a93658-f056-4a5c-8993-0b695dafe167","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"1","doc":3,"seq":264,"ms":87489074,"op":"terminal.output"}
+{"executionId":"b6a93658-f056-4a5c-8993-0b695dafe167","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"1","doc":3,"seq":265,"ms":87489331,"op":"terminal.output"}
+{"executionId":"b6a93658-f056-4a5c-8993-0b695dafe167","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"0","doc":3,"seq":266,"ms":87490538,"op":"terminal.output"}
+{"executionId":"b6a93658-f056-4a5c-8993-0b695dafe167","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"1","doc":3,"seq":267,"ms":87490976,"op":"terminal.output"}
+{"executionId":"b6a93658-f056-4a5c-8993-0b695dafe167","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"\r\ndecimal : 110113\r\nEnter your choice : ","doc":3,"seq":268,"ms":87491757,"op":"terminal.output"}
