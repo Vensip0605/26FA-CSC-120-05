@@ -412,3 +412,19 @@
 {"executionId":"ec901240-c201-4239-ae59-c41e2594a81d","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"Base Conversion program\r\n1. Convert Binary to Decimal\r\n2. Convert Decimal to Binary\r\n3. Exit\r\nEnter your choice : ","doc":3,"seq":411,"ms":88933690,"op":"terminal.output"}
 {"executionId":"ec901240-c201-4239-ae59-c41e2594a81d","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"1","doc":3,"seq":412,"ms":88935744,"op":"terminal.output"}
 {"executionId":"ec901240-c201-4239-ae59-c41e2594a81d","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"\r\nEnter a binary number: ","doc":3,"seq":413,"ms":88937524,"op":"terminal.output"}
+{"executionId":"ec901240-c201-4239-ae59-c41e2594a81d","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"1","doc":3,"seq":414,"ms":88948007,"op":"terminal.output"}
+{"executionId":"ec901240-c201-4239-ae59-c41e2594a81d","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"1","doc":3,"seq":415,"ms":88948301,"op":"terminal.output"}
+{"executionId":"ec901240-c201-4239-ae59-c41e2594a81d","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"0","doc":3,"seq":416,"ms":88949021,"op":"terminal.output"}
+{"executionId":"ec901240-c201-4239-ae59-c41e2594a81d","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"`","doc":3,"seq":417,"ms":88949559,"op":"terminal.output"}
+{"executionId":"ec901240-c201-4239-ae59-c41e2594a81d","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"\b \b","doc":3,"seq":418,"ms":88950359,"op":"terminal.output"}
+{"executionId":"ec901240-c201-4239-ae59-c41e2594a81d","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"\b \b","doc":3,"seq":419,"ms":88950662,"op":"terminal.output"}
+{"executionId":"ec901240-c201-4239-ae59-c41e2594a81d","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"0","doc":3,"seq":420,"ms":88951507,"op":"terminal.output"}
+{"executionId":"ec901240-c201-4239-ae59-c41e2594a81d","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"1","doc":3,"seq":421,"ms":88952017,"op":"terminal.output"}
+{"executionId":"ec901240-c201-4239-ae59-c41e2594a81d","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"\r\nDecimal : 29\r\nBase Conversion program\r\n1. Convert Binary to Decimal\r\n2. Convert Decimal to Binary\r\n3. Exit\r\nEnter your choice : ","doc":3,"seq":422,"ms":88952739,"op":"terminal.output"}
+{"executionId":"ec901240-c201-4239-ae59-c41e2594a81d","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"1","doc":3,"seq":423,"ms":88958626,"op":"terminal.output"}
+{"executionId":"ec901240-c201-4239-ae59-c41e2594a81d","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"\r\nEnter a binary number: ","doc":3,"seq":424,"ms":88959484,"op":"terminal.output"}
+{"executionId":"ec901240-c201-4239-ae59-c41e2594a81d","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"1","doc":3,"seq":425,"ms":88963489,"op":"terminal.output"}
+{"executionId":"ec901240-c201-4239-ae59-c41e2594a81d","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"2","doc":3,"seq":426,"ms":88963787,"op":"terminal.output"}
+{"executionId":"ec901240-c201-4239-ae59-c41e2594a81d","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"0","doc":3,"seq":427,"ms":88964590,"op":"terminal.output"}
+{"executionId":"ec901240-c201-4239-ae59-c41e2594a81d","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"1","doc":3,"seq":428,"ms":88965193,"op":"terminal.output"}
+{"executionId":"ec901240-c201-4239-ae59-c41e2594a81d","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"\r\nError : Binary numbers can only contain 0s and 1s. \r\nBase Conversion program\r\n1. Convert Binary to Decimal\r\n2. Convert Decimal to Binary\r\n3. Exit\r\nEnter your choice : ","doc":3,"seq":429,"ms":88965780,"op":"terminal.output"}
