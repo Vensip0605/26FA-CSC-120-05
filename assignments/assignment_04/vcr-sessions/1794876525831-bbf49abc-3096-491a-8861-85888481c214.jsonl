@@ -830,3 +830,6 @@
 {"executionId":"c7e25230-becc-44c1-9302-af44c3fb85d7","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"\r\nEnter a decimal number (0-15): ","doc":3,"seq":829,"ms":91521654,"op":"terminal.output"}
 {"executionId":"c7e25230-becc-44c1-9302-af44c3fb85d7","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"5","doc":3,"seq":830,"ms":91523454,"op":"terminal.output"}
 {"executionId":"c7e25230-becc-44c1-9302-af44c3fb85d7","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"\r\nBinary: 101 \r\nBase Conversion program\r\n1. Convert Binary to Decimal\r\n2. Convert Decimal to Binary\r\n3. Exit\r\nEnter your choice : ","doc":3,"seq":831,"ms":91524219,"op":"terminal.output"}
+{"version":630,"changes":[{"offset":1391,"length":1,"text":""}],"doc":1,"seq":832,"ms":91662151,"op":"edit"}
+{"version":631,"changes":[{"offset":1390,"length":1,"text":""}],"doc":1,"seq":833,"ms":91662653,"op":"edit"}
+{"version":632,"changes":[{"offset":1389,"length":1,"text":""}],"doc":1,"seq":834,"ms":91662734,"op":"edit"}
