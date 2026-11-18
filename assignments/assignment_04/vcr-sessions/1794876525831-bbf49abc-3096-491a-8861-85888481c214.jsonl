@@ -198,3 +198,24 @@
 {"version":119,"changes":[{"offset":3646,"length":1,"text":""}],"doc":1,"seq":197,"ms":87127136,"op":"edit"}
 {"version":120,"changes":[{"offset":3683,"length":10,"text":" "}],"doc":1,"seq":198,"ms":87131577,"op":"edit"}
 {"version":121,"changes":[{"offset":3683,"length":1,"text":""}],"doc":1,"seq":199,"ms":87132325,"op":"edit"}
+{"version":122,"changes":[{"offset":3695,"length":1,"text":""}],"doc":1,"seq":200,"ms":87135941,"op":"edit"}
+{"version":123,"changes":[{"offset":3694,"length":1,"text":""}],"doc":1,"seq":201,"ms":87136442,"op":"edit"}
+{"version":124,"changes":[{"offset":3693,"length":1,"text":""}],"doc":1,"seq":202,"ms":87136523,"op":"edit"}
+{"version":125,"changes":[{"offset":3692,"length":1,"text":""}],"doc":1,"seq":203,"ms":87136608,"op":"edit"}
+{"version":126,"changes":[{"offset":3691,"length":1,"text":""}],"doc":1,"seq":204,"ms":87136692,"op":"edit"}
+{"version":127,"changes":[{"offset":3690,"length":1,"text":""}],"doc":1,"seq":205,"ms":87136976,"op":"edit"}
+{"version":128,"changes":[{"offset":3689,"length":1,"text":""}],"doc":1,"seq":206,"ms":87137267,"op":"edit"}
+{"version":129,"changes":[{"offset":3645,"length":0,"text":":"}],"doc":1,"seq":207,"ms":87142111,"op":"edit"}
+{"doc":1,"seq":208,"ms":87146132,"op":"save"}
+{"executionId":"a19c975e-5502-4329-9dcd-6d246a767dcc","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"^C\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":3,"seq":209,"ms":87146860,"op":"terminal.output"}
+{"executionId":"a19c975e-5502-4329-9dcd-6d246a767dcc","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/assignments/assignment_04/converter","confidence":2,"exitCode":130,"doc":3,"seq":210,"ms":87146860,"op":"terminal.end"}
+{"executionId":"938ed29e-74a6-43dd-a29c-42a81f6582e9","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/assignments/assignment_04/converter","confidence":2,"doc":3,"seq":211,"ms":87147015,"op":"terminal.start"}
+{"executionId":"938ed29e-74a6-43dd-a29c-42a81f6582e9","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"\u001b]633;C\u0007","doc":3,"seq":212,"ms":87147066,"op":"terminal.output"}
+{"executionId":"938ed29e-74a6-43dd-a29c-42a81f6582e9","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"Base Conversion program\r\n1. Convert Binary to Decimal\r\n2. Convert Decimal to Binary\r\n3. Exit\r\nEnter your choice : ","doc":3,"seq":213,"ms":87147546,"op":"terminal.output"}
+{"executionId":"938ed29e-74a6-43dd-a29c-42a81f6582e9","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"1","doc":3,"seq":214,"ms":87150166,"op":"terminal.output"}
+{"executionId":"938ed29e-74a6-43dd-a29c-42a81f6582e9","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"\r\nEnter a binary number: ","doc":3,"seq":215,"ms":87151248,"op":"terminal.output"}
+{"executionId":"938ed29e-74a6-43dd-a29c-42a81f6582e9","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"1","doc":3,"seq":216,"ms":87154919,"op":"terminal.output"}
+{"executionId":"938ed29e-74a6-43dd-a29c-42a81f6582e9","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"1","doc":3,"seq":217,"ms":87155175,"op":"terminal.output"}
+{"executionId":"938ed29e-74a6-43dd-a29c-42a81f6582e9","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"0","doc":3,"seq":218,"ms":87155859,"op":"terminal.output"}
+{"executionId":"938ed29e-74a6-43dd-a29c-42a81f6582e9","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"1","doc":3,"seq":219,"ms":87156700,"op":"terminal.output"}
+{"executionId":"938ed29e-74a6-43dd-a29c-42a81f6582e9","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"\r\ndecimal : 110113\r\nProgram finished.\r\nEnter your choice : ","doc":3,"seq":220,"ms":87157424,"op":"terminal.output"}
