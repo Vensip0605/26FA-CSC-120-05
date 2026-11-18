@@ -495,3 +495,20 @@
 {"version":336,"changes":[{"offset":634,"length":1,"text":""}],"doc":1,"seq":494,"ms":89332691,"op":"edit"}
 {"version":337,"changes":[{"offset":633,"length":1,"text":""}],"doc":1,"seq":495,"ms":89332942,"op":"edit"}
 {"version":338,"changes":[{"offset":632,"length":1,"text":""}],"doc":1,"seq":496,"ms":89333977,"op":"edit"}
+{"doc":1,"seq":497,"ms":89386891,"op":"save"}
+{"version":339,"changes":[{"offset":592,"length":1,"text":""}],"doc":1,"seq":498,"ms":89400133,"op":"edit"}
+{"version":340,"changes":[{"offset":592,"length":0,"text":"b"}],"doc":1,"seq":499,"ms":89400758,"op":"edit"}
+{"doc":1,"seq":500,"ms":89402878,"op":"save"}
+{"executionId":"ec901240-c201-4239-ae59-c41e2594a81d","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"^C\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                         \r \r","doc":3,"seq":501,"ms":89403500,"op":"terminal.output"}
+{"executionId":"ec901240-c201-4239-ae59-c41e2594a81d","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/assignments/assignment_04/converter","confidence":2,"exitCode":130,"doc":3,"seq":502,"ms":89403500,"op":"terminal.end"}
+{"executionId":"9d189af7-fbbd-45dc-8f91-eea536fb7074","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/assignments/assignment_04/converter","confidence":2,"doc":3,"seq":503,"ms":89403659,"op":"terminal.start"}
+{"executionId":"9d189af7-fbbd-45dc-8f91-eea536fb7074","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"\u001b]633;C\u0007","doc":3,"seq":504,"ms":89403710,"op":"terminal.output"}
+{"executionId":"9d189af7-fbbd-45dc-8f91-eea536fb7074","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"Base Conversion program\r\n1. Convert Binary to Decimal\r\n2. Convert Decimal to Binary\r\n3. Exit\r\nEnter your choice : ","doc":3,"seq":505,"ms":89404017,"op":"terminal.output"}
+{"executionId":"9d189af7-fbbd-45dc-8f91-eea536fb7074","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"1","doc":3,"seq":506,"ms":89406117,"op":"terminal.output"}
+{"executionId":"9d189af7-fbbd-45dc-8f91-eea536fb7074","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"\r\nEnter a binary number: ","doc":3,"seq":507,"ms":89406729,"op":"terminal.output"}
+{"executionId":"9d189af7-fbbd-45dc-8f91-eea536fb7074","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"1","doc":3,"seq":508,"ms":89407481,"op":"terminal.output"}
+{"executionId":"9d189af7-fbbd-45dc-8f91-eea536fb7074","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"2","doc":3,"seq":509,"ms":89407725,"op":"terminal.output"}
+{"executionId":"9d189af7-fbbd-45dc-8f91-eea536fb7074","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"0","doc":3,"seq":510,"ms":89408707,"op":"terminal.output"}
+{"executionId":"9d189af7-fbbd-45dc-8f91-eea536fb7074","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"1","doc":3,"seq":511,"ms":89409258,"op":"terminal.output"}
+{"executionId":"9d189af7-fbbd-45dc-8f91-eea536fb7074","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"\r\nError : 1201is not a valid binary number. \r\nBase Conversion program\r\n1. Convert Binary to Decimal\r\n2. Convert Decimal to Binary\r\n3. Exit\r\nEnter your choice : ","doc":3,"seq":512,"ms":89410092,"op":"terminal.output"}
+{"version":341,"changes":[{"offset":603,"length":0,"text":" "}],"doc":1,"seq":513,"ms":89566382,"op":"edit"}
