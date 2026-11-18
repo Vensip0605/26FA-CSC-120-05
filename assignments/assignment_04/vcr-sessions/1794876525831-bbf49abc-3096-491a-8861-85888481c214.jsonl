@@ -267,3 +267,11 @@
 {"executionId":"b6a93658-f056-4a5c-8993-0b695dafe167","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"0","doc":3,"seq":266,"ms":87490538,"op":"terminal.output"}
 {"executionId":"b6a93658-f056-4a5c-8993-0b695dafe167","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"1","doc":3,"seq":267,"ms":87490976,"op":"terminal.output"}
 {"executionId":"b6a93658-f056-4a5c-8993-0b695dafe167","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"\r\ndecimal : 110113\r\nEnter your choice : ","doc":3,"seq":268,"ms":87491757,"op":"terminal.output"}
+{"version":135,"changes":[{"offset":78,"length":153,"text":" "}],"doc":1,"seq":269,"ms":87654544,"op":"edit"}
+{"version":136,"changes":[{"offset":109,"length":0,"text":"\n        "}],"doc":1,"seq":270,"ms":87658959,"op":"edit"}
+{"version":137,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":118,"length":0,"text":"cout << \"Base Conversion program\\n\";\n    cout << \"1. Convert Binary to Decimal\\n\";\n    cout << \"2. Convert Decimal to Binary\\n\";\n    cout << \"3. Exit\\n\";"}],"doc":1,"seq":271,"ms":87660864,"op":"edit"}
+{"version":138,"changes":[{"offset":159,"length":0,"text":" "}],"doc":1,"seq":272,"ms":87665546,"op":"edit"}
+{"version":139,"changes":[{"offset":160,"length":0,"text":" "}],"doc":1,"seq":273,"ms":87667930,"op":"edit"}
+{"version":140,"changes":[{"offset":161,"length":0,"text":" "}],"doc":1,"seq":274,"ms":87668362,"op":"edit"}
+{"version":141,"changes":[{"offset":162,"length":0,"text":" "}],"doc":1,"seq":275,"ms":87668748,"op":"edit"}
+{"version":142,"changes":[{"offset":209,"length":0,"text":"    "}],"doc":1,"seq":276,"ms":87671331,"op":"edit"}
