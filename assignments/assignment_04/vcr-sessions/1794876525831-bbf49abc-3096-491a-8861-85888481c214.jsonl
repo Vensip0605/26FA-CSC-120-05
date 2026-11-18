@@ -219,3 +219,23 @@
 {"executionId":"938ed29e-74a6-43dd-a29c-42a81f6582e9","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"0","doc":3,"seq":218,"ms":87155859,"op":"terminal.output"}
 {"executionId":"938ed29e-74a6-43dd-a29c-42a81f6582e9","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"1","doc":3,"seq":219,"ms":87156700,"op":"terminal.output"}
 {"executionId":"938ed29e-74a6-43dd-a29c-42a81f6582e9","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"\r\ndecimal : 110113\r\nProgram finished.\r\nEnter your choice : ","doc":3,"seq":220,"ms":87157424,"op":"terminal.output"}
+{"executionId":"938ed29e-74a6-43dd-a29c-42a81f6582e9","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"1","doc":3,"seq":221,"ms":87275970,"op":"terminal.output"}
+{"executionId":"938ed29e-74a6-43dd-a29c-42a81f6582e9","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"\r\nEnter a binary number: ","doc":3,"seq":222,"ms":87276510,"op":"terminal.output"}
+{"executionId":"938ed29e-74a6-43dd-a29c-42a81f6582e9","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"1","doc":3,"seq":223,"ms":87277436,"op":"terminal.output"}
+{"executionId":"938ed29e-74a6-43dd-a29c-42a81f6582e9","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"2","doc":3,"seq":224,"ms":87277685,"op":"terminal.output"}
+{"executionId":"938ed29e-74a6-43dd-a29c-42a81f6582e9","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"0","doc":3,"seq":225,"ms":87278241,"op":"terminal.output"}
+{"executionId":"938ed29e-74a6-43dd-a29c-42a81f6582e9","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"1","doc":3,"seq":226,"ms":87278717,"op":"terminal.output"}
+{"executionId":"938ed29e-74a6-43dd-a29c-42a81f6582e9","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"\r\nError : Binary numbers can only contain 0s and 1s. \r\nProgram finished.\r\nEnter your choice : ","doc":3,"seq":227,"ms":87279497,"op":"terminal.output"}
+{"version":130,"changes":[{"offset":3917,"length":37,"text":" "}],"doc":1,"seq":228,"ms":87298994,"op":"edit"}
+{"version":131,"changes":[{"offset":3909,"length":9,"text":""}],"doc":1,"seq":229,"ms":87300781,"op":"edit"}
+{"version":132,"changes":[{"offset":3909,"length":1,"text":""}],"doc":1,"seq":230,"ms":87300795,"op":"edit"}
+{"doc":1,"seq":231,"ms":87300806,"op":"save"}
+{"executionId":"938ed29e-74a6-43dd-a29c-42a81f6582e9","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"^C\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":3,"seq":232,"ms":87301537,"op":"terminal.output"}
+{"executionId":"938ed29e-74a6-43dd-a29c-42a81f6582e9","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/assignments/assignment_04/converter","confidence":2,"exitCode":130,"doc":3,"seq":233,"ms":87301537,"op":"terminal.end"}
+{"executionId":"b6a93658-f056-4a5c-8993-0b695dafe167","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/assignments/assignment_04/converter","confidence":2,"doc":3,"seq":234,"ms":87301691,"op":"terminal.start"}
+{"executionId":"b6a93658-f056-4a5c-8993-0b695dafe167","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"\u001b]633;C\u0007","doc":3,"seq":235,"ms":87301742,"op":"terminal.output"}
+{"executionId":"b6a93658-f056-4a5c-8993-0b695dafe167","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"Base Conversion program\r\n1. Convert Binary to Decimal\r\n2. Convert Decimal to Binary\r\n3. Exit\r\nEnter your choice : ","doc":3,"seq":236,"ms":87302040,"op":"terminal.output"}
+{"version":133,"changes":[{"offset":3909,"length":0,"text":"1"}],"doc":1,"seq":237,"ms":87303554,"op":"edit"}
+{"version":134,"changes":[{"offset":3909,"length":1,"text":""}],"doc":1,"seq":238,"ms":87306238,"op":"edit"}
+{"executionId":"b6a93658-f056-4a5c-8993-0b695dafe167","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"1","doc":3,"seq":239,"ms":87307841,"op":"terminal.output"}
+{"executionId":"b6a93658-f056-4a5c-8993-0b695dafe167","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"\r\nEnter a binary number: ","doc":3,"seq":240,"ms":87308576,"op":"terminal.output"}
