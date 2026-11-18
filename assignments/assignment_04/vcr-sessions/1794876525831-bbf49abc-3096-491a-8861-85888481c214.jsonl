@@ -562,3 +562,52 @@
 {"version":380,"changes":[{"offset":1265,"length":0,"text":" "}],"doc":1,"seq":561,"ms":90241854,"op":"edit"}
 {"version":381,"changes":[{"offset":1266,"length":0,"text":"e"}],"doc":1,"seq":562,"ms":90245021,"op":"edit"}
 {"version":382,"changes":[{"offset":1267,"length":0,"text":"l"}],"doc":1,"seq":563,"ms":90246276,"op":"edit"}
+{"version":383,"changes":[{"offset":1268,"length":0,"text":"s"}],"doc":1,"seq":564,"ms":90258669,"op":"edit"}
+{"version":384,"changes":[{"offset":1269,"length":0,"text":"e"}],"doc":1,"seq":565,"ms":90258905,"op":"edit"}
+{"version":385,"changes":[{"offset":1270,"length":0,"text":" "}],"doc":1,"seq":566,"ms":90259627,"op":"edit"}
+{"version":386,"changes":[{"offset":1271,"length":0,"text":"\n            "}],"doc":1,"seq":567,"ms":90261286,"op":"edit"}
+{"version":387,"changes":[{"offset":1280,"length":4,"text":""}],"doc":1,"seq":568,"ms":90263368,"op":"edit"}
+{"version":388,"changes":[{"offset":1276,"length":4,"text":""}],"doc":1,"seq":569,"ms":90263774,"op":"edit"}
+{"version":389,"changes":[{"offset":1272,"length":4,"text":""}],"doc":1,"seq":570,"ms":90264132,"op":"edit"}
+{"version":390,"changes":[{"offset":1271,"length":1,"text":""}],"doc":1,"seq":571,"ms":90264530,"op":"edit"}
+{"version":391,"changes":[{"offset":1271,"length":0,"text":"{}"}],"doc":1,"seq":572,"ms":90266237,"op":"edit"}
+{"version":392,"changes":[{"offset":1272,"length":0,"text":"\n                \n            "}],"doc":1,"seq":573,"ms":90266855,"op":"edit"}
+{"version":393,"changes":[{"offset":1289,"length":0,"text":"s"}],"doc":1,"seq":574,"ms":90274535,"op":"edit"}
+{"version":394,"changes":[{"offset":1290,"length":0,"text":"t"}],"doc":1,"seq":575,"ms":90275054,"op":"edit"}
+{"version":395,"changes":[{"offset":1291,"length":0,"text":"r"}],"doc":1,"seq":576,"ms":90275386,"op":"edit"}
+{"version":396,"changes":[{"offset":1292,"length":0,"text":"i"}],"doc":1,"seq":577,"ms":90275939,"op":"edit"}
+{"version":397,"changes":[{"offset":1293,"length":0,"text":"n"}],"doc":1,"seq":578,"ms":90276381,"op":"edit"}
+{"version":398,"changes":[{"offset":1294,"length":0,"text":"g"}],"doc":1,"seq":579,"ms":90276908,"op":"edit"}
+{"version":399,"changes":[{"offset":1295,"length":0,"text":" "}],"doc":1,"seq":580,"ms":90277929,"op":"edit"}
+{"version":400,"changes":[{"offset":1296,"length":0,"text":"b"}],"doc":1,"seq":581,"ms":90279280,"op":"edit"}
+{"text":"#include <iostream>\n#include <string>\nusing namespace std;\n\nint main()\n{\n\n    int choice;\n    do\n    {\n        cout << \"Base Conversion program\\n\";\n        cout << \"1. Convert Binary to Decimal\\n\";\n        cout << \"2. Convert Decimal to Binary\\n\";\n        cout << \"3. Exit\\n\";\n        cout << \"Enter your choice : \";\n        cin >> choice;\n        if (choice == 1)\n        {\n            string binary;\n            cout << \"Enter a binary number: \";\n            cin >> binary;\n            if (binary.find_first_not_of(\"01\") != string::npos)\n            {\n                cout << \"Error : \" << binary << \" is not a valid binary number. \" << endl;\n            }\n            else\n            {\n                int decimal = 0;\n                for (int i = 0; i < binary.length(); i++)\n                {\n                    decimal = decimal * 2 + (binary[i] - '0');\n                }\n                cout << \"Decimal : \" << decimal << endl;\n            }\n        }\n        else if (choice == 2)\n        {\n            int decimal;\n            cout << \"Enter a decimal number (0-15): \";\n            cin >> decimal;\n\n            if (decimal < 0 || decimal > 15)\n            {\n                cout << \"Error: Decimal number must be between 0 and 15.\" << endl;\n            } else {\n                string bi\n            }\n\n            cout << \"Binary: \" << binary << endl;\n        }\n\n        else if (choice == 3)\n        {\n            cout << \"Goodbye!\" << endl;\n        }\n\n        else\n        {\n            cout << \"Error: Invalid menu choice.\" << endl;\n        }\n    } while (choice != 3);\n    return 0;\n}\n","version":401,"snapshot":true,"doc":1,"seq":582,"ms":90279799,"op":"edit"}
+{"version":402,"changes":[{"offset":1298,"length":0,"text":"n"}],"doc":1,"seq":583,"ms":90280150,"op":"edit"}
+{"version":403,"changes":[{"offset":1299,"length":0,"text":"a"}],"doc":1,"seq":584,"ms":90281198,"op":"edit"}
+{"version":404,"changes":[{"offset":1300,"length":0,"text":"r"}],"doc":1,"seq":585,"ms":90281718,"op":"edit"}
+{"version":405,"changes":[{"offset":1301,"length":0,"text":"y"}],"doc":1,"seq":586,"ms":90282166,"op":"edit"}
+{"version":406,"changes":[{"offset":1302,"length":0,"text":" "}],"doc":1,"seq":587,"ms":90283592,"op":"edit"}
+{"version":407,"changes":[{"offset":1303,"length":0,"text":"="}],"doc":1,"seq":588,"ms":90285030,"op":"edit"}
+{"version":408,"changes":[{"offset":1304,"length":0,"text":" "}],"doc":1,"seq":589,"ms":90286130,"op":"edit"}
+{"version":409,"changes":[{"offset":1305,"length":0,"text":"\"\""}],"doc":1,"seq":590,"ms":90288326,"op":"edit"}
+{"version":410,"changes":[{"offset":1306,"length":0,"text":" "}],"doc":1,"seq":591,"ms":90289481,"op":"edit"}
+{"version":411,"changes":[{"offset":1308,"length":0,"text":";"}],"doc":1,"seq":592,"ms":90293054,"op":"edit"}
+{"version":412,"changes":[{"offset":1309,"length":0,"text":"\n                "}],"doc":1,"seq":593,"ms":90298123,"op":"edit"}
+{"version":413,"changes":[{"offset":1326,"length":0,"text":"i"}],"doc":1,"seq":594,"ms":90299149,"op":"edit"}
+{"version":414,"changes":[{"offset":1327,"length":0,"text":"n"}],"doc":1,"seq":595,"ms":90299584,"op":"edit"}
+{"version":415,"changes":[{"offset":1328,"length":0,"text":"t"}],"doc":1,"seq":596,"ms":90299999,"op":"edit"}
+{"version":416,"changes":[{"offset":1329,"length":0,"text":" "}],"doc":1,"seq":597,"ms":90300783,"op":"edit"}
+{"version":417,"changes":[{"offset":1330,"length":0,"text":"t"}],"doc":1,"seq":598,"ms":90301336,"op":"edit"}
+{"version":418,"changes":[{"offset":1331,"length":0,"text":"e"}],"doc":1,"seq":599,"ms":90301937,"op":"edit"}
+{"version":419,"changes":[{"offset":1332,"length":0,"text":"m"}],"doc":1,"seq":600,"ms":90302666,"op":"edit"}
+{"version":420,"changes":[{"offset":1333,"length":0,"text":"p"}],"doc":1,"seq":601,"ms":90303524,"op":"edit"}
+{"version":421,"changes":[{"offset":1334,"length":0,"text":" "}],"doc":1,"seq":602,"ms":90304561,"op":"edit"}
+{"version":422,"changes":[{"offset":1335,"length":0,"text":"="}],"doc":1,"seq":603,"ms":90305418,"op":"edit"}
+{"version":423,"changes":[{"offset":1336,"length":0,"text":" "}],"doc":1,"seq":604,"ms":90306417,"op":"edit"}
+{"version":424,"changes":[{"offset":1337,"length":0,"text":"d"}],"doc":1,"seq":605,"ms":90307051,"op":"edit"}
+{"version":425,"changes":[{"offset":1338,"length":0,"text":"e"}],"doc":1,"seq":606,"ms":90307342,"op":"edit"}
+{"version":426,"changes":[{"offset":1339,"length":0,"text":"c"}],"doc":1,"seq":607,"ms":90308580,"op":"edit"}
+{"version":427,"changes":[{"offset":1340,"length":0,"text":"i"}],"doc":1,"seq":608,"ms":90309287,"op":"edit"}
+{"version":428,"changes":[{"offset":1341,"length":0,"text":"m"}],"doc":1,"seq":609,"ms":90309667,"op":"edit"}
+{"version":429,"changes":[{"offset":1342,"length":0,"text":"a"}],"doc":1,"seq":610,"ms":90310237,"op":"edit"}
+{"version":430,"changes":[{"offset":1343,"length":0,"text":"l"}],"doc":1,"seq":611,"ms":90310999,"op":"edit"}
+{"version":431,"changes":[{"offset":1344,"length":0,"text":";"}],"doc":1,"seq":612,"ms":90313355,"op":"edit"}
