@@ -452,3 +452,46 @@
 {"version":293,"changes":[{"offset":611,"length":0,"text":" "}],"doc":1,"seq":451,"ms":89297836,"op":"edit"}
 {"version":294,"changes":[{"offset":612,"length":0,"text":"v"}],"doc":1,"seq":452,"ms":89298550,"op":"edit"}
 {"version":295,"changes":[{"offset":613,"length":0,"text":"a"}],"doc":1,"seq":453,"ms":89298980,"op":"edit"}
+{"version":296,"changes":[{"offset":614,"length":0,"text":"l"}],"doc":1,"seq":454,"ms":89299675,"op":"edit"}
+{"version":297,"changes":[{"offset":615,"length":0,"text":"i"}],"doc":1,"seq":455,"ms":89299941,"op":"edit"}
+{"version":298,"changes":[{"offset":616,"length":0,"text":"d"}],"doc":1,"seq":456,"ms":89300432,"op":"edit"}
+{"version":299,"changes":[{"offset":617,"length":0,"text":" "}],"doc":1,"seq":457,"ms":89301104,"op":"edit"}
+{"version":300,"changes":[{"offset":618,"length":0,"text":"b"}],"doc":1,"seq":458,"ms":89306495,"op":"edit"}
+{"text":"#include <iostream>\n#include <string>\nusing namespace std;\n\nint main()\n{\n\n    int choice;\n    do\n    {\n        cout << \"Base Conversion program\\n\";\n        cout << \"1. Convert Binary to Decimal\\n\";\n        cout << \"2. Convert Decimal to Binary\\n\";\n        cout << \"3. Exit\\n\";\n        cout << \"Enter your choice : \";\n        cin >> choice;\n        if (choice == 1)\n        {\n            string binary;\n            cout << \"Enter a binary number: \";\n            cin >> binary;\n            if (binary.find_first_not_of(\"01\") != string::npos)\n            {\n                cout << \"Error : \" << Binary << \"is not a valid binumbers can only contain 0s and 1s. \" << endl;\n            }\n            else\n            {\n                int decimal = 0;\n                for (int i = 0; i < binary.length(); i++)\n                {\n                    decimal = decimal * 2 + (binary[i] - '0');\n                }\n                cout << \"Decimal : \" << decimal << endl;\n            }\n        }\n        else if (choice == 2)\n        {\n            int decimal;\n            cout << \"Enter a decimal number (0-15): \";\n            cin >> decimal;\n\n            if (decimal < 0 || decimal > 15)\n            {\n                cout << \"Error: Decimal number must be between 0 and 15.\" << endl;\n            }\n            else\n            {\n                string binary;\n\n                if (decimal == 0)\n                    binary = \"0000\";\n                else if (decimal == 1)\n                    binary = \"0001\";\n                else if (decimal == 2)\n                    binary = \"0010\";\n                else if (decimal == 3)\n                    binary = \"0011\";\n                else if (decimal == 4)\n                    binary = \"0100\";\n                else if (decimal == 5)\n                    binary = \"0101\";\n                else if (decimal == 6)\n                    binary = \"0110\";\n                else if (decimal == 7)\n                    binary = \"0111\";\n                else if (decimal == 8)\n                    binary = \"1000\";\n                else if (decimal == 9)\n                    binary = \"1001\";\n                else if (decimal == 10)\n                    binary = \"1010\";\n                else if (decimal == 11)\n                    binary = \"1011\";\n                else if (decimal == 12)\n                    binary = \"1100\";\n                else if (decimal == 13)\n                    binary = \"1101\";\n                else if (decimal == 14)\n                    binary = \"1110\";\n                else\n                    binary = \"1111\";\n\n                cout << \"binary: \"\n                     << decimal << binary << endl;\n            }\n        }\n\n        else if (choice == 3)\n        {\n            cout << \"Goodbye!\" << endl;\n        }\n\n        else\n        {\n            cout << \"Error: Invalid menu choice.\" << endl;\n        }\n\n    } while (choice != 3);\n    return 0;\n}\n","version":301,"snapshot":true,"doc":1,"seq":459,"ms":89308685,"op":"edit"}
+{"version":302,"changes":[{"offset":620,"length":0,"text":"n"}],"doc":1,"seq":460,"ms":89309890,"op":"edit"}
+{"version":303,"changes":[{"offset":621,"length":0,"text":"a"}],"doc":1,"seq":461,"ms":89310391,"op":"edit"}
+{"version":304,"changes":[{"offset":622,"length":0,"text":"r"}],"doc":1,"seq":462,"ms":89310931,"op":"edit"}
+{"version":305,"changes":[{"offset":623,"length":0,"text":"y"}],"doc":1,"seq":463,"ms":89311349,"op":"edit"}
+{"version":306,"changes":[{"offset":624,"length":0,"text":" "}],"doc":1,"seq":464,"ms":89315078,"op":"edit"}
+{"version":307,"changes":[{"offset":632,"length":1,"text":""}],"doc":1,"seq":465,"ms":89318841,"op":"edit"}
+{"version":308,"changes":[{"offset":631,"length":1,"text":""}],"doc":1,"seq":466,"ms":89319468,"op":"edit"}
+{"version":309,"changes":[{"offset":631,"length":0,"text":"."}],"doc":1,"seq":467,"ms":89321492,"op":"edit"}
+{"version":310,"changes":[{"offset":632,"length":0,"text":" "}],"doc":1,"seq":468,"ms":89322514,"op":"edit"}
+{"version":311,"changes":[{"offset":659,"length":1,"text":""}],"doc":1,"seq":469,"ms":89329267,"op":"edit"}
+{"version":312,"changes":[{"offset":658,"length":1,"text":""}],"doc":1,"seq":470,"ms":89329769,"op":"edit"}
+{"version":313,"changes":[{"offset":657,"length":1,"text":""}],"doc":1,"seq":471,"ms":89329849,"op":"edit"}
+{"version":314,"changes":[{"offset":656,"length":1,"text":""}],"doc":1,"seq":472,"ms":89329933,"op":"edit"}
+{"version":315,"changes":[{"offset":655,"length":1,"text":""}],"doc":1,"seq":473,"ms":89330017,"op":"edit"}
+{"version":316,"changes":[{"offset":654,"length":1,"text":""}],"doc":1,"seq":474,"ms":89330102,"op":"edit"}
+{"version":317,"changes":[{"offset":653,"length":1,"text":""}],"doc":1,"seq":475,"ms":89330186,"op":"edit"}
+{"version":318,"changes":[{"offset":652,"length":1,"text":""}],"doc":1,"seq":476,"ms":89330270,"op":"edit"}
+{"version":319,"changes":[{"offset":651,"length":1,"text":""}],"doc":1,"seq":477,"ms":89330353,"op":"edit"}
+{"version":320,"changes":[{"offset":650,"length":1,"text":""}],"doc":1,"seq":478,"ms":89330437,"op":"edit"}
+{"version":321,"changes":[{"offset":649,"length":1,"text":""}],"doc":1,"seq":479,"ms":89330520,"op":"edit"}
+{"version":322,"changes":[{"offset":648,"length":1,"text":""}],"doc":1,"seq":480,"ms":89330603,"op":"edit"}
+{"version":323,"changes":[{"offset":647,"length":1,"text":""}],"doc":1,"seq":481,"ms":89330687,"op":"edit"}
+{"version":324,"changes":[{"offset":646,"length":1,"text":""}],"doc":1,"seq":482,"ms":89330770,"op":"edit"}
+{"version":325,"changes":[{"offset":645,"length":1,"text":""}],"doc":1,"seq":483,"ms":89330853,"op":"edit"}
+{"version":326,"changes":[{"offset":644,"length":1,"text":""}],"doc":1,"seq":484,"ms":89330937,"op":"edit"}
+{"version":327,"changes":[{"offset":643,"length":1,"text":""}],"doc":1,"seq":485,"ms":89331020,"op":"edit"}
+{"version":328,"changes":[{"offset":642,"length":1,"text":""}],"doc":1,"seq":486,"ms":89331104,"op":"edit"}
+{"version":329,"changes":[{"offset":641,"length":1,"text":""}],"doc":1,"seq":487,"ms":89331187,"op":"edit"}
+{"version":330,"changes":[{"offset":640,"length":1,"text":""}],"doc":1,"seq":488,"ms":89331270,"op":"edit"}
+{"version":331,"changes":[{"offset":639,"length":1,"text":""}],"doc":1,"seq":489,"ms":89331525,"op":"edit"}
+{"version":332,"changes":[{"offset":638,"length":1,"text":""}],"doc":1,"seq":490,"ms":89331808,"op":"edit"}
+{"version":333,"changes":[{"offset":637,"length":1,"text":""}],"doc":1,"seq":491,"ms":89332008,"op":"edit"}
+{"version":334,"changes":[{"offset":636,"length":1,"text":""}],"doc":1,"seq":492,"ms":89332174,"op":"edit"}
+{"version":335,"changes":[{"offset":635,"length":1,"text":""}],"doc":1,"seq":493,"ms":89332343,"op":"edit"}
+{"version":336,"changes":[{"offset":634,"length":1,"text":""}],"doc":1,"seq":494,"ms":89332691,"op":"edit"}
+{"version":337,"changes":[{"offset":633,"length":1,"text":""}],"doc":1,"seq":495,"ms":89332942,"op":"edit"}
+{"version":338,"changes":[{"offset":632,"length":1,"text":""}],"doc":1,"seq":496,"ms":89333977,"op":"edit"}
