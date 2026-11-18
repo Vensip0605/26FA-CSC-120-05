@@ -428,3 +428,7 @@
 {"executionId":"ec901240-c201-4239-ae59-c41e2594a81d","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"0","doc":3,"seq":427,"ms":88964590,"op":"terminal.output"}
 {"executionId":"ec901240-c201-4239-ae59-c41e2594a81d","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"1","doc":3,"seq":428,"ms":88965193,"op":"terminal.output"}
 {"executionId":"ec901240-c201-4239-ae59-c41e2594a81d","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"\r\nError : Binary numbers can only contain 0s and 1s. \r\nBase Conversion program\r\n1. Convert Binary to Decimal\r\n2. Convert Decimal to Binary\r\n3. Exit\r\nEnter your choice : ","doc":3,"seq":429,"ms":88965780,"op":"terminal.output"}
+{"version":272,"changes":[{"offset":713,"length":0,"text":"="}],"doc":1,"seq":430,"ms":89021175,"op":"edit"}
+{"version":273,"changes":[{"offset":714,"length":0,"text":" "}],"doc":1,"seq":431,"ms":89022817,"op":"edit"}
+{"version":274,"changes":[{"offset":715,"length":0,"text":"0"}],"doc":1,"seq":432,"ms":89023562,"op":"edit"}
+{"version":275,"changes":[{"offset":713,"length":0,"text":" "}],"doc":1,"seq":433,"ms":89025743,"op":"edit"}
