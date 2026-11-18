@@ -141,3 +141,8 @@
 {"executionId":"a19c975e-5502-4329-9dcd-6d246a767dcc","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"0","doc":3,"seq":140,"ms":86890275,"op":"terminal.output"}
 {"executionId":"a19c975e-5502-4329-9dcd-6d246a767dcc","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"1","doc":3,"seq":141,"ms":86890836,"op":"terminal.output"}
 {"executionId":"a19c975e-5502-4329-9dcd-6d246a767dcc","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"\r\nError : Binary numbers can only contain 0s and 1s. \r\nProgram finished.\r\nEnter your choice (1-3): ","doc":3,"seq":142,"ms":86891682,"op":"terminal.output"}
+{"version":72,"changes":[{"offset":301,"length":1,"text":""}],"doc":1,"seq":143,"ms":87011095,"op":"edit"}
+{"version":73,"changes":[{"offset":300,"length":1,"text":""}],"doc":1,"seq":144,"ms":87011295,"op":"edit"}
+{"version":74,"changes":[{"offset":299,"length":1,"text":""}],"doc":1,"seq":145,"ms":87011473,"op":"edit"}
+{"version":75,"changes":[{"offset":298,"length":1,"text":""}],"doc":1,"seq":146,"ms":87011659,"op":"edit"}
+{"version":76,"changes":[{"offset":297,"length":1,"text":""}],"doc":1,"seq":147,"ms":87011983,"op":"edit"}
