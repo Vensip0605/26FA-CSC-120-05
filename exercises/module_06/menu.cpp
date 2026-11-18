@@ -8,6 +8,7 @@ void showmenu()
     cout << "1. Add two numbers\n";
     cout << "2. subtract two numbers\n";
     cout << "3. multiply two numbers\n";
+    cout << "4. divide two numbers\n";
 }
 void addnumbers(int num1, int num2)
 {
@@ -19,7 +20,18 @@ void subtractnumbers(int num1, int num2)
 }
 void multiplynumbers(int num1, int num2)
 {
-    cout << "The multipl of " << num1 << "and" << num2 << "is" << (num1 * num2) << "\n ";
+    cout << "The produt of " << num1 << "and" << num2 << "is" << (num1 * num2) << "\n ";
+}
+void dividenumbers(int num1, int num2)
+{
+    if (num2 == 0)
+    {
+        cout << "cannot divide by zero!\n";
+    }
+    else
+    {
+        cout << "The division of" << num1 << "by" << num2 << "is " << (num1 / num2) << "\n";
+    }
 }
 
 int main()
@@ -36,7 +48,6 @@ int main()
             int num1, num2;
             cout << "Enter two numbers with space in between: ";
             cin >> num1 >> num2;
-
             if (choice == 1)
             {
                 addnumbers(num1, num2);
@@ -49,6 +60,7 @@ int main()
             {
                 multiplynumbers(num1, num2);
             }
+            switch (choice)
         }
         else if (choice != 0)
         {

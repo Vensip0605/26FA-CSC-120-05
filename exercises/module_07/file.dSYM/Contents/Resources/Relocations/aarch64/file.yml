@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_07/file'
+relocations:
+  - { offset: 0x2756, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0xF6C1, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0x2869, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_file.cpp, symObjAddr: 0x164, symBinAddr: 0x100000804, symSize: 0x14 }
+  - { offset: 0x2880, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x128, symBinAddr: 0x1000007C8, symSize: 0x3C }
+  - { offset: 0x28A4, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x1000006E8, symSize: 0xE0 }
+...
