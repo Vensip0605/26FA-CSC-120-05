@@ -519,3 +519,36 @@
 {"executionId":"9d189af7-fbbd-45dc-8f91-eea536fb7074","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"0","doc":3,"seq":518,"ms":89809526,"op":"terminal.output"}
 {"executionId":"9d189af7-fbbd-45dc-8f91-eea536fb7074","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"1","doc":3,"seq":519,"ms":89810292,"op":"terminal.output"}
 {"executionId":"9d189af7-fbbd-45dc-8f91-eea536fb7074","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"\r\nDecimal : 13\r\nBase Conversion program\r\n1. Convert Binary to Decimal\r\n2. Convert Decimal to Binary\r\n3. Exit\r\nEnter your choice : ","doc":3,"seq":520,"ms":89811285,"op":"terminal.output"}
+{"version":342,"changes":[{"offset":1278,"length":882,"text":" "}],"doc":1,"seq":521,"ms":89903126,"op":"edit"}
+{"version":343,"changes":[{"offset":1295,"length":350,"text":" "}],"doc":1,"seq":522,"ms":89909035,"op":"edit"}
+{"version":344,"changes":[{"offset":1292,"length":4,"text":""}],"doc":1,"seq":523,"ms":89910842,"op":"edit"}
+{"version":345,"changes":[{"offset":1288,"length":4,"text":""}],"doc":1,"seq":524,"ms":89911263,"op":"edit"}
+{"version":346,"changes":[{"offset":1284,"length":4,"text":""}],"doc":1,"seq":525,"ms":89911586,"op":"edit"}
+{"version":347,"changes":[{"offset":1280,"length":4,"text":""}],"doc":1,"seq":526,"ms":89911945,"op":"edit"}
+{"version":348,"changes":[{"offset":1279,"length":1,"text":""}],"doc":1,"seq":527,"ms":89912331,"op":"edit"}
+{"version":349,"changes":[{"offset":1278,"length":1,"text":""}],"doc":1,"seq":528,"ms":89912831,"op":"edit"}
+{"version":350,"changes":[{"offset":1274,"length":4,"text":""}],"doc":1,"seq":529,"ms":89913262,"op":"edit"}
+{"version":351,"changes":[{"offset":1270,"length":4,"text":""}],"doc":1,"seq":530,"ms":89913601,"op":"edit"}
+{"version":352,"changes":[{"offset":1266,"length":4,"text":""}],"doc":1,"seq":531,"ms":89913976,"op":"edit"}
+{"version":353,"changes":[{"offset":1265,"length":1,"text":""}],"doc":1,"seq":532,"ms":89914419,"op":"edit"}
+{"version":354,"changes":[{"offset":1333,"length":1,"text":""}],"doc":1,"seq":533,"ms":89926954,"op":"edit"}
+{"version":355,"changes":[{"offset":1332,"length":1,"text":""}],"doc":1,"seq":534,"ms":89927456,"op":"edit"}
+{"version":356,"changes":[{"offset":1331,"length":1,"text":""}],"doc":1,"seq":535,"ms":89927538,"op":"edit"}
+{"version":357,"changes":[{"offset":1330,"length":1,"text":""}],"doc":1,"seq":536,"ms":89927620,"op":"edit"}
+{"version":358,"changes":[{"offset":1329,"length":1,"text":""}],"doc":1,"seq":537,"ms":89927704,"op":"edit"}
+{"version":359,"changes":[{"offset":1328,"length":1,"text":""}],"doc":1,"seq":538,"ms":89927787,"op":"edit"}
+{"version":360,"changes":[{"offset":1327,"length":1,"text":""}],"doc":1,"seq":539,"ms":89927873,"op":"edit"}
+{"version":361,"changes":[{"offset":1326,"length":1,"text":""}],"doc":1,"seq":540,"ms":89927956,"op":"edit"}
+{"version":362,"changes":[{"offset":1325,"length":1,"text":""}],"doc":1,"seq":541,"ms":89928040,"op":"edit"}
+{"version":363,"changes":[{"offset":1324,"length":1,"text":""}],"doc":1,"seq":542,"ms":89928124,"op":"edit"}
+{"version":364,"changes":[{"offset":1323,"length":1,"text":""}],"doc":1,"seq":543,"ms":89928207,"op":"edit"}
+{"version":365,"changes":[{"offset":1322,"length":1,"text":""}],"doc":1,"seq":544,"ms":89928290,"op":"edit"}
+{"version":366,"changes":[{"offset":1318,"length":4,"text":""}],"doc":1,"seq":545,"ms":89928374,"op":"edit"}
+{"version":367,"changes":[{"offset":1314,"length":4,"text":""}],"doc":1,"seq":546,"ms":89928457,"op":"edit"}
+{"version":368,"changes":[{"offset":1310,"length":4,"text":""}],"doc":1,"seq":547,"ms":89928541,"op":"edit"}
+{"version":369,"changes":[{"offset":1306,"length":4,"text":""}],"doc":1,"seq":548,"ms":89928624,"op":"edit"}
+{"version":370,"changes":[{"offset":1302,"length":4,"text":""}],"doc":1,"seq":549,"ms":89929068,"op":"edit"}
+{"version":371,"changes":[{"offset":1301,"length":1,"text":""}],"doc":1,"seq":550,"ms":89929440,"op":"edit"}
+{"version":372,"changes":[{"offset":1301,"length":0,"text":" "}],"doc":1,"seq":551,"ms":89930729,"op":"edit"}
+{"version":373,"changes":[{"offset":1292,"length":1,"text":""}],"doc":1,"seq":552,"ms":89952653,"op":"edit"}
+{"version":374,"changes":[{"offset":1292,"length":0,"text":"B"}],"doc":1,"seq":553,"ms":89955440,"op":"edit"}
