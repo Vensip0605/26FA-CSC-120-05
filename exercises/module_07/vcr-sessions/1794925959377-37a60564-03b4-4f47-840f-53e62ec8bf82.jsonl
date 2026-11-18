@@ -603,3 +603,8 @@
 {"executionId":"8bc8ac2a-9cec-427b-8277-f3bb3be4a686","terminalId":"2cb3e456-656e-4625-a83a-2d22f9eb5bb0","data":"\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                \r \r","doc":1,"seq":602,"ms":3822414,"op":"terminal.output"}
 {"executionId":"8bc8ac2a-9cec-427b-8277-f3bb3be4a686","terminalId":"2cb3e456-656e-4625-a83a-2d22f9eb5bb0","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/exercises/module_07/multi","confidence":2,"exitCode":0,"doc":1,"seq":603,"ms":3822414,"op":"terminal.end"}
 {"doc":7,"seq":604,"ms":4081049,"op":"close"}
+{"doc":2,"seq":605,"ms":37354556,"op":"close"}
+{"doc":5,"seq":606,"ms":37355572,"op":"close"}
+{"doc":6,"seq":607,"ms":37361992,"op":"save"}
+{"doc":6,"seq":608,"ms":37362004,"op":"close"}
+{"doc":3,"seq":609,"ms":37367932,"op":"close"}
