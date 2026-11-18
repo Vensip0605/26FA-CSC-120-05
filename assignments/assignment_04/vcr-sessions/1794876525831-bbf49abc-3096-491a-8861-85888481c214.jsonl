@@ -719,3 +719,43 @@
 {"version":537,"changes":[{"offset":1535,"length":0,"text":"="}],"doc":1,"seq":718,"ms":90493083,"op":"edit"}
 {"version":538,"changes":[{"offset":1536,"length":0,"text":" "}],"doc":1,"seq":719,"ms":90493724,"op":"edit"}
 {"version":539,"changes":[{"offset":1537,"length":0,"text":"0"}],"doc":1,"seq":720,"ms":90494630,"op":"edit"}
+{"version":540,"changes":[{"offset":1539,"length":0,"text":"\n                "}],"doc":1,"seq":721,"ms":90500571,"op":"edit"}
+{"version":541,"changes":[{"offset":1556,"length":0,"text":"\n                "},{"offset":1540,"length":16,"text":""}],"doc":1,"seq":722,"ms":90502107,"op":"edit"}
+{"version":542,"changes":[{"offset":1557,"length":0,"text":"\n                "},{"offset":1541,"length":16,"text":""}],"doc":1,"seq":723,"ms":90502609,"op":"edit"}
+{"version":543,"changes":[{"offset":1554,"length":4,"text":""}],"doc":1,"seq":724,"ms":90503243,"op":"edit"}
+{"version":544,"changes":[{"offset":1550,"length":4,"text":""}],"doc":1,"seq":725,"ms":90503577,"op":"edit"}
+{"version":545,"changes":[{"offset":1546,"length":4,"text":""}],"doc":1,"seq":726,"ms":90503924,"op":"edit"}
+{"version":546,"changes":[{"offset":1542,"length":4,"text":""}],"doc":1,"seq":727,"ms":90504214,"op":"edit"}
+{"version":547,"changes":[{"offset":1541,"length":1,"text":""}],"doc":1,"seq":728,"ms":90504462,"op":"edit"}
+{"version":548,"changes":[{"offset":1540,"length":1,"text":""}],"doc":1,"seq":729,"ms":90504687,"op":"edit"}
+{"version":549,"changes":[{"offset":1539,"length":1,"text":""}],"doc":1,"seq":730,"ms":90505437,"op":"edit"}
+{"version":550,"changes":[{"offset":1539,"length":0,"text":"{}"}],"doc":1,"seq":731,"ms":90507442,"op":"edit"}
+{"version":551,"changes":[{"offset":1540,"length":0,"text":"\n                    \n                "}],"doc":1,"seq":732,"ms":90507981,"op":"edit"}
+{"version":552,"changes":[{"offset":1561,"length":0,"text":"b"}],"doc":1,"seq":733,"ms":90509985,"op":"edit"}
+{"version":553,"changes":[{"offset":1562,"length":0,"text":"i"}],"doc":1,"seq":734,"ms":90510436,"op":"edit"}
+{"version":554,"changes":[{"offset":1563,"length":0,"text":"n"}],"doc":1,"seq":735,"ms":90511183,"op":"edit"}
+{"version":555,"changes":[{"offset":1564,"length":0,"text":"a"}],"doc":1,"seq":736,"ms":90511979,"op":"edit"}
+{"version":556,"changes":[{"offset":1565,"length":0,"text":"r"}],"doc":1,"seq":737,"ms":90512443,"op":"edit"}
+{"version":557,"changes":[{"offset":1566,"length":0,"text":"y"}],"doc":1,"seq":738,"ms":90512842,"op":"edit"}
+{"version":558,"changes":[{"offset":1567,"length":0,"text":" "}],"doc":1,"seq":739,"ms":90513625,"op":"edit"}
+{"version":559,"changes":[{"offset":1568,"length":0,"text":"="}],"doc":1,"seq":740,"ms":90515061,"op":"edit"}
+{"version":560,"changes":[{"offset":1569,"length":0,"text":" "}],"doc":1,"seq":741,"ms":90517064,"op":"edit"}
+{"version":561,"changes":[{"offset":1570,"length":0,"text":"\"\""}],"doc":1,"seq":742,"ms":90519646,"op":"edit"}
+{"version":562,"changes":[{"offset":1571,"length":0,"text":"0"}],"doc":1,"seq":743,"ms":90521114,"op":"edit"}
+{"version":563,"changes":[{"offset":1573,"length":0,"text":";"}],"doc":1,"seq":744,"ms":90524126,"op":"edit"}
+{"version":564,"changes":[{"offset":1605,"length":1,"text":""}],"doc":1,"seq":745,"ms":90530057,"op":"edit"}
+{"version":565,"changes":[{"offset":1601,"length":4,"text":""}],"doc":1,"seq":746,"ms":90531124,"op":"edit"}
+{"version":566,"changes":[{"offset":1597,"length":4,"text":""}],"doc":1,"seq":747,"ms":90531632,"op":"edit"}
+{"version":567,"changes":[{"offset":1593,"length":4,"text":""}],"doc":1,"seq":748,"ms":90532265,"op":"edit"}
+{"version":568,"changes":[{"offset":1592,"length":1,"text":""}],"doc":1,"seq":749,"ms":90532737,"op":"edit"}
+{"version":569,"changes":[{"offset":1653,"length":0,"text":"\n        "}],"doc":1,"seq":750,"ms":90536618,"op":"edit"}
+{"version":570,"changes":[{"offset":1654,"length":8,"text":"    }"}],"doc":1,"seq":751,"ms":90540103,"op":"edit"}
+{"version":571,"changes":[{"offset":1654,"length":0,"text":"    "},{"offset":1644,"length":0,"text":"    "},{"offset":1594,"length":0,"text":"    "},{"offset":1539,"length":0,"text":"\n                "},{"offset":1485,"length":1,"text":""},{"offset":1484,"length":0,"text":" "},{"offset":1471,"length":0,"text":"    "},{"offset":1445,"length":0,"text":" "},{"offset":1271,"length":0,"text":"           "},{"offset":1270,"length":0,"text":"\n"},{"offset":1266,"length":0,"text":"           "},{"offset":1265,"length":0,"text":"\n"}],"doc":1,"seq":752,"ms":90549412,"op":"edit"}
+{"doc":1,"seq":753,"ms":90549430,"op":"save"}
+{"executionId":"9d189af7-fbbd-45dc-8f91-eea536fb7074","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"^C\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                         \r \r","doc":3,"seq":754,"ms":90550206,"op":"terminal.output"}
+{"executionId":"9d189af7-fbbd-45dc-8f91-eea536fb7074","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/assignments/assignment_04/converter","confidence":2,"exitCode":130,"doc":3,"seq":755,"ms":90550206,"op":"terminal.end"}
+{"executionId":"3d4976f4-b97b-42aa-a2bd-3505d1ae8967","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","commandLine":"/Users/shauryapatel/courses/26FA-CSC-120-05/assignments/assignment_04/converter","confidence":2,"doc":3,"seq":756,"ms":90550362,"op":"terminal.start"}
+{"executionId":"3d4976f4-b97b-42aa-a2bd-3505d1ae8967","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"\u001b]633;C\u0007","doc":3,"seq":757,"ms":90550413,"op":"terminal.output"}
+{"executionId":"3d4976f4-b97b-42aa-a2bd-3505d1ae8967","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"Base Conversion program\r\n1. Convert Binary to Decimal\r\n2. Convert Decimal to Binary\r\n3. Exit\r\nEnter your choice : ","doc":3,"seq":758,"ms":90550881,"op":"terminal.output"}
+{"executionId":"3d4976f4-b97b-42aa-a2bd-3505d1ae8967","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"2","doc":3,"seq":759,"ms":90553890,"op":"terminal.output"}
+{"executionId":"3d4976f4-b97b-42aa-a2bd-3505d1ae8967","terminalId":"c618185d-c527-4781-9e3a-8c59efa9e1aa","data":"\r\nEnter a decimal number (0-15): ","doc":3,"seq":760,"ms":90554801,"op":"terminal.output"}
